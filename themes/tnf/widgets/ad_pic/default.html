@@ -1,0 +1,7 @@
+<style>
+  .ad-pic a{display:block; width:<{$data.ad_pic_width}>; height:<{$data.ad_pic_height}>; overflow:hidden;}
+</style>
+<div class="ad-pic">
+		<img src='<{$data.ad_pic|storager}>' alt="<{$setting.ad_pic_txt}>" <{if $data.ad_pic_width}>width='<{$data.ad_pic_width}>'<{/if}> <{if $data.ad_pic_height}>height='<{$data.ad_pic_height}>'<{/if}> />
+</div>
+

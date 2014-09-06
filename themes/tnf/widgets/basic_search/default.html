@@ -1,0 +1,20 @@
+<{if $data.top_html}><{$data.top_html}><{/if}>
+<form style="margin-left:5px" action=" app=b2c ctl=site_search act=result }>" method="post" class="SearchBar  searchBar_<{$widget_id}>">
+  <table cellpadding="0" cellspacing="0">
+    <tr>
+      <td class="search_label"> <span><{t app='b2c'}><{/t}></span>
+      <span style="position:relative;display:inline-block;"><input type="text" size="19" name="name[]" value="店内搜索"  onfocus="this.value=''" autocompleter="associate_autocomplete_goods:name,goods_id" ac_options="{}" class="inputstyle keywords"  /></span>
+      </td>
+      <{if $setting.searchopen}>
+      <td class="search_price1"><{t app='b2c'}>价格从<{/t}> <{input name="price[0]" type="number" size="4" class="inputstyle gprice_from" }></td>
+      <td class="search_price2"><{t app='b2c'}>到<{/t}><{input name="price[1]" type="number" size="4" class="inputstyle gprice_to"}></td>
+
+      <{/if}>
+      <td><input type="submit" value="" class="btn_search" onfocus='this.blur();'/>
+      </td>
+      <!-- <td><a href=" app=b2c ctl=site_search act=index}>" class="btn_advsearch"><{t app='b2c'}>高级搜索<{/t}></a> </td> -->
+    </tr>
+  </table>
+
+</form>
+<{if $data.bottom_html}><{$data.bottom_html}><{/if}>

@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <{header}>
+  <!--这里的images/style.css相对于模板包，系统会自动把这样的相对写法替换为绝对路径-->
+  <link rel="stylesheet" type="text/css" href="images/styles.css" />
+  <link rel="stylesheet" type="text/css" href="images/article.css" />
+  <link rel="stylesheet" type="text/css" href="images/banner.css" />
+  <link rel="stylesheet" type="text/css" href="images/fix.css" />
+  <script type="text/javascript" src="images/MooDropMenu.js"></script>
+  <script type="text/javascript">
+  <!--  
+  window.addEvent('domready',function(){
+
+    $('nav').MooDropMenu({
+      onOpen: function(el){
+        el.fade('in')
+      },
+      onClose: function(el){
+        el.fade('out');
+      },
+      onInitialize: function(el){
+        el.fade('hide').set('tween', {duration:0});
+      }
+    });
+
+
+    $$('.itemlist').MooDropMenu({
+      onOpen: function(el){
+        el.fade('in')
+      },
+      onClose: function(el){
+        el.fade('out');
+      },
+      onInitialize: function(el){
+        el.fade('hide').set('tween', {duration:0});
+      }
+    });
+
+  });
+  // -->
+  </script>
+    
+  <link href="images/include.css" type="text/css" rel="stylesheet" media="all"/>
+  
+  
+  
+  <script src="images/jquery.js" type="text/javascript" charset="utf-8"></script>
+  <script src="images/include.js" type="text/javascript" charset="utf-8"></script>
+  <script type="text/javascript">
+    jQuery.noConflict();
+    jQuery(function () {
+        Quyeba.url = 'http://beta.qybimg.com';
+        Quyeba.include([
+            {name:'navbar', container:'.navbar-wraper'},
+            {name:'topbar', container:'.topbar-wraper'},
+            {name:'footer', container:'.footer-wraper'},
+            {name:'userinfo', container:'.userinfo-wraper', args:{uid:'<{$custom_uid}>'}}
+        ])
+    });
+  </script>
+<script type="text/javascript" src="images/scroll.js"></script>
+<script type="text/javascript" src="images/jquery.soChange.js"></script>
+<script type="text/javascript">
+jQuery(function () {
+	jQuery('#change_4 .a_bigImg img').soChange({
+		thumbObj:'#change_4 .focusbtn span'
+	});
+});
+
+//显示隐藏下来菜单 20130525@wql
+jQuery(function () {
+	jQuery('.short').hover(
+		function () {
+			
+			jQuery(this).find('ul').css('visibility','visible');
+		    
+		  },
+		  function () {
+			  jQuery(this).find('ul').css('visibility','hidden');
+		   
+		  }	
+	);
+});
+
+</script>
+</head>
+<body>
+  <div class="topbar-wraper"></div><div class="navbar-wraper"></div>
+	<div class="container header">
+     <div id="nav_wrapper">
+		<{widgets id="nav_cat"}>
+    </div>
+  </div>
+  
+  

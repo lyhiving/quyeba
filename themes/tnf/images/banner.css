@@ -1,0 +1,315 @@
+/*--去野吧banner-20121106创建*/
+/* CSS Document */
+
+/*11月上新*/
+#b_novnew{
+    background-image: url(banner/b_novnew.jpg);
+}
+/*一级分类*/
+/*T恤more*/
+#b_tx_more{
+    background-image: url(banner/b_tx_more.jpg);
+}
+/*冲锋衣more*/
+#b_cfy_more{
+    background-image: url(banner/b_cfy_more.jpg);
+}
+/*衬衫more*/
+#b_cs_more{
+    background-image: url(banner/b_cs_more.jpg);
+}
+/*冲锋裤more*/
+#b_cfk_more{
+    background-image: url(banner/b_cfk_more.jpg);
+}
+/*登山鞋more*/
+#b_dsx_more{
+    background-image: url(banner/b_dsx_more.jpg);
+}
+/*裤子*/
+#b_kz{
+    background-image: url(banner/b_kz.jpg);
+}
+/*跑步鞋more*/
+#b_pbx_more{
+    background-image: url(banner/b_pbx_more.jpg);
+}
+/*三合一夹克more*/
+#b_shyjk_more{
+    background-image: url(banner/b_shyjk_more.jpg);
+}
+/*软壳夹克more*/
+#b_rkjk_more{
+    background-image: url(banner/b_rkjk_more.jpg);
+}
+/*上衣*/
+#b_sy{
+    background-image: url(banner/b_sy.jpg);
+}
+/*徒步鞋more*/
+#b_tbx_more{
+    background-image: url(banner/b_tbx_more.jpg);
+}
+/*鞋子*/
+#b_xz{
+    background-image: url(banner/b_xz.jpg);
+}
+/*休闲鞋more*/
+#b_xxx_more{
+    background-image: url(banner/b_xxx_more.jpg);
+}
+/*羽绒服more*/
+#b_yrf_more{
+    background-image: url(banner/b_yrf_more.jpg);
+}
+/*长裤短裤more*/
+#b_ckdk_more{
+    background-image: url(banner/b_ckdk_more.jpg);
+}
+/*针织衣more*/
+#b_zzy_more{
+    background-image: url(banner/b_zzy_more.jpg);
+}
+/*抓绒衣more*/
+#b_zry_more{
+    background-image: url(banner/b_zry_more.jpg);
+}
+
+/*装备*/
+#b_zb{
+    background-image: url(banner/b_zb.jpg);
+}
+/*技术背包more*/
+#b_jsbb_more{
+    background-image: url(banner/b_jsbb_more.jpg);
+}
+/*旅行背包more*/
+#b_lxbb_more{
+    background-image: url(banner/b_lxbb_more.jpg);
+}
+/*日用背包more*/
+#b_rybb_more{
+    background-image: url(banner/b_rybb_more.jpg);
+}
+/*腰包more*/
+#b_yb_more{
+    background-image: url(banner/b_yb_more.jpg);
+}
+/*帐篷more*/
+#b_zp_more{
+    background-image: url(banner/b_zp_more.jpg);
+}
+/*睡袋more*/
+#b_sd_more{
+    background-image: url(banner/b_sd_more.jpg);
+}
+/*配件*/
+#b_pj{
+    background-image: url(banner/b_pj.jpg);
+}
+/*围巾脖套more*/
+#b_wjbt_more{
+    background-image: url(banner/b_wjbt_more.jpg);
+}
+/*帽子more*/
+#b_mz_more{
+    background-image: url(banner/b_mz_more.jpg);
+}
+/*手套more*/
+#b_st_more{
+    background-image: url(banner/b_st_more.jpg);
+}
+/*袜子more*/
+#b_wz_more{
+    background-image: url(banner/b_wz_more.jpg);
+}
+
+
+/*二级分类*/
+/*上衣more*/
+#b_sy_more{
+    background-image: url(banner/b_sy_more.jpg);
+}
+
+/*裤子more*/
+#b_kz_more{
+    background-image: url(banner/b_kz_more.jpg);
+}
+
+/*鞋子more*/
+#b_xz_more{
+    background-image: url(banner/b_xz_more.jpg);
+}
+
+/*装备1more*/
+#b_zb1_more{
+    background-image: url(banner/b_zb1_more.jpg);
+}
+
+/*配件more*/
+#b_pj_more{
+    background-image: url(banner/b_pj_more.jpg);
+}
+
+/*三级分类*
+/*T恤*/
+#b_tx{
+    background-image: url(banner/b_tx.jpg);
+}
+/*衬衫*/
+#b_cs{
+    background-image: url(banner/b_cs.jpg);
+}
+/*冲锋裤*/
+#b_cfk{
+    background-image: url(banner/b_cfk.jpg);
+}
+/*冲锋衣*/
+#b_cfy{
+    background-image: url(banner/b_cfy.jpg);
+}
+/*软壳夹克*/
+#b_rkjk{
+    background-image: url(banner/b_rkjk.jpg);
+}
+/*登山鞋*/
+#b_dsx{
+    background-image: url(banner/b_dsx.jpg);
+}
+/*跑步鞋*/
+#b_pbx{
+    background-image: url(banner/b_pbx.jpg);
+}
+/*徒步鞋more*/
+#b_tbx{
+    background-image: url(banner/b_tbx.jpg);
+}
+/*休闲鞋more*/
+#b_xxx{
+    background-image: url(banner/b_xxx.jpg);
+}
+/*帽子*/
+#b_mz{
+    background-image: url(banner/b_mz.jpg);
+}
+/*袜子wz*/
+#b_wz{
+    background-image: url(banner/b_wz.jpg);
+}
+/*围巾脖套*/
+#b_wjbt{
+    background-image: url(banner/b_wjbt.jpg);
+}
+/*技术背包*/
+#b_jsbb{
+    background-image: url(banner/b_jsbb.jpg);
+}
+/*旅行背包*/
+#b_lxbb{
+    background-image: url(banner/b_lxbb.jpg);
+}
+/*日用背包*/
+#b_rybb{
+    background-image: url(banner/b_rybb.jpg);
+}
+/*三合一夹克*/
+#b_shyjk{
+    background-image: url(banner/b_shyjk.jpg);
+}
+/*手套*/
+#b_st{
+    background-image: url(banner/b_st.jpg);
+}
+/*睡袋*/
+#b_sd{
+    background-image: url(banner/b_sd.jpg);
+}
+/*腰包*/
+#b_yb{
+    background-image: url(banner/b_yb.jpg);
+}
+/*羽绒服*/
+#b_yrf{
+    background-image: url(banner/b_yrf.jpg);
+}
+/*长裤短裤*/
+#b_ckdk{
+    background-image: url(banner/b_ckdk.jpg);
+}
+/*帐篷*/
+#b_zp{
+    background-image: url(banner/b_zp.jpg);
+}
+/*针织衣*/
+#b_zzy{
+    background-image: url(banner/b_zzy.jpg);
+}
+/*抓绒衣*/
+#b_zry{
+    background-image: url(banner/b_zry.jpg);
+}
+
+/*虚拟通用*/
+#b_xnty{
+    background-image: url(banner/b_xnty.jpg);
+}
+
+/*冲锋衣首页*/
+#b_cfy_index{
+    background-image: url(http://tnf-story.b0.upaiyun.com/2013/03/bac8c5385890a436.jpg);
+}
+
+#b_cfy_item{
+    background-image: url(http://tnf-story.b0.upaiyun.com/2013/03/a3195bcaa06d7e02.jpg);
+}
+
+/*抓绒衣首页*/
+#b_zry_index{
+    background-image: url(http://tnf-story.b0.upaiyun.com/2013/03/c9ced331f62b2895.jpg);
+}
+
+#b_zry_item{
+    background-image: url(http://tnf-story.b0.upaiyun.com/2013/03/2b49b1af80e07198.jpg);
+}
+
+/*鞋子首页*/
+#b_shoe_index{
+    background-image: url(http://tnf-story.b0.upaiyun.com/2013/03/ef23763202489eb4.jpg);
+}
+
+#b_shoe_item{
+    background-image: url(http://tnf-story.b0.upaiyun.com/2013/03/a074c9882e202098.jpg);
+}
+
+/*装备首页*/
+#b_equip_index{
+    background-image: url(http://tnf-story.b0.upaiyun.com/2013/03/30e51fd24f7d503c.jpg);
+}
+
+#b_equip_item{
+    background-image: url(http://tnf-story.b0.upaiyun.com/2013/03/e743d4014e59cf6f.jpg);
+}
+
+/*童装首页*/
+#b_child_index{
+    background-image: url(http://tnf-story.b0.upaiyun.com/2013/03/e625128063ed965a.jpg);
+}
+
+#b_child_item{
+    background-image: url(http://tnf-story.b0.upaiyun.com/2013/03/1e09d612fc42da1a.jpg);
+}
+
+/*男子首页*/
+#b_man_index{
+    background-image: url(banner/b_man_index.jpg);
+}
+
+/*女子首页*/
+#b_woman_index{
+    background-image: url(banner/b_woman_index.jpg);
+}
+
+/*新品首页*/
+#b_new_index{
+    background-image: url(banner/b_new_index.jpg);
+}

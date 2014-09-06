@@ -1,0 +1,65 @@
+<div class="member_header_div">
+  <div class="member_header_nav">
+      <ul>
+          <li><a href="/index.php/member-orders.html"><img src="/themes/tnf_theme/images/member_header_01g.png" width="122" height="54" /></a></li>
+            <li><a href="/index.php/member-favorite.html"><img src="/themes/tnf_theme/images/member_header_02g.png" width="115" height="54" /></a></li>
+            <li><a href="#"><img src="/themes/tnf_theme/images/member_header_03r.png" width="116" height="54" /></a></li>
+            <li><a href="/index.php/member-setting.html"><img src="/themes/tnf_theme/images/member_header_04g.png" width="143" height="54" /></a></li>
+            <li><a href="/index.php/aftersales-return_list.html"><img src="/themes/tnf_theme/images/member_header_05g.png" width="114" height="54" /></a></li>
+            <li><img src="/themes/tnf_theme/images/member_header_06.png" width="90" height="54" /></li>
+        </ul>
+    </div>
+    <div><img src="/themes/tnf_theme/images/member_header_07.png" width="700" height="21" /></div>
+</div>
+<div class="member-main">
+<div class="orderlink-warp fr">
+    <ul>
+      <li class="cur"><a href="#">最近购买的商品</a></li>
+    </ul>
+  </div>
+ 
+<table class="gridlist table-goods-list" style="border-bottom:none" width="100%" border="0" cellspacing="0"  cellpadding="0">
+  <thead>
+  <tr>
+    <th class="first"><{t}>商品信息<{/t}></th>
+    <!--<th><{t}>单价(元)<{/t}></th>-->
+  </tr>
+  </thead>
+    <tbody>
+   <{if $aData}>
+  <{foreach from=$aData item="good" key="key"}>
+    <tr>
+      <td class="horizontal-m">
+      <{if $good.udfimg == 'true'}>
+    <{assign var="gimage" value=$good.thumbnail_pic|default:$defaultImage}>
+    <{else}>
+    <{assign var="gimage" value=$good.image_default_id|default:$defaultImage}>
+    <{/if}>
+  <div class="goodpic"><a target="_blank" style='<{if $env.conf.site.thumbnail_pic_width !=0 && $env.conf.site.thumbnail_pic_height !=0}> width:<{$env.conf.site.thumbnail_pic_width}>px;height:<{$env.conf.site.thumbnail_pic_height}>px;<{/if}>' href="<{link app=b2c ctl=site_product act=index arg=$good.goods_id}>">
+    <img  style="width:50px; height:58px;" src="<{$gimage|storager:'s'}>"  alt="<{$good.name|escape:html}>"/>
+
+  </a></div>
+  <!--<div class="goods-main">-->
+  <div>
+  <div >
+  &nbsp;&nbsp;<a href="<{link app="b2c" ctl="site_product" act="index" arg0=$good.goods_id}>" title="<{$good.name}>"><{$good.name}></a>
+  </div>
+  <p>&nbsp;</p>
+  <div>
+  <p>&nbsp;&nbsp;<{t}>购于: <{/t}><{$good.buytime|cdate}></p>
+  </div>
+  </div>
+
+    </td>
+    <!--<td><{$goods.price|cur_odr}></td>-->
+
+  
+    </tr>
+  <{/foreach}>
+  <{else}>
+    <tr> <td colspan="4"> <{t}>最近暂无购买<{/t}> </td> </tr>
+  <{/if}>
+  </tbody>
+</table>
+
+</div>

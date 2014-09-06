@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?><theme>
+	<name>tnf版</name>
+	<id>tnf_theme</id>
+	<version></version>
+	<info>tnf</info>
+	<author>ShopEx</author>
+	<site>http://www.shopex.cn</site>
+	<update_url></update_url>
+
+	<borders>
+			</borders>
+	<views>
+	</views>
+	<config>	  
+			</config>
+
+	<widgets>
+				<widget app="" theme="tnf_theme" file="block/footer.html" slot="0" type="articles" order="3" title="" domid="1351835543940" border="__none__" classname="" tpl="default.html" coreid="helplist">
+		a:9:{s:7:&quot;node_id&quot;;s:1:&quot;1&quot;;s:5:&quot;limit&quot;;s:1:&quot;5&quot;;s:2:&quot;lv&quot;;s:1:&quot;2&quot;;s:8:&quot;shownode&quot;;s:1:&quot;1&quot;;s:10:&quot;showallart&quot;;s:1:&quot;0&quot;;s:10:&quot;order_type&quot;;s:7:&quot;pubtime&quot;;s:5:&quot;order&quot;;s:3:&quot;asc&quot;;s:14:&quot;stripparenturl&quot;;s:1:&quot;0&quot;;s:14:&quot;upto_articleid&quot;;s:1:&quot;0&quot;;}		</widget>
+				<widget app="" theme="tnf_theme" file="block/footer.html" slot="1" type="articles" order="4" title="" domid="1351835552745" border="__none__" classname="" tpl="default.html" coreid="helplist2">
+		a:9:{s:7:&quot;node_id&quot;;s:1:&quot;6&quot;;s:5:&quot;limit&quot;;s:1:&quot;5&quot;;s:2:&quot;lv&quot;;s:1:&quot;2&quot;;s:8:&quot;shownode&quot;;s:1:&quot;1&quot;;s:10:&quot;showallart&quot;;s:1:&quot;0&quot;;s:10:&quot;order_type&quot;;s:7:&quot;pubtime&quot;;s:5:&quot;order&quot;;s:3:&quot;asc&quot;;s:14:&quot;stripparenturl&quot;;s:1:&quot;0&quot;;s:14:&quot;upto_articleid&quot;;s:1:&quot;0&quot;;}		</widget>
+				<widget app="" theme="tnf_theme" file="block/footer.html" slot="2" type="articles" order="5" title="" domid="1351835561717" border="__none__" classname="" tpl="default.html" coreid="helplist3">
+		a:9:{s:7:&quot;node_id&quot;;s:2:&quot;11&quot;;s:5:&quot;limit&quot;;s:1:&quot;5&quot;;s:2:&quot;lv&quot;;s:1:&quot;2&quot;;s:8:&quot;shownode&quot;;s:1:&quot;1&quot;;s:10:&quot;showallart&quot;;s:1:&quot;0&quot;;s:10:&quot;order_type&quot;;s:7:&quot;pubtime&quot;;s:5:&quot;order&quot;;s:3:&quot;asc&quot;;s:14:&quot;stripparenturl&quot;;s:1:&quot;0&quot;;s:14:&quot;upto_articleid&quot;;s:1:&quot;0&quot;;}		</widget>
+				<widget app="" theme="tnf_theme" file="block/footer.html" slot="3" type="articles" order="6" title="" domid="1351835569663" border="__none__" classname="" tpl="default.html" coreid="helplist4">
+		a:9:{s:7:&quot;node_id&quot;;s:1:&quot;6&quot;;s:5:&quot;limit&quot;;s:1:&quot;5&quot;;s:2:&quot;lv&quot;;s:1:&quot;2&quot;;s:8:&quot;shownode&quot;;s:1:&quot;1&quot;;s:10:&quot;showallart&quot;;s:1:&quot;0&quot;;s:10:&quot;order_type&quot;;s:7:&quot;pubtime&quot;;s:5:&quot;order&quot;;s:3:&quot;asc&quot;;s:14:&quot;stripparenturl&quot;;s:1:&quot;0&quot;;s:14:&quot;upto_articleid&quot;;s:1:&quot;0&quot;;}		</widget>
+				<widget app="" theme="tnf_theme" file="block/footer.html" slot="4" type="other_customhtml" order="7" title="" domid="1351835655780" border="__none__" classname="" tpl="default.html" coreid="html">
+		a:1:{s:10:&quot;usercustom&quot;;s:211:&quot;&lt;div class=&quot;TreeList&quot;&gt;
+				&lt;div class=&quot;TreeListTitle&quot;&gt;服务热线&lt;/div&gt; 
+			&lt;div class=&quot;TreeListContent&quot;&gt;
+				&lt;div class=&quot;cat1&quot;&gt;021-60296872&lt;/div&gt;
+				&lt;div class=&quot;cat1&quot;&gt;服务时间：9:00-22:00&lt;/div&gt;
+			&lt;/div&gt;&quot;;}		</widget>
+				<widget app="" theme="tnf_theme" file="block/header.html" slot="0" type="nav_goodscat" order="0" title="" domid="1351742660259" border="__none__" classname="" tpl="default.html" coreid="nav_cat">
+		a:0:{}		</widget>
+				<widget app="" theme="tnf_theme" file="index.html" slot="0" type="goodscat_show" order="1" title="" domid="1351836368237" border="__none__" classname="" tpl="default.html" coreid="goods_cat">
+		a:0:{}		</widget>
+				<widget app="" theme="tnf_theme" file="index.html" slot="1" type="goods_show950" order="2" title="" domid="1351826974819" border="__none__" classname="" tpl="default.html" coreid="hot-item">
+		a:5:{s:5:&quot;title&quot;;s:15:&quot;请填写标题&quot;;s:8:&quot;goodsNum&quot;;s:1:&quot;8&quot;;s:6:&quot;linkid&quot;;s:26:&quot;96,95,94,93,97,92,91,90,89&quot;;s:5:&quot;goods&quot;;s:280:&quot;[{&quot;id&quot;:&quot;96&quot;,&quot;pic&quot;:&quot;&quot;,&quot;nice&quot;:&quot;&quot;},{&quot;id&quot;:&quot;95&quot;,&quot;pic&quot;:&quot;&quot;,&quot;nice&quot;:&quot;&quot;},{&quot;id&quot;:&quot;94&quot;,&quot;pic&quot;:&quot;&quot;,&quot;nice&quot;:&quot;&quot;},{&quot;id&quot;:&quot;93&quot;,&quot;pic&quot;:&quot;&quot;,&quot;nice&quot;:&quot;&quot;},{&quot;id&quot;:&quot;97&quot;,&quot;pic&quot;:&quot;&quot;,&quot;nice&quot;:&quot;&quot;},{&quot;id&quot;:&quot;92&quot;,&quot;pic&quot;:&quot;&quot;,&quot;nice&quot;:&quot;&quot;},{&quot;id&quot;:&quot;91&quot;,&quot;pic&quot;:&quot;&quot;,&quot;nice&quot;:&quot;&quot;},{&quot;id&quot;:&quot;90&quot;,&quot;pic&quot;:&quot;&quot;,&quot;nice&quot;:&quot;&quot;},{&quot;id&quot;:&quot;89&quot;,&quot;pic&quot;:&quot;&quot;,&quot;nice&quot;:&quot;&quot;}]&quot;;s:10:&quot;price_show&quot;;s:9:&quot;销售价&quot;;}		</widget>
+			</widgets>
+
+	<proinstances>
+			</proinstances>
+
+</theme>

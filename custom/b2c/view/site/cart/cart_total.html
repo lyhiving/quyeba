@@ -1,0 +1,22 @@
+<div class="clearfix cart-total">
+<div class="frt cart-pricelist2">
+  <ul class="clearfix">
+	<li class="fr clearfix"><{t}>商品总价: <{/t}>(<span id="cart-subtotal" class="font-red"><{$aCart.subtotal_prefilter_after|cur_odr}></span>) - 活动/折扣(<{$aCart.discount_amount_order|cur_odr}>) = 实付金额(<span  id="cart-promotion-subtotal" ><{$aCart.promotion_subtotal|cur_odr}></span>)</li>
+  </ul>
+</div>
+
+<{if $unuse_rule && !$checkout}>
+<div class="sales-promotion clearfix">
+  <h4><{t}>赶快行动得促销优惠<{/t}></h4>
+  <table width="100%" cellpadding="3" cellspacing="0" >
+    <{foreach from=$unuse_rule item=item}>
+    <tr>
+      <td class="span-2 "><{$item.name}></td>
+      <td class="span-6" style="text-align:left"><{$item.desc}> </td>
+      <td class="span-6" style="text-align:left"><{$item.solution}></td>
+    </tr>
+    <{/foreach}>
+  </table>
+</div>
+<{/if}>
+</div>

@@ -1,0 +1,98 @@
+<!-- right-->
+<div class="member_header_div">
+	<div class="member_header_nav">
+    	<ul>
+        	<li><a href="/index.php/member-orders.html"><img src="/themes/tnf_theme/images/member_header_01g.png" width="122" height="54" /></a></li>
+            <li><a href="/index.php/member-favorite.html"><img src="/themes/tnf_theme/images/member_header_02r.png" width="115" height="54" /></a></li>
+            <li><a href="/index.php/member-buy.html"><img src="/themes/tnf_theme/images/member_header_03g.png" width="116" height="54" /></a></li>
+            <li><a href="/index.php/member-setting.html"><img src="/themes/tnf_theme/images/member_header_04g.png" width="143" height="54" /></a></li>
+            <li><a href="/index.php/aftersales-return_list.html"><img src="/themes/tnf_theme/images/member_header_05g.png" width="114" height="54" /></a></li>
+            <li><img src="/themes/tnf_theme/images/member_header_06.png" width="90" height="54" /></li>
+        </ul>
+    </div>
+    <div><img src="/themes/tnf_theme/images/member_header_07.png" width="700" height="21" /></div>
+</div>
+<div class="member-main">
+  <div class="orderlink-warp fr">
+    <ul>
+      <li class="cur"><a href="/index.php/member-favorite.html">商品收藏</a></li>
+      <li><a href="/index.php/member-notify.html">到货通知</a></li>
+    </ul>
+  </div>
+ 
+<div>
+
+
+<{if !$favorite}>
+<div class="noinfo"><{t}>暂无收藏<{/t}></div>
+<{else}>
+<div class="GoodsSearchWrap" id="mbc-my-fav">
+    <div class="ItemsWarp clearfix">
+      <div id="b2c-member-fav-list">
+        <{include file="site/member/favorite_items.html" app="b2c"}>
+      </div>
+    </div>
+    <input type="hidden" id="b2c-fav-current-page" value="<{$current_page}>" />
+</div>
+<{pagers data=$pager}>
+<{/if}>
+
+<div class='FormWrap goods-compare' id='goods-compare' style='display:none'>
+<div class='title'><h3><{t}>商品对比<{/t}><span class='close-gc' onclick='gcompare.hide()'><{t}>[关闭]<{/t}></span></h3></div>
+   <form action='<{link app="b2c" ctl="site_product" act="diff"}>' method='post' target='_compare_goods'>
+      <ul class='compare-box'>
+         <li class='division clearfix tpl'>
+            <div class='goods-name'>
+               <a href='#' title='{gname}'>{gname}</a>
+            </div>
+            <span class='btn-delete' onclick='gcompare.erase("{gid}",this);'><{t}>删除<{/t}></span>
+         </li>
+      </ul>
+      <div class='compare-bar' >
+      <!-- <a class="btn-a btn-compare" name="comareing" onclick='gcompare.submit()'><span><{t}>对比<{/t}></span></a> -->
+          <input type="button" name="comareing" onclick='gcompare.submit()' class="btn-compare" value="<{t}>对比<{/t}>">
+          <input type="button" class="btn-compare" onclick="gcompare.empty()" value="<{t}>清空<{/t}>">
+      </div>
+   </form>
+</div>
+<!--<{script src='goodscupcake.js' app='b2c'}>-->
+<script>
+var ajax_del_fav = function(el,e){
+    var gid = el.get('gid');
+    Ex_Dialog.confirm('<{t}>确定删除?<{/t}>',function(e){
+        if(!e) return false;
+        new Request({
+            url:'<{$fav_ajax_del_goods_url}>',
+            method:'post',
+            data:'t='+(+new Date())+'&gid='+gid+'&current='+$('b2c-fav-current-page').value,
+            onComplete:function(res){
+                res = JSON.decode(res);
+                if (res.error){
+                    MessageBox.error(res.error);
+                }else{
+                    if (!res.data&&res.reload != null){
+                        location.href=res.reload;
+                    }else{
+                        $('b2c-member-fav-list').innerHTML = res.data;
+                    }
+
+                    /*new Fx.Tween($('goods_'+gid)).start('opacity',0).chain(function(){
+                        // 暂时这样改.
+                        if ($$('.itemsList')&&$$('.itemsList').length<=1) location.href=res.reload;
+                        $('goods_'+gid).destroy();
+                    });*/
+                }
+            }
+        }).send();
+        $('goods_'+gid).setOpacity(.5);
+        var MEMBER=Cookie.read('S[MEMBER]');
+        var FAVCOOKIE= new Cookie('S[GFAV]['+MEMBER+']',{duration:365});
+        FAVCOOKIE.write(Array.from((FAVCOOKIE.read('S[GFAV]')||'').split(',')).erase(gid).join(','));
+        return false;
+    });
+};
+</script>
+
+</div>
+</div>
+<!-- right-->

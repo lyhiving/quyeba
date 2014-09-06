@@ -1,0 +1,50 @@
+<!--
+<div class="member_header_div">
+	<div class="member_header_nav">
+    	<ul>
+        	<li><a href="/index.php/member-orders.html"><img src="/themes/tnf_theme/images/member_header_01g.png" width="122" height="54" /></a></li>
+            <li><a href="/index.php/member-favorite.html"><img src="/themes/tnf_theme/images/member_header_02g.png" width="115" height="54" /></a></li>
+            <li><a href="/index.php/member-buy.html"><img src="/themes/tnf_theme/images/member_header_03g.png" width="116" height="54" /></a></li>
+            <li><a href="/index.php/member-setting.html"><img src="/themes/tnf_theme/images/member_header_04g.png" width="143" height="54" /></a></li>
+            <li><a href="#"><img src="/themes/tnf_theme/images/member_header_05r.png" width="114" height="54" /></a></li>
+            <li><img src="/themes/tnf_theme/images/member_header_06.png" width="90" height="54" /></li>
+        </ul>
+    </div>
+    <div><img src="/themes/tnf_theme/images/member_header_07.png" width="700" height="21" /></div>
+</div>
+-->
+<table cellspacing="0" cellpadding="3" width="100%" class="gridlist border-all">
+  <col class="span-1"/>
+  <col class="span-2"/>
+  <col class="span-5"/>
+  <col class="span-2"/>
+  <col class="span-1"/>
+  <thead>
+	<tr>
+	  <th class="first">&nbsp;</th>
+	  <th><{t}>货号<{/t}></th>
+	  <th><{t}>商品名称<{/t}></th>
+	  <th><{t}>单价<{/t}></th>
+	  <th><{t}>数量<{/t}></th>
+	</tr>
+  </thead>
+  <tbody>
+	<{foreach from=$order.items item=item key=key}>
+	<input type="hidden" name="product_item_nums[<{$item.products.product_id}>]" value="<{$item.quantity}>">
+	<tr>
+	  <td><input class="x-pdt-chk-<{$item.products.product_id}>" type="checkbox" value="<{$item.products.product_id}>" /></td>
+	  <td class="x-pdt-bn"><{$item.bn}></td>
+	  <td class="x-pdt-name textcenter"><{$item.name}></td>
+	  <td class="textcenter price-normal"><{$item.price|cur_odr:$order.currency}></td>
+	  <td class="x-pdt-num textcenter"><{$item.quantity}></td>
+	</tr>
+	<{/foreach}>
+  </tbody>
+    <tfoot>
+	<tr>
+	  <td colspan="5">
+		<{pagers data=$pager}>
+	  </td>
+	</tr>
+  </tfoot>
+</table>

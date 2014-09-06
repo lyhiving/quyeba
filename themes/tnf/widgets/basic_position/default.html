@@ -1,0 +1,18 @@
+<div class="Navigation"><!--<{t app='b2c'}>您当前的位置：<{/t}>-->
+  <{if $setting.begin}>
+    <{$setting.begin}>
+  <{/if}>
+  <{foreach from=$data item=item name="nav"}>
+  <{if $item.title && $item.link}>
+  <{if $smarty.foreach.nav.last}>
+  <{$item.title}>
+  <{else}>
+  <a href="<{$item.link}>" alt="<{$item.tips}>" title="<{$item.tips}>"><{$item.title}></a>
+  <{if $setting.split}><{$setting.split}><{else}>/<{/if}>
+  <{/if}>
+  <{/if}>
+  <{/foreach}>
+  <{if $setting.end}>
+    <{$setting.end}>
+  <{/if}>
+</div>

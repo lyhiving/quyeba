@@ -1,0 +1,34 @@
+<div class="GoodsSearchWrap" style="margin-left: 5px;margin-right: 5px;margin-bottom:5px;">
+   <script type='text/javascript'></script>
+
+	<{main view="custom/grid.html"}>
+
+</div>
+
+
+<script>
+window.addEvent('domready', function(){
+    new DataLazyLoad({lazyDataType:'img',img:'lazyload'});
+    try{
+        /*关键字高亮*/
+        (function(replace_str){
+            var replace=replace_str.split("+");
+            if(replace.length){
+                $$('.entry-title').each(function(r){
+                    for(i=0;i<replace.length;i++){
+                        if(replace[i]){
+                            var reg=new RegExp("("+replace[i].escapeRegExp()+")","gi");
+                            r.set('text',r.get('text').replace(reg,function(){
+                                return "{0}"+arguments[1]+"{1}";
+                            }));
+                        }
+                    }
+                    r.set('html',r.get('text').substitute({0:"<font color=red>",1:"</font>"}));//原来的增加样式有问题
+                });
+            }
+        })('<{$search_array}>');
+    }catch(e){}
+   ;
+});
+
+</script>

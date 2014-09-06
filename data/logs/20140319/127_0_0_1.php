@@ -1,0 +1,25 @@
+<?php exit()?>
+2014-03-19 22:01:47	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2014-03-19 22:01:47	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2014-03-19 22:01:47	widget cache miss => app:,theme:tnf,type:goodscat_show.
+2014-03-19 22:01:47	widget cache miss => app:,theme:tnf,type:goodscat_show.
+2014-03-19 22:01:50	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2014-03-19 22:01:50	widget cache miss => app:,theme:tnf,type:goodscat_show.
+2014-03-19 22:02:49	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2014-03-19 22:02:50	widget cache miss => app:,theme:tnf,type:goodscat_show.
+2014-03-19 22:02:50	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2014-03-19 22:02:51	widget cache miss => app:,theme:tnf,type:goodscat_show.
+2014-03-19 22:03:04	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2014-03-19 22:03:05	widget cache miss => app:,theme:tnf,type:goodscat_show.
+2014-03-19 22:03:59	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2014-03-19 22:04:00	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2014-03-19 22:04:11	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2014-03-19 22:04:12	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2014-03-19 22:06:00	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2014-03-19 22:06:43	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2014-03-19 22:10:33	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2014-03-19 22:10:34	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2014-03-19 22:10:40	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2014-03-19 22:10:41	widget cache miss => app:,theme:tnf,type:goodscat_show.
+2014-03-19 22:10:41	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2014-03-19 22:10:42	widget cache miss => app:,theme:tnf,type:goodscat_show.

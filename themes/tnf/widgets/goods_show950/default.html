@@ -1,0 +1,59 @@
+<style>
+.class1{color:#ff9900;}
+.class2{color:#0099ff;}
+
+
+
+.goods950 h5{height:26px;line-height:26px;border-bottom:2px solid #373737;}
+
+.goods950 .switchable-content{border-bottom:1px solid #ececec}
+.goods950 .switchable-content li{float:left;width:160px;margin:15px 16px 10px;_display:inline;}
+.goods950 .demo-pic{width:160px;height:160px;overflow:hidden;}
+.goods950 .demo-pic a{width:160px;height:160px;display:table-cell;text-align:center;vertical-align:middle;}
+.goods950 .demo-pic a img{width:160px}
+.goods950 h6{height:34px;overflow:hidden;}
+.goods950 h6 a{height:34px;line-height:18px;font-weight:100;color:#888888;margin-bottom:3px;display:block}
+.goods950 li span{font-family:Tahoma;color:#888888;display:block;height:18px;line-height:18px;}
+.goods950 li i{color:#ed1c24;font-family:Verdana;font-weight:bolder;}
+</style>
+
+
+
+<ul class="itemlist" style="margin-bottom:5px;">
+	<{assign var="do" value='1'}>
+		<{foreach from=$data.goodsdata.goodsRows item=goodsdemo key=key}>
+		
+	<li class="fl" style="margin-bottom:1px;">
+		<div id="itemlist-34">
+				<{if $data.info[$goodsdemo.goodsId].pic}>
+					<img class="itemlist-img" src="<{$data.info[$goodsdemo.goodsId].pic}>" alt="<{if $data.info[$goodsdemo.goodsId].nice}><{$data.info[$goodsdemo.goodsId].nice}><{else}><{$goodsdemo.goodsName}><{/if}>" />
+				<{else}>
+					<img class="itemlist-img" src="<{$goodsdemo.goodsPicM}>" alt="<{if $data.info[$goodsdemo.goodsId].nice}><{$data.info[$goodsdemo.goodsId].nice}><{else}><{$goodsdemo.goodsName}><{/if}>"  />
+				<{/if}>
+			<div class="itemlist-m"></div>
+		</div>
+        <ul style="opacity: 0; visibility: hidden; ">
+		  <li>
+			<div class="wrap">
+				<a href="<{$goodsdemo.goodsLink}>" target="_blank">
+				<div class="item-text">
+					<h2>
+				<{if $data.info[$goodsdemo.goodsId].nice}>
+										<{$data.info[$goodsdemo.goodsId].nice}>
+									<{else}>
+										<{$goodsdemo.goodsName}>
+									<{/if}>
+						<br>
+				<i><{$goodsdemo.goodsSalePrice|cur}></i>元<br>
+				</h2>
+				</div>
+				</a>
+				<a href="<{$goodsdemo.goodsLink}>" target="_blank"><div class="itemlist-more"></div></a>
+			</div>
+		  </li>
+
+		</ul>
+	</li>
+
+		<{/foreach}>
+</ul>

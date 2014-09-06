@@ -1,0 +1,84 @@
+
+<div class="clear"></div>
+<div class="GoodsSearchWrap" style="margin-left: 5px;margin-right: 5px;margin-bottom:5px;">
+   <fieldset class="gallery-bar-box">
+        <legend>商品排序</legend>
+        <div class="clearfix" id='gallerybar' >       
+            <span class='filtmode fl' style="font-size:14px;">
+                &nbsp;<{t}>排序:<{/t}>
+                <select class="border-all" style="height:25px; font-size:14px" onchange="if(this.value!='_')window.location=this.value">
+                    <optgroup label="<{t}>排序<{/t}>"> <{foreach from=$orderBy item=item key=order}>
+                        <option value=" link app=b2c ctl=site_gallery act=index args=$args2 arg2=$order}>?scontent=<{$args1}>"<{if $order eq $args.2}> class="selected" selected="selected"<{/if}>>
+                        <{$item.label}>
+                        </option>
+                        <{/foreach}>
+                    </optgroup>
+                    <{*
+                    <optgroup label="<{t}>显示<{/t}>">
+                        <{foreach from=$views key=label item=view}>
+                        <option value=" app=b2c ctl=site_gallery  act=$view  args=$args}>"<{if $curView==$view}> class="selected"<{/if}>><{$label}>
+                        </option>
+                        <{/foreach}>
+                    </optgroup>
+                    *}>
+                </select>
+            </span>
+            <div class="listorder fl pl5 pr5" style="font-size:14px">
+                <{if $args.2 == 4}>
+                <a class="list-desc-on" href=" app=b2c ctl=site_gallery act=index args=$args arg2=5}>"><i></i><span><{t}>价格<{/t}></span></a>
+                <a class="list-desc" href=" app=b2c ctl=site_gallery act=index args=$args arg2=9}>"><i></i><span><{t}>销量<{/t}></span></a>
+                <a class="list-desc" href=" app=b2c ctl=site_gallery act=index args=$args arg2=7}>"><i></i><span><{t}>人气<{/t}></span></a>
+                <{elseif $args.2 == 5}>
+                <a class="list-asc-on" href=" app=b2c ctl=site_gallery act=index args=$args arg2=4}>"><i></i><span><{t}>价格<{/t}></span></a>
+                <a class="list-desc" href=" app=b2c ctl=site_gallery act=index args=$args arg2=9}>"><i></i><span><{t}>销量<{/t}></span></a>
+                <a class="list-desc" href=" app=b2c ctl=site_gallery act=index args=$args arg2=7}>"><i></i><span><{t}>人气<{/t}></span></a>
+                <{elseif $args.2 == 7}>
+                <a class="list-desc" href=" app=b2c ctl=site_gallery act=index args=$args arg2=4}>"><i></i><span><{t}>价格<{/t}></span></a>
+                <a class="list-desc" href=" app=b2c ctl=site_gallery act=index args=$args arg2=9}>"><i></i><span><{t}>销量<{/t}></span></a>
+                <a class="list-desc-on"><i></i><span><{t}>人气<{/t}></span></a>
+                <{elseif $args.2 == 9}>
+                <a class="list-desc" href=" app=b2c ctl=site_gallery act=index args=$args arg2=4}>"><i></i><span><{t}>价格<{/t}></span></a>
+                <a class="list-desc-on"><i></i><span><{t}>销量<{/t}></span> </a>
+                <a class="list-desc" href=" app=b2c ctl=site_gallery act=index args=$args arg2=7}>"><i></i><span><{t}>人气<{/t}></span></a>
+                <{else}>
+                <a class="list-asc" href=" app=b2c ctl=site_gallery act=index args=$args arg2=5}>"><i></i><span><{t}>价格<{/t}></span></a>
+                <a class="list-desc" href=" app=b2c ctl=site_gallery act=index args=$args arg2=9}>"><i></i><span><{t}>销量<{/t}></span></a>
+                <a class="list-desc" href=" app=b2c ctl=site_gallery act=index args=$args arg2=7}>"><i></i><span><{t}>人气<{/t}></span></a>
+                <{/if}>
+            </div>
+        </div>
+    </fieldset> 
+
+   <script type='text/javascript'></script>
+
+    <{main view="custom/grid.html"}>
+
+</div>
+
+
+<script>
+window.addEvent('domready', function(){
+    new DataLazyLoad({lazyDataType:'img',img:'lazyload'});
+    try{
+        /*关键字高亮*/
+        (function(replace_str){
+            var replace=replace_str.split("+");
+            if(replace.length){
+                $$('.entry-title').each(function(r){
+                    for(i=0;i<replace.length;i++){
+                        if(replace[i]){
+                            var reg=new RegExp("("+replace[i].escapeRegExp()+")","gi");
+                            r.set('text',r.get('text').replace(reg,function(){
+                                return "{0}"+arguments[1]+"{1}";
+                            }));
+                        }
+                    }
+                    r.set('html',r.get('text').substitute({0:"<font color=red>",1:"</font>"}));//原来的增加样式有问题
+                });
+            }
+        })('<{$search_array}>');
+    }catch(e){}
+   ;
+});
+
+</script>

@@ -1,0 +1,15 @@
+<div class="section" id="cart-items">
+  <{include file="site/cart/cart_items.html" app=b2c}>
+  <div id="cart-ajax-update" class="del-cart">
+  <{include file="site/cart/cart_solution.html" app=b2c}>
+  <{include file="site/cart/cart_total.html" app=b2c}>
+  </div>
+<!-- 订单结算按钮 -->
+  <div id="cart-return-btn" class="return-cart clearfix">
+    <a href="<{$go_back_link}>" class="return-cart-btn" style=""></a>
+    <button type="submit" class="order-btn frt"> </button>
+</div>
+  <!-- end -->
+
+</div>
+

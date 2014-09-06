@@ -1,0 +1,260 @@
+<{css app="shaidan" src="all.css"}>
+<{script app="shaidan" src="slideGallery.js"}>
+<div class="Navigation" style="font-size:13px;background-color:#f4f5f5"><{t app='b2c'}>您当前的位置：<{/t}>
+  <{if $setting.begin}>
+    <span class="begin" style="font-size:13px"><{$setting.begin}></span>
+  <{/if}>
+  <{foreach from=$nav item=item name="nav"}>
+  <{if $item.title && $item.link}>
+  <{if $smarty.foreach.nav.last}>
+  <span class="now" style="font-size:12px"><{$item.title}></span>
+  <{else}>
+  <span style="font-size:12px"><a href="<{$item.link}>" alt="<{$item.tips}>" title="<{$item.tips}>"><{$item.title}></a></span>
+  <{if $setting.split}><{$setting.split}><{else}><span>&raquo;</span><{/if}>
+  <{/if}>
+  <{/if}>
+  <{/foreach}>
+  <{if $setting.end}>
+    <span class="end" style="font-size:13px"><{$setting.end}></span>
+  <{/if}>
+</div>
+<div class="goods-info-wrap" style="background:#f4f5f5">
+  <table width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+     <td class="goodpic" valign="middle" style='<{if $env.conf.site.thumbnail_pic_width !=0 && $env.conf.site.thumbnail_pic_height !=0}> width:<{$env.conf.site.thumbnail_pic_width}>px;<{/if}>'>&nbsp;
+        <{if $goods.udfimg == 'true'}>
+  <{assign var="gimage" value=$goods.thumbnail_pic}>
+  <{else}>
+  <{assign var="gimage" value=$goods.image_default_id|default:$defaultImage}>
+  <{/if}>
+  <a target="_blank" style='<{if $env.conf.site.thumbnail_pic_width !=0 && $env.conf.site.thumbnail_pic_height !=0}> width:<{$env.conf.site.thumbnail_pic_width}>px;height:<{$env.conf.site.thumbnail_pic_height}>px;<{/if}>' href="<{link app=b2c ctl=site_product act=index arg=$goods.goods_id}>">
+  <!--
+    <img src="<{$gimage|storager:'s'}>"  alt="<{$product.name|escape:html}>"/>
+  -->
+   </a>
+  </td><td valign="top"><div class="goodsname" style="font-size:13px;color:#999;padding:5px 0px 5px;"><a class="lnk"  href="<{link app=b2c ctl=site_product act=index arg0=$goods.goods_id }>"><{$goods.name}></a></div>
+    <ul class="goodsprops clearfix" style="font-size:11px;color:#999">
+    <{if $goods.bn}>
+    <li><span><{t}>货号：<{/t}></span><{$goods.bn}></li>
+    <{/if}>
+    <{if $goods.brand_name}>
+    <li><span><{t}>商品品牌：<{/t}></span><{$goods.brand_name}></li>
+    <{/if}>
+    <!--
+    <{if $goods.weight}>
+    <li><span><{t}>商品重量：<{/t}></span><{$goods.weight}><{t}> 克(g)<{/t}></li>
+    <{/if}>
+    <{if $goods.score}>
+    <li><span><{t}>所得积分：<{/t}></span><{$goods.score}></li>
+    <{/if}>
+    <{if $trading.score && $trading.score <> $goods.score}>
+    <li><span><{t}>特价积分：<{/t}></span><{$trading.score}></li>
+    <{/if}>
+    <{if $goods.mktprice && $goods.setting.mktprice}>
+    <li><span><{t}>市场价：<{/t}></span><{$goods.mktprice|cur_odr}></li>
+    <{/if}>
+    -->
+    <{if count($goods.products)<2}>
+    <li><span><{t}>价格：<{/t}></span><{$goods.price|cur_odr}></li>
+    <{if $goods.mktprice > $goods.price && $goods.setting.mktprice && $goods.setting.saveprice > 0}>
+    <li><span></span><{if $goods.setting.saveprice == 1}><{t}>节省：<{/t}><{$goods.mktprice-$goods.price|cur_odr}>
+          <{elseif $goods.setting.saveprice == 2}><{t}>优惠：<{/t}><{$goods.price/$goods.mktprice*100|number:'2'}>%
+          <{elseif $goods.setting.saveprice == 3}><{$goods.price/$goods.mktprice*10|number:'1'}><{t}>折<{/t}><{/if}>
+          </li>
+         <{/if}>
+    <{/if}>
+    </ul>
+    <!--
+    <a class="lnk"  href="<{link app=b2c ctl=site_product act=index arg0=$goods.goods_id }>"><{t}>查看详细<{/t}></a>
+    -->
+
+  </td>
+  </tr>
+</table>
+&nbsp;
+  <script type="text/javascript">
+    window.addEvent("domready", function() {
+      /* Example 6 */
+      var thumns = $$(".thumbs li a");
+      var gallery6 = new fadeGallery($$(".gallery6"), {
+        speed: 500,
+        autoplay: true,
+        duration: 2000,
+        onStart: function() {
+          thumns.removeClass("active");
+          thumns[this.current].addClass("active");
+        },
+        onPlay: function() { this.fireEvent("start"); }
+      });
+      thumns.each(function(el, i) {
+        el.addEvent("click", function() {
+          thumns.removeClass("active");
+          this.addClass("active");
+          gallery6.current = i;
+          gallery6.play(true);
+          return false;
+        });
+      });
+      var buttonPanel = gallery6.holder.getElement(".control");
+      gallery6.holder.addEvent("mouseenter", function() {
+        buttonPanel.tween("top", 0);
+        gallery6.prev.tween("left", 10);
+        gallery6.next.tween("right", 10);
+      });
+      gallery6.holder.addEvent("mouseleave", function() {
+        buttonPanel.tween("top", -40);
+        gallery6.prev.tween("left", -50);
+        gallery6.next.tween("right", -50);
+      });
+      
+      /* Examples panel */
+      var panel = true;
+      $$(".toggler").addEvent("click", function() {
+        if(panel) {
+          this.set("text", "show").getNext().setStyle("display", "none");
+          panel = false;
+        }
+        else {
+          this.set("text", "hide").getNext().setStyle("display", "block");
+          panel = true;
+        }
+        return false;
+      });
+    });
+  </script>
+    <!--图片中心-->
+    <div class="gallery gallery6 gallery-fade">
+      <div class="holder">
+        <ul>
+          <{foreach from=$photolist item=item key=key name=photo1}>
+          <li>
+            <img src="<{$key|storager:'l'}>" alt="image" width="600" height="450" />
+            <div class="title" style="font-size:11px"><{$item}></div>
+          </li>
+          <{/foreach}>
+        </ul>
+        <div class="control">
+          <a href="#" class="start">play</a>
+          <a href="#" class="stop">pause</a>
+        </div>
+        <a href="#" class="prev">prev</a>
+        <a href="#" class="next">next</a>
+      </div>
+      <ul class="thumbs">
+        <{foreach from=$photolist item=item1 key=key1 name=photo2}>
+        <{if $smarty.foreach.photo2.iteration<6}>
+        <li><a href="javascript:;"><img src="<{$key1|storager:'l'}>" alt="image" width="120" height="89" /><span>&nbsp;</span></a></li>
+        <{/if}>
+        <{/foreach}>
+      </ul>
+      <ul class="thumbs">
+        <{foreach from=$photolist item=item3 key=key3 name=photo3}>
+        <{if $smarty.foreach.photo3.iteration>5}>
+        <li><a href="javascript:;"><img src="<{$key3|storager:'s'}>" alt="image" width="120" height="89" /><span>&nbsp;</span></a></li>
+        <{/if}>
+        <{/foreach}>
+      </ul>
+    </div>
+
+<!--   <{foreach from=$photolist item=item key=key name=photo1}>
+  <div>
+      <a href="<{$key|storager:'l'}>"><img  src="<{$key|storager:'s'}>" width="80" ></a>
+  </div>
+  <{/foreach}> -->
+
+<div class="body Comments section FormWrap pdtdetail" style="border:none" id="goods-comment">
+
+<{foreach from=$commentData item=comlist name=comments}>
+
+  <div class="division boxBrown clearfix" >
+    <div class=" flt commentMain">
+    <span class="author font-orange" style="font-size:12px"><{if $comlist.addon.hidden_name =='YES' && ($comlist.author_id !=0 || $comlist.author_id !=1)}>匿名<{else}><{$comlist.author}><{/if}><!--<{if $comlist.levelname!=""}> [<{$comlist.levelname}>]<{/if}> --></span><span style="font-size:12px"><{t}> 说：<{/t}></span>
+    <span class="timpstamp font10px font-gray"><{$comlist.time|cdate:'SDATE_STIME'}></span>
+    <div style="font-size:12px"><{$comlist.comment|nl2br}></div>
+</div><{if $base_setting.switch_reply eq 'on'}><a class="floatRight lnk " href="<{link app=b2c ctl=site_comment act=reply arg0=$comlist.comment_id}>" arg1="ask"><{t}>回复<{/t}></a><{/if}>
+    </div>
+    <div class="commentReply pl40" style="font-size:12px">
+    <{foreach from=$comlist.items item=items}>
+    <div class="division  item " style="margin-top:0;">
+    <span class="author font-orange" style="font-size:12px">
+      <{if $items.addon.hidden_name =='YES' && $items.author_id!=0}>匿名<{else}><{$items.author}><{/if}>
+      <!--<{if $items.levelname!=""}> [<{$items.levelname}>]<{/if}> --><{t}>回复：<{/t}></span>
+    <span class="timpstamp font10px font-gray"><{$items.time|cdate:'SDATE_STIME'}></span>
+    <div style="font-size:12px"><{$items.comment|nl2br}></div>
+    </div>
+ <{/foreach}>
+ </div>
+
+
+
+
+<{/foreach}>
+
+
+<script>
+/*验证码刷新*/
+function changeimg(id,type){
+    if(type == 'discuss'){
+        $(id).set('src','<{link app="b2c" ctl="site_comment" act="gen_dissvcode"}>#'+(+new Date()));
+    }
+    else{
+        $(id).set('src','<{link app="b2c" ctl="site_comment" act="gen_askvcode"}>#'+(+new Date()));
+    }
+
+}
+
+    var checkFormReqs =function(e){
+           e    = new Event(e);
+       var form= $(e.target);
+
+       var reqs = $$(form.getElements('input[type=text]'),form.getElements('textarea'));
+
+       if(reqs.some(function(req){
+
+            if(req.get('value').trim()==''){
+                       req.focus();
+                       Message.error('<{t}>请完善表单必填项.<{/t}>');
+                       return true;
+            }
+
+              return false;
+
+
+       })){
+
+           e.stop();
+
+       }
+
+    };
+ </script>
+  <div style="font-size:12px"><{t}>发表回复<{/t}></div>
+  <form class=" division" method="post" action='<{link app=b2c ctl="site_comment" act="toReply" arg0=$comment_id}>'>
+    <input type="hidden" name="shaidan_comment_id" value="<{$comment_id}>">
+    <input type="hidden" name="shaidan_goods_id" value="<{$goods.goods_id}>">
+    <input type="hidden" name="shaidan_noajax" value="true">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" class="forform">
+      <{if $login eq "NO"}>
+      <tr>
+        <th><em>*</em><{t}><span style="font-size:12px">联系方式:</span><{/t}></th>
+        <td><{input type="text" required="true" size=20 name="contact"}><span class="infotips" style="font-size:12px"><{t}>(可以是电话、email、qq等)<{/t}></span></td>
+      </tr>
+      <{/if}>
+      <tr>
+        <th><em>*</em><{t}><span style="font-size:12px">回复内容:</span><{/t}></th>
+        <td style="font-size:12px"><{input type="textarea" required="true" rows="5" name="comment" style="width:80%" }></td>
+      </tr>
+      <{if $login != 'NO'}>
+      <tr>
+        <th style="font-size:12px">匿名发表:</th>
+        <td><input type="checkbox" name="hidden_name" value="YES"/></td>
+      </tr>
+      <{/if}>
+      <tr>
+        <th></th>
+        <td><input class="buttonstyle" type="submit" value="回复"> </td>
+      </tr>
+    </table>
+  </form>
+</div>
+</div>
