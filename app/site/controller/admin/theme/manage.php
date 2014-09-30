@@ -19,6 +19,7 @@ class site_ctl_admin_theme_manage extends site_admin_controller
     //列表
     public function index()
     {
+        //echo '这里是模板管理';
         //默认读取一下themes文件夹，获取文件夹内已有模板@lujy
         kernel::single('site_theme_install')->check_install();
         $theme_preview = kernel::base_url(1) . strrchr(THEME_DIR,'/');
@@ -55,7 +56,8 @@ class site_ctl_admin_theme_manage extends site_admin_controller
             $this->pagedata['current']['default_index_file'] = $defaultIndexFile ? $defaultIndexFile : $nodefaultindex[0]['tmpl_path'];
         }
         /** 获取所有已安装的模版 **/
-        $all_themes = app::get('site')->model('themes')->getList('*', array('is_used'=>'false'));
+        //$all_themes = app::get('site')->model('themes')->getList('*', array('is_used'=>'false);
+        $all_themes = app::get('site')->model('themes')->getList('*');
 
         foreach ($all_themes as $k=>$arr_theme){
             $arr_style = kernel::single('site_theme_base')->get_theme_style($arr_theme['theme']);
@@ -79,8 +81,8 @@ class site_ctl_admin_theme_manage extends site_admin_controller
             $all_themes[$k]['preview_prefix'] = $preview_prefix;
             $all_themes[$k]['active_color'] = $arr_style['color'];
         }
-        $this->pagedata['all_themes'] = $all_themes;
 
+        $this->pagedata['all_themes'] = $all_themes;
         $this->page('admin/theme/manage/index.html');
         //$this->finder('site_mdl_themes',array('title'=>app::get('site')->_('模板管理'), 'actions'=>$actions,'use_buildin_recycle'=>false));
 

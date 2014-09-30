@@ -1,1 +1,1 @@
-handle: index.php/api/
+﻿handle: index.php/api/
