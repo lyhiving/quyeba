@@ -27,20 +27,21 @@ class b2c_ctl_site_gallery extends b2c_frontpage{
     public function index($cat_id='',$urlFilter=null,$orderBy=0,$tab=null,$page=1,$cat_type=null,$view=null) {
         
         //echo '222222222222222222';
+        //echo '他妈的对应的模板在哪里？？？';
         
 	 $tab = intval($tab);
 	 $urlFilter = $this->RemoveXSS($urlFilter);
-			// 20130204 Andrew 俱乐部专区功能，俱乐部专区只能俱乐部访问
-		$goods_cat = $this->app->model('goods_cat')->dump($cat_id);
-		if ($goods_cat['cat_name'] == '俱乐部专区'){
-			$custom_user = kernel::single('custom_member')->get_custom_user(helper::current_account_id());
-			if ((!$custom_user['club'] || !$custom_user['vip']) && !$custom_user['leader']){
-				$back_url = $this->gen_url(array('app'=>'b2c','ctl'=>'site','act'=>'index'));
-				$this->splash('failed',$back_url,app::get('b2c')->_('本页需要认证俱乐部才能进入'));
-			}
-		}
+         // 20130204 Andrew 俱乐部专区功能，俱乐部专区只能俱乐部访问
+        $goods_cat = $this->app->model('goods_cat')->dump($cat_id);
+        if ($goods_cat['cat_name'] == '俱乐部专区') {
+            $custom_user = kernel::single('custom_member')->get_custom_user(helper::current_account_id());
+            if ((!$custom_user['club'] || !$custom_user['vip']) && !$custom_user['leader']) {
+                $back_url = $this->gen_url(array('app' => 'b2c', 'ctl' => 'site', 'act' => 'index'));
+                $this->splash('failed', $back_url, app::get('b2c')->_('本页需要认证俱乐部才能进入'));
+            }
+        }
         // 20130204 End
-		
+
         $urlFilter=htmlspecialchars(urldecode($urlFilter));
         $_GET['scontent'] = htmlspecialchars($_GET['scontent']);
         if(!empty($urlFilter) && $urlFilter != $_GET['scontent']){
@@ -49,7 +50,7 @@ class b2c_ctl_site_gallery extends b2c_frontpage{
             $urlFilter = $_GET['scontent'];
         }
 
-		$virCatObj = &$this->app->model('goods_virtual_cat');
+	$virCatObj = &$this->app->model('goods_virtual_cat');
         if( $cat_type ){
             $vcatid = $cat_type;
 			$oSearch = &$this->app->model('search');
@@ -93,16 +94,16 @@ class b2c_ctl_site_gallery extends b2c_frontpage{
         $global_runtime_path = "";
 
         // ajx 这里添加对分类的判断，当分类不存在时不做缓存处理
-		if(!cachemgr::get('global_runtime_path' . $this->id, $global_runtime_path)){
-			cachemgr::co_start();
-			if($cat_type){
-				$global_runtime_path = $virCatObj->getPath($cat_type,'');
-			}else{
-				$global_runtime_path = $productCat->getPath($cat_id[0],'');
-			}
-			cachemgr::set('global_runtime_path', $global_runtime_path, cachemgr::co_end());
-		}
-        
+        if (!cachemgr::get('global_runtime_path' . $this->id, $global_runtime_path)) {
+            cachemgr::co_start();
+            if ($cat_type) {
+                $global_runtime_path = $virCatObj->getPath($cat_type, '');
+            } else {
+                $global_runtime_path = $productCat->getPath($cat_id[0], '');
+            }
+            cachemgr::set('global_runtime_path', $global_runtime_path, cachemgr::co_end());
+        }
+
         /****ajx 以下是为了当搜索条件存在时 面包屑中显示 搜索条件 ***/
         if( $_GET['scontent'] && strlen($urlFilter) > 0 ){
             $global_runtime_path = array(array('type'=>'goodsCat','title'=>app::get('site')->_('首页'),'link'=>kernel::base_url(1)));
@@ -131,29 +132,40 @@ class b2c_ctl_site_gallery extends b2c_frontpage{
             );
         }
         
-		$GLOBALS['runtime']['path'] = $global_runtime_path;
+        $GLOBALS['runtime']['path'] = $global_runtime_path;
 
-		if ($cat_id[0]){
-			if(!cachemgr::get('goods_cat_'.$cat_id[0], $this->cat_result)){
-				cachemgr::co_start();
-				$this->cat_result = $productCat->getList('cat_name,gallery_setting,type_id',array('cat_id|in'=>$cat_id),0,1);
-				cachemgr::set('goods_cat_'.$cat_id[0], $this->cat_result, cachemgr::co_end());
-			}
-			$type_filter['type_id'] = $this->cat_result[0]['type_id'];
-		}
+        if ($cat_id[0]) {
+            if (!cachemgr::get('goods_cat_' . $cat_id[0], $this->cat_result)) {
+                cachemgr::co_start();
+                $this->cat_result = $productCat->getList('cat_name,gallery_setting,type_id', array('cat_id|in' => $cat_id), 0, 1);
+                cachemgr::set('goods_cat_' . $cat_id[0], $this->cat_result, cachemgr::co_end());
+            }
+            $type_filter['type_id'] = $this->cat_result[0]['type_id'];
+        }
 
+        
+        /**
+         * 此处设置每一个商品分类对应的商品列表模板 ，不共用一个模板 。
+         * 但具体怎么使得一个商品对应一个列表模板 ，还没研究明白。
+         * 方法不知道写在哪里 。
+         */
         if( isset($this->cat_result[0]['gallery_setting']['gallery_template'])&&$this->cat_result[0]['gallery_setting']['gallery_template'] ){
             $this->set_tmpl_file($this->cat_result[0]['gallery_setting']['gallery_template']);                 //添加模板
         }
+        
+        //echo '法克';
+        // wql@20150403
+        //输出当前商品分类对应的模板 。
+        //echo   $this->cat_result[0]['gallery_setting']['gallery_template'] ;
 
-		if(empty($view))
-            $view = $this->app->getConf('gallery.default_view')?$this->app->getConf('gallery.default_view'):'index';
+        if (empty($view))
+            $view = $this->app->getConf('gallery.default_view') ? $this->app->getConf('gallery.default_view') : 'index';
 
-		if(!cachemgr::get('goods_cat_childnode_'.$cat_id[0], $this->pagedata['childnode'])){
-			cachemgr::co_start();
-			$this->pagedata['childnode'] = $productCat->getCatParentById($cat_id,$view);
-			cachemgr::set('goods_cat_childnode_'.$cat_id[0], $this->pagedata['childnode'], cachemgr::co_end());
-		}
+        if (!cachemgr::get('goods_cat_childnode_' . $cat_id[0], $this->pagedata['childnode'])) {
+            cachemgr::co_start();
+            $this->pagedata['childnode'] = $productCat->getCatParentById($cat_id, $view);
+            cachemgr::set('goods_cat_childnode_' . $cat_id[0], $this->pagedata['childnode'], cachemgr::co_end());
+        }
 
         $cat = kernel::service('b2c_site_goods_list_viewer_apps')->get_view($cat_id,$view,$type_filter['type_id'],$cat_type);
 
@@ -643,7 +655,9 @@ class b2c_ctl_site_gallery extends b2c_frontpage{
         $this->pagedata['filter'] = $filter;
         unset($filter['name']);
         $this->pagedata['bfilter'] = $filter;
-        $this->set_tmpl('gallery');
+        
+        //$this->set_tmpl('gallery');
+        
         $this->pagedata['gallery_display'] = $this->app->getConf('gallery.display.grid.colnum');
         $this->pagedata['show_cat'] = $this->app->getConf('site.cat.select');
         if($count < $this->pagedata['gallery_display']){

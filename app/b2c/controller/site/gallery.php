@@ -656,6 +656,7 @@ class b2c_ctl_site_gallery extends b2c_frontpage{
             $this->setSeo('site_gallery','index',$this->prepareSeoData($this->pagedata));
         }
 
+        
         $this->page('site/gallery/index.html');
     }
 

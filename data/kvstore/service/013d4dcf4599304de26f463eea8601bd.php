@@ -1,1 +1,1 @@
-<?php exit(); ?>a:3:{s:5:"value";a:1:{s:4:"list";a:1:{s:17:"gift_finder_goods";s:17:"gift_finder_goods";}}s:3:"ttl";i:0;s:8:"dateline";i:1376708549;}
+<?php exit(); ?>a:3:{s:5:"value";a:1:{s:4:"list";a:1:{s:17:"gift_finder_goods";s:17:"gift_finder_goods";}}s:8:"dateline";s:10:"1368780781";s:3:"ttl";s:1:"0";}

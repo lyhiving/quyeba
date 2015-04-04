@@ -1,1 +1,1 @@
-<?php exit(); ?>a:3:{s:5:"value";a:2:{s:5:"en-us";a:1:{i:0;s:10:"config.php";}s:5:"zh-cn";a:1:{i:0;s:10:"config.php";}}s:3:"ttl";i:0;s:8:"dateline";i:1376708603;}
+<?php exit(); ?>a:3:{s:5:"value";a:2:{s:5:"en-us";a:1:{i:0;s:10:"config.php";}s:5:"zh-cn";a:1:{i:0;s:10:"config.php";}}s:8:"dateline";s:10:"1368780850";s:3:"ttl";s:1:"0";}

@@ -625,7 +625,7 @@ small{font-family: SimHei;}
 
 .n-footer-two-col .n-sitemap {-webkit-column-count: 5;-moz-column-count: 5;-ms-column-count: 5;-o-column-count: 5;column-count: 5;}
 .n-sitemap {float: left;}
-.n-sitemap ul {height: 150px;width: 150px\9;float: left\9;}
+.n-sitemap ul {height: 170px;width: 150px\9;float: left\9;}
 .n-sitemap small {color: #e31d1a;margin-right: 10px;}
 .n-sitemap ul .tit {margin-bottom: 15px;font-size: 14px;}
 .n-sitemap ul .red {margin-top: 10px;}

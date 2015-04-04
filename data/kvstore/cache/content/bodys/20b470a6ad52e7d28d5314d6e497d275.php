@@ -14,4 +14,4 @@
 </li>
                         <li>6、关于售后<br />本店所售商品，在未经使用、不损、不污的情况下，我们将为您提供"7日内无理由退换货"的服务。The North Face®承诺自客户收到商品之日起（以签收日期为准）7日内，如商品及包装保持The North Face®出售时原装且配件齐全（吊牌未剪、未使用、未洗涤），不影响二次销售的情况下，我们将提供退换货的服务。<br>
 注：非质量问题的退换货，由买家承担退货运费。</li></ul> </div>
-              </div>";s:9:"seo_title";s:0:"";s:15:"seo_description";s:0:"";s:12:"seo_keywords";s:0:"";s:10:"goods_info";s:0:"";s:8:"hot_link";s:0:"";s:6:"length";s:4:"2876";s:8:"image_id";s:0:"";}s:3:"ttl";i:0;s:8:"dateline";i:1403425646;}
+              </div>";s:9:"seo_title";s:0:"";s:15:"seo_description";s:0:"";s:12:"seo_keywords";s:0:"";s:10:"goods_info";s:0:"";s:8:"hot_link";s:0:"";s:6:"length";s:4:"2876";s:8:"image_id";s:0:"";}s:8:"dateline";s:10:"1403425646";s:3:"ttl";s:1:"0";}

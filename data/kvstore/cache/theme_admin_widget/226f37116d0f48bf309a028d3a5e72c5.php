@@ -12,4 +12,4 @@
 			价格显示：<input name="price_show" class="inputstyle" value="<?php echo ((isset($this->_vars['setting']['price_show']) && ''!==$this->_vars['setting']['price_show'])?$this->_vars['setting']['price_show']:销售价); ?>">
 
 </div>
-";s:3:"ttl";i:0;s:8:"dateline";i:1376920206;}
+";s:8:"dateline";s:10:"1376920206";s:3:"ttl";s:1:"0";}

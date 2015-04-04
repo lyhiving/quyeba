@@ -18,4 +18,4 @@
 
 </form>
 <?php if( $this->_vars['data']['bottom_html'] ){  echo $this->_vars['data']['bottom_html'];  } ?>
-";s:3:"ttl";i:0;s:8:"dateline";i:1376924121;}
+";s:8:"dateline";s:10:"1376924121";s:3:"ttl";s:1:"0";}

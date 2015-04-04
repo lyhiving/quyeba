@@ -1,1 +1,1 @@
-<?php exit(); ?>a:3:{s:5:"value";a:1:{s:4:"list";a:2:{s:18:"b2c_finder_coupons";s:18:"b2c_finder_coupons";s:24:"couponlog_finder_coupons";s:24:"couponlog_finder_coupons";}}s:3:"ttl";i:0;s:8:"dateline";i:1399010526;}
+<?php exit(); ?>a:3:{s:5:"value";a:1:{s:4:"list";a:2:{s:24:"couponlog_finder_coupons";s:24:"couponlog_finder_coupons";s:18:"b2c_finder_coupons";s:18:"b2c_finder_coupons";}}s:8:"dateline";s:10:"1368780734";s:3:"ttl";s:1:"0";}

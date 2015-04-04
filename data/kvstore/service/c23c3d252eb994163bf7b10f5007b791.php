@@ -1,1 +1,1 @@
-<?php exit(); ?>a:3:{s:5:"value";a:1:{s:4:"list";a:1:{s:29:"goodsapi_shopex_goods_cat_add";s:29:"goodsapi_shopex_goods_cat_add";}}s:3:"ttl";i:0;s:8:"dateline";i:1376708591;}
+<?php exit(); ?>a:3:{s:5:"value";a:1:{s:4:"list";a:1:{s:29:"goodsapi_shopex_goods_cat_add";s:29:"goodsapi_shopex_goods_cat_add";}}s:8:"dateline";s:10:"1368780800";s:3:"ttl";s:1:"0";}

@@ -9,4 +9,4 @@
 <span><?php echo $this->_vars['setting']['hotkey']; ?>:</span>
 <?php if($this->_vars['data']['search'])foreach ((array)$this->_vars['data']['search'] as $this->_vars['top_key'] => $this->_vars['toplink']){ ?>
 	<a href="<?php echo $this->_vars['toplink']['top_link_url']; ?>"><?php echo $this->_vars['toplink']['top_link_title']; ?></a>
-<?php } ?>";s:3:"ttl";i:0;s:8:"dateline";i:1376924101;}
+<?php } ?>";s:8:"dateline";s:10:"1376924101";s:3:"ttl";s:1:"0";}
