@@ -35639,3 +35639,4856 @@
 2015-04-04 10:55:52	200
 2015-04-04 10:55:52	 OK
 2015-04-04 10:55:52	
+2015-04-04 10:56:22	Spawn [Task-109] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/109
+2015-04-04 10:56:22	Resolving localhost... 
+2015-04-04 10:56:22	127.0.0.1
+2015-04-04 10:56:22	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:22	HTTP request sent, awaiting response... 
+2015-04-04 10:56:22	200
+2015-04-04 10:56:22	 OK
+2015-04-04 10:56:22	
+2015-04-04 10:56:22	Spawn [Task-110] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/110
+2015-04-04 10:56:22	Resolving localhost... 
+2015-04-04 10:56:22	127.0.0.1
+2015-04-04 10:56:22	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:22	HTTP request sent, awaiting response... 
+2015-04-04 10:56:22	200
+2015-04-04 10:56:22	 OK
+2015-04-04 10:56:22	
+2015-04-04 10:56:22	Spawn [Task-111] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/111
+2015-04-04 10:56:22	Resolving localhost... 
+2015-04-04 10:56:22	127.0.0.1
+2015-04-04 10:56:22	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:22	HTTP request sent, awaiting response... 
+2015-04-04 10:56:22	200
+2015-04-04 10:56:22	 OK
+2015-04-04 10:56:22	
+2015-04-04 10:56:22	Spawn [Task-112] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/112
+2015-04-04 10:56:22	Resolving localhost... 
+2015-04-04 10:56:22	127.0.0.1
+2015-04-04 10:56:22	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:22	HTTP request sent, awaiting response... 
+2015-04-04 10:56:22	200
+2015-04-04 10:56:22	 OK
+2015-04-04 10:56:22	
+2015-04-04 10:56:22	Spawn [Task-113] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/113
+2015-04-04 10:56:22	Resolving localhost... 
+2015-04-04 10:56:22	127.0.0.1
+2015-04-04 10:56:22	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:22	HTTP request sent, awaiting response... 
+2015-04-04 10:56:22	200
+2015-04-04 10:56:22	 OK
+2015-04-04 10:56:22	
+2015-04-04 10:56:22	Spawn [Task-114] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/114
+2015-04-04 10:56:22	Resolving localhost... 
+2015-04-04 10:56:22	127.0.0.1
+2015-04-04 10:56:22	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:22	HTTP request sent, awaiting response... 
+2015-04-04 10:56:22	200
+2015-04-04 10:56:22	 OK
+2015-04-04 10:56:22	
+2015-04-04 10:56:22	Spawn [Task-115] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/115
+2015-04-04 10:56:22	Resolving localhost... 
+2015-04-04 10:56:22	127.0.0.1
+2015-04-04 10:56:22	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:22	HTTP request sent, awaiting response... 
+2015-04-04 10:56:22	200
+2015-04-04 10:56:22	 OK
+2015-04-04 10:56:22	
+2015-04-04 10:56:22	Spawn [Task-116] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/116
+2015-04-04 10:56:22	Resolving localhost... 
+2015-04-04 10:56:22	127.0.0.1
+2015-04-04 10:56:22	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:22	HTTP request sent, awaiting response... 
+2015-04-04 10:56:22	200
+2015-04-04 10:56:22	 OK
+2015-04-04 10:56:22	
+2015-04-04 10:56:22	Spawn [Task-117] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/117
+2015-04-04 10:56:22	Resolving localhost... 
+2015-04-04 10:56:22	127.0.0.1
+2015-04-04 10:56:22	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:22	HTTP request sent, awaiting response... 
+2015-04-04 10:56:22	200
+2015-04-04 10:56:22	 OK
+2015-04-04 10:56:22	
+2015-04-04 10:56:22	Spawn [Task-118] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/118
+2015-04-04 10:56:22	Resolving localhost... 
+2015-04-04 10:56:22	127.0.0.1
+2015-04-04 10:56:22	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:22	HTTP request sent, awaiting response... 
+2015-04-04 10:56:22	200
+2015-04-04 10:56:22	 OK
+2015-04-04 10:56:22	
+2015-04-04 10:56:22	Spawn [Task-119] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/119
+2015-04-04 10:56:22	Resolving localhost... 
+2015-04-04 10:56:22	127.0.0.1
+2015-04-04 10:56:22	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:22	HTTP request sent, awaiting response... 
+2015-04-04 10:56:22	200
+2015-04-04 10:56:22	 OK
+2015-04-04 10:56:22	
+2015-04-04 10:56:22	Spawn [Task-120] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/120
+2015-04-04 10:56:22	Resolving localhost... 
+2015-04-04 10:56:22	127.0.0.1
+2015-04-04 10:56:22	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:22	HTTP request sent, awaiting response... 
+2015-04-04 10:56:22	200
+2015-04-04 10:56:22	 OK
+2015-04-04 10:56:22	
+2015-04-04 10:56:22	Spawn [Task-121] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/121
+2015-04-04 10:56:22	Resolving localhost... 
+2015-04-04 10:56:22	127.0.0.1
+2015-04-04 10:56:22	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:22	HTTP request sent, awaiting response... 
+2015-04-04 10:56:22	200
+2015-04-04 10:56:22	 OK
+2015-04-04 10:56:22	
+2015-04-04 10:56:22	Spawn [Task-122] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/122
+2015-04-04 10:56:22	Resolving localhost... 
+2015-04-04 10:56:22	127.0.0.1
+2015-04-04 10:56:22	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:22	HTTP request sent, awaiting response... 
+2015-04-04 10:56:22	200
+2015-04-04 10:56:22	 OK
+2015-04-04 10:56:22	
+2015-04-04 10:56:22	Spawn [Task-123] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/123
+2015-04-04 10:56:22	Resolving localhost... 
+2015-04-04 10:56:22	127.0.0.1
+2015-04-04 10:56:22	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:22	HTTP request sent, awaiting response... 
+2015-04-04 10:56:23	200
+2015-04-04 10:56:23	 OK
+2015-04-04 10:56:23	
+2015-04-04 10:56:23	Spawn [Task-124] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/124
+2015-04-04 10:56:23	Resolving localhost... 
+2015-04-04 10:56:23	127.0.0.1
+2015-04-04 10:56:23	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:23	HTTP request sent, awaiting response... 
+2015-04-04 10:56:23	200
+2015-04-04 10:56:23	 OK
+2015-04-04 10:56:23	
+2015-04-04 10:56:23	Spawn [Task-125] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/125
+2015-04-04 10:56:23	Resolving localhost... 
+2015-04-04 10:56:23	127.0.0.1
+2015-04-04 10:56:23	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:23	HTTP request sent, awaiting response... 
+2015-04-04 10:56:23	200
+2015-04-04 10:56:23	 OK
+2015-04-04 10:56:23	
+2015-04-04 10:56:23	Spawn [Task-126] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/126
+2015-04-04 10:56:23	Resolving localhost... 
+2015-04-04 10:56:23	127.0.0.1
+2015-04-04 10:56:23	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:23	HTTP request sent, awaiting response... 
+2015-04-04 10:56:23	200
+2015-04-04 10:56:23	 OK
+2015-04-04 10:56:23	
+2015-04-04 10:56:23	Spawn [Task-127] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/127
+2015-04-04 10:56:23	Resolving localhost... 
+2015-04-04 10:56:23	127.0.0.1
+2015-04-04 10:56:23	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:23	HTTP request sent, awaiting response... 
+2015-04-04 10:56:23	200
+2015-04-04 10:56:23	 OK
+2015-04-04 10:56:23	
+2015-04-04 10:56:23	Spawn [Task-128] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/128
+2015-04-04 10:56:23	Resolving localhost... 
+2015-04-04 10:56:23	127.0.0.1
+2015-04-04 10:56:23	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:23	HTTP request sent, awaiting response... 
+2015-04-04 10:56:23	200
+2015-04-04 10:56:23	 OK
+2015-04-04 10:56:23	
+2015-04-04 10:56:23	Spawn [Task-129] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/129
+2015-04-04 10:56:23	Resolving localhost... 
+2015-04-04 10:56:23	127.0.0.1
+2015-04-04 10:56:23	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:23	HTTP request sent, awaiting response... 
+2015-04-04 10:56:23	200
+2015-04-04 10:56:23	 OK
+2015-04-04 10:56:23	
+2015-04-04 10:56:23	Spawn [Task-130] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/130
+2015-04-04 10:56:23	Resolving localhost... 
+2015-04-04 10:56:23	127.0.0.1
+2015-04-04 10:56:23	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:23	HTTP request sent, awaiting response... 
+2015-04-04 10:56:23	200
+2015-04-04 10:56:23	 OK
+2015-04-04 10:56:23	
+2015-04-04 10:56:23	Spawn [Task-131] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/131
+2015-04-04 10:56:23	Resolving localhost... 
+2015-04-04 10:56:23	127.0.0.1
+2015-04-04 10:56:23	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:23	HTTP request sent, awaiting response... 
+2015-04-04 10:56:23	200
+2015-04-04 10:56:23	 OK
+2015-04-04 10:56:23	
+2015-04-04 10:56:23	Spawn [Task-132] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/132
+2015-04-04 10:56:23	Resolving localhost... 
+2015-04-04 10:56:23	127.0.0.1
+2015-04-04 10:56:23	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:23	HTTP request sent, awaiting response... 
+2015-04-04 10:56:23	200
+2015-04-04 10:56:23	 OK
+2015-04-04 10:56:23	
+2015-04-04 10:56:23	Spawn [Task-133] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/133
+2015-04-04 10:56:23	Resolving localhost... 
+2015-04-04 10:56:23	127.0.0.1
+2015-04-04 10:56:23	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:23	HTTP request sent, awaiting response... 
+2015-04-04 10:56:23	200
+2015-04-04 10:56:23	 OK
+2015-04-04 10:56:23	
+2015-04-04 10:56:23	Spawn [Task-134] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/134
+2015-04-04 10:56:23	Resolving localhost... 
+2015-04-04 10:56:23	127.0.0.1
+2015-04-04 10:56:23	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:23	HTTP request sent, awaiting response... 
+2015-04-04 10:56:23	200
+2015-04-04 10:56:23	 OK
+2015-04-04 10:56:23	
+2015-04-04 10:56:23	Spawn [Task-135] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/135
+2015-04-04 10:56:23	Resolving localhost... 
+2015-04-04 10:56:23	127.0.0.1
+2015-04-04 10:56:23	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:23	HTTP request sent, awaiting response... 
+2015-04-04 10:56:23	200
+2015-04-04 10:56:23	 OK
+2015-04-04 10:56:23	
+2015-04-04 10:56:23	Spawn [Task-136] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/136
+2015-04-04 10:56:23	Resolving localhost... 
+2015-04-04 10:56:23	127.0.0.1
+2015-04-04 10:56:23	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:23	HTTP request sent, awaiting response... 
+2015-04-04 10:56:23	200
+2015-04-04 10:56:23	 OK
+2015-04-04 10:56:23	
+2015-04-04 10:56:23	Spawn [Task-137] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/137
+2015-04-04 10:56:23	Resolving localhost... 
+2015-04-04 10:56:23	127.0.0.1
+2015-04-04 10:56:23	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:23	HTTP request sent, awaiting response... 
+2015-04-04 10:56:23	200
+2015-04-04 10:56:23	 OK
+2015-04-04 10:56:23	
+2015-04-04 10:56:23	Spawn [Task-138] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/138
+2015-04-04 10:56:23	Resolving localhost... 
+2015-04-04 10:56:23	127.0.0.1
+2015-04-04 10:56:23	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:23	HTTP request sent, awaiting response... 
+2015-04-04 10:56:23	200
+2015-04-04 10:56:23	 OK
+2015-04-04 10:56:23	
+2015-04-04 10:56:23	Spawn [Task-139] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/139
+2015-04-04 10:56:23	Resolving localhost... 
+2015-04-04 10:56:23	127.0.0.1
+2015-04-04 10:56:23	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:23	HTTP request sent, awaiting response... 
+2015-04-04 10:56:23	200
+2015-04-04 10:56:23	 OK
+2015-04-04 10:56:23	
+2015-04-04 10:56:23	Spawn [Task-140] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/140
+2015-04-04 10:56:23	Resolving localhost... 
+2015-04-04 10:56:23	127.0.0.1
+2015-04-04 10:56:23	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:23	HTTP request sent, awaiting response... 
+2015-04-04 10:56:23	200
+2015-04-04 10:56:23	 OK
+2015-04-04 10:56:23	
+2015-04-04 10:56:23	Spawn [Task-141] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/141
+2015-04-04 10:56:23	Resolving localhost... 
+2015-04-04 10:56:23	127.0.0.1
+2015-04-04 10:56:23	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:23	HTTP request sent, awaiting response... 
+2015-04-04 10:56:23	200
+2015-04-04 10:56:23	 OK
+2015-04-04 10:56:23	
+2015-04-04 10:56:53	Spawn [Task-109] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/109
+2015-04-04 10:56:53	Resolving localhost... 
+2015-04-04 10:56:53	127.0.0.1
+2015-04-04 10:56:53	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:53	HTTP request sent, awaiting response... 
+2015-04-04 10:56:53	200
+2015-04-04 10:56:53	 OK
+2015-04-04 10:56:53	
+2015-04-04 10:56:53	Spawn [Task-110] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/110
+2015-04-04 10:56:53	Resolving localhost... 
+2015-04-04 10:56:53	127.0.0.1
+2015-04-04 10:56:53	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:53	HTTP request sent, awaiting response... 
+2015-04-04 10:56:53	200
+2015-04-04 10:56:53	 OK
+2015-04-04 10:56:53	
+2015-04-04 10:56:53	Spawn [Task-111] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/111
+2015-04-04 10:56:53	Resolving localhost... 
+2015-04-04 10:56:53	127.0.0.1
+2015-04-04 10:56:53	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:53	HTTP request sent, awaiting response... 
+2015-04-04 10:56:53	200
+2015-04-04 10:56:53	 OK
+2015-04-04 10:56:53	
+2015-04-04 10:56:53	Spawn [Task-112] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/112
+2015-04-04 10:56:53	Resolving localhost... 
+2015-04-04 10:56:53	127.0.0.1
+2015-04-04 10:56:53	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:53	HTTP request sent, awaiting response... 
+2015-04-04 10:56:53	200
+2015-04-04 10:56:53	 OK
+2015-04-04 10:56:53	
+2015-04-04 10:56:53	Spawn [Task-113] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/113
+2015-04-04 10:56:53	Resolving localhost... 
+2015-04-04 10:56:53	127.0.0.1
+2015-04-04 10:56:53	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:53	HTTP request sent, awaiting response... 
+2015-04-04 10:56:53	200
+2015-04-04 10:56:53	 OK
+2015-04-04 10:56:53	
+2015-04-04 10:56:53	Spawn [Task-114] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/114
+2015-04-04 10:56:53	Resolving localhost... 
+2015-04-04 10:56:53	127.0.0.1
+2015-04-04 10:56:53	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:53	HTTP request sent, awaiting response... 
+2015-04-04 10:56:53	200
+2015-04-04 10:56:53	 OK
+2015-04-04 10:56:53	
+2015-04-04 10:56:53	Spawn [Task-115] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/115
+2015-04-04 10:56:53	Resolving localhost... 
+2015-04-04 10:56:53	127.0.0.1
+2015-04-04 10:56:53	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:53	HTTP request sent, awaiting response... 
+2015-04-04 10:56:53	200
+2015-04-04 10:56:53	 OK
+2015-04-04 10:56:53	
+2015-04-04 10:56:53	Spawn [Task-116] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/116
+2015-04-04 10:56:53	Resolving localhost... 
+2015-04-04 10:56:53	127.0.0.1
+2015-04-04 10:56:53	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:53	HTTP request sent, awaiting response... 
+2015-04-04 10:56:53	200
+2015-04-04 10:56:53	 OK
+2015-04-04 10:56:53	
+2015-04-04 10:56:53	Spawn [Task-117] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/117
+2015-04-04 10:56:53	Resolving localhost... 
+2015-04-04 10:56:53	127.0.0.1
+2015-04-04 10:56:53	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:53	HTTP request sent, awaiting response... 
+2015-04-04 10:56:53	200
+2015-04-04 10:56:53	 OK
+2015-04-04 10:56:53	
+2015-04-04 10:56:53	Spawn [Task-118] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/118
+2015-04-04 10:56:53	Resolving localhost... 
+2015-04-04 10:56:53	127.0.0.1
+2015-04-04 10:56:53	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:53	HTTP request sent, awaiting response... 
+2015-04-04 10:56:53	200
+2015-04-04 10:56:53	 OK
+2015-04-04 10:56:53	
+2015-04-04 10:56:53	Spawn [Task-119] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/119
+2015-04-04 10:56:53	Resolving localhost... 
+2015-04-04 10:56:53	127.0.0.1
+2015-04-04 10:56:53	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:53	HTTP request sent, awaiting response... 
+2015-04-04 10:56:53	200
+2015-04-04 10:56:53	 OK
+2015-04-04 10:56:53	
+2015-04-04 10:56:53	Spawn [Task-120] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/120
+2015-04-04 10:56:53	Resolving localhost... 
+2015-04-04 10:56:53	127.0.0.1
+2015-04-04 10:56:53	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:53	HTTP request sent, awaiting response... 
+2015-04-04 10:56:53	200
+2015-04-04 10:56:53	 OK
+2015-04-04 10:56:53	
+2015-04-04 10:56:53	Spawn [Task-121] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/121
+2015-04-04 10:56:53	Resolving localhost... 
+2015-04-04 10:56:53	127.0.0.1
+2015-04-04 10:56:53	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:53	HTTP request sent, awaiting response... 
+2015-04-04 10:56:53	200
+2015-04-04 10:56:53	 OK
+2015-04-04 10:56:53	
+2015-04-04 10:56:53	Spawn [Task-122] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/122
+2015-04-04 10:56:53	Resolving localhost... 
+2015-04-04 10:56:53	127.0.0.1
+2015-04-04 10:56:53	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:53	HTTP request sent, awaiting response... 
+2015-04-04 10:56:53	200
+2015-04-04 10:56:53	 OK
+2015-04-04 10:56:53	
+2015-04-04 10:56:53	Spawn [Task-123] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/123
+2015-04-04 10:56:53	Resolving localhost... 
+2015-04-04 10:56:53	127.0.0.1
+2015-04-04 10:56:53	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:53	HTTP request sent, awaiting response... 
+2015-04-04 10:56:53	200
+2015-04-04 10:56:53	 OK
+2015-04-04 10:56:53	
+2015-04-04 10:56:53	Spawn [Task-124] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/124
+2015-04-04 10:56:53	Resolving localhost... 
+2015-04-04 10:56:53	127.0.0.1
+2015-04-04 10:56:53	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:53	HTTP request sent, awaiting response... 
+2015-04-04 10:56:53	200
+2015-04-04 10:56:53	 OK
+2015-04-04 10:56:53	
+2015-04-04 10:56:53	Spawn [Task-125] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/125
+2015-04-04 10:56:53	Resolving localhost... 
+2015-04-04 10:56:53	127.0.0.1
+2015-04-04 10:56:53	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:53	HTTP request sent, awaiting response... 
+2015-04-04 10:56:53	200
+2015-04-04 10:56:53	 OK
+2015-04-04 10:56:53	
+2015-04-04 10:56:53	Spawn [Task-126] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/126
+2015-04-04 10:56:53	Resolving localhost... 
+2015-04-04 10:56:53	127.0.0.1
+2015-04-04 10:56:53	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:54	HTTP request sent, awaiting response... 
+2015-04-04 10:56:54	200
+2015-04-04 10:56:54	 OK
+2015-04-04 10:56:54	
+2015-04-04 10:56:54	Spawn [Task-127] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/127
+2015-04-04 10:56:54	Resolving localhost... 
+2015-04-04 10:56:54	127.0.0.1
+2015-04-04 10:56:54	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:54	HTTP request sent, awaiting response... 
+2015-04-04 10:56:54	200
+2015-04-04 10:56:54	 OK
+2015-04-04 10:56:54	
+2015-04-04 10:56:54	Spawn [Task-128] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/128
+2015-04-04 10:56:54	Resolving localhost... 
+2015-04-04 10:56:54	127.0.0.1
+2015-04-04 10:56:54	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:54	HTTP request sent, awaiting response... 
+2015-04-04 10:56:54	200
+2015-04-04 10:56:54	 OK
+2015-04-04 10:56:54	
+2015-04-04 10:56:54	Spawn [Task-129] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/129
+2015-04-04 10:56:54	Resolving localhost... 
+2015-04-04 10:56:54	127.0.0.1
+2015-04-04 10:56:54	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:54	HTTP request sent, awaiting response... 
+2015-04-04 10:56:54	200
+2015-04-04 10:56:54	 OK
+2015-04-04 10:56:54	
+2015-04-04 10:56:54	Spawn [Task-130] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/130
+2015-04-04 10:56:54	Resolving localhost... 
+2015-04-04 10:56:54	127.0.0.1
+2015-04-04 10:56:54	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:54	HTTP request sent, awaiting response... 
+2015-04-04 10:56:54	200
+2015-04-04 10:56:54	 OK
+2015-04-04 10:56:54	
+2015-04-04 10:56:54	Spawn [Task-131] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/131
+2015-04-04 10:56:54	Resolving localhost... 
+2015-04-04 10:56:54	127.0.0.1
+2015-04-04 10:56:54	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:54	HTTP request sent, awaiting response... 
+2015-04-04 10:56:54	200
+2015-04-04 10:56:54	 OK
+2015-04-04 10:56:54	
+2015-04-04 10:56:54	Spawn [Task-132] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/132
+2015-04-04 10:56:54	Resolving localhost... 
+2015-04-04 10:56:54	127.0.0.1
+2015-04-04 10:56:54	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:54	HTTP request sent, awaiting response... 
+2015-04-04 10:56:54	200
+2015-04-04 10:56:54	 OK
+2015-04-04 10:56:54	
+2015-04-04 10:56:54	Spawn [Task-133] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/133
+2015-04-04 10:56:54	Resolving localhost... 
+2015-04-04 10:56:54	127.0.0.1
+2015-04-04 10:56:54	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:54	HTTP request sent, awaiting response... 
+2015-04-04 10:56:54	200
+2015-04-04 10:56:54	 OK
+2015-04-04 10:56:54	
+2015-04-04 10:56:54	Spawn [Task-134] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/134
+2015-04-04 10:56:54	Resolving localhost... 
+2015-04-04 10:56:54	127.0.0.1
+2015-04-04 10:56:54	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:54	HTTP request sent, awaiting response... 
+2015-04-04 10:56:54	200
+2015-04-04 10:56:54	 OK
+2015-04-04 10:56:54	
+2015-04-04 10:56:54	Spawn [Task-135] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/135
+2015-04-04 10:56:54	Resolving localhost... 
+2015-04-04 10:56:54	127.0.0.1
+2015-04-04 10:56:54	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:54	HTTP request sent, awaiting response... 
+2015-04-04 10:56:54	200
+2015-04-04 10:56:54	 OK
+2015-04-04 10:56:54	
+2015-04-04 10:56:54	Spawn [Task-136] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/136
+2015-04-04 10:56:54	Resolving localhost... 
+2015-04-04 10:56:54	127.0.0.1
+2015-04-04 10:56:54	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:54	HTTP request sent, awaiting response... 
+2015-04-04 10:56:54	200
+2015-04-04 10:56:54	 OK
+2015-04-04 10:56:54	
+2015-04-04 10:56:54	Spawn [Task-137] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/137
+2015-04-04 10:56:54	Resolving localhost... 
+2015-04-04 10:56:54	127.0.0.1
+2015-04-04 10:56:54	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:54	HTTP request sent, awaiting response... 
+2015-04-04 10:56:54	200
+2015-04-04 10:56:54	 OK
+2015-04-04 10:56:54	
+2015-04-04 10:56:54	Spawn [Task-138] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/138
+2015-04-04 10:56:54	Resolving localhost... 
+2015-04-04 10:56:54	127.0.0.1
+2015-04-04 10:56:54	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:54	HTTP request sent, awaiting response... 
+2015-04-04 10:56:54	200
+2015-04-04 10:56:54	 OK
+2015-04-04 10:56:54	
+2015-04-04 10:56:54	Spawn [Task-139] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/139
+2015-04-04 10:56:54	Resolving localhost... 
+2015-04-04 10:56:54	127.0.0.1
+2015-04-04 10:56:54	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:54	HTTP request sent, awaiting response... 
+2015-04-04 10:56:54	200
+2015-04-04 10:56:54	 OK
+2015-04-04 10:56:54	
+2015-04-04 10:56:54	Spawn [Task-140] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/140
+2015-04-04 10:56:54	Resolving localhost... 
+2015-04-04 10:56:54	127.0.0.1
+2015-04-04 10:56:54	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:54	HTTP request sent, awaiting response... 
+2015-04-04 10:56:54	200
+2015-04-04 10:56:54	 OK
+2015-04-04 10:56:54	
+2015-04-04 10:56:54	Spawn [Task-141] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/141
+2015-04-04 10:56:54	Resolving localhost... 
+2015-04-04 10:56:54	127.0.0.1
+2015-04-04 10:56:54	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:56:54	HTTP request sent, awaiting response... 
+2015-04-04 10:56:54	200
+2015-04-04 10:56:54	 OK
+2015-04-04 10:56:54	
+2015-04-04 10:57:24	Spawn [Task-109] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/109
+2015-04-04 10:57:24	Resolving localhost... 
+2015-04-04 10:57:24	127.0.0.1
+2015-04-04 10:57:24	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:24	HTTP request sent, awaiting response... 
+2015-04-04 10:57:24	200
+2015-04-04 10:57:24	 OK
+2015-04-04 10:57:24	
+2015-04-04 10:57:24	Spawn [Task-110] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/110
+2015-04-04 10:57:24	Resolving localhost... 
+2015-04-04 10:57:24	127.0.0.1
+2015-04-04 10:57:24	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:24	HTTP request sent, awaiting response... 
+2015-04-04 10:57:24	200
+2015-04-04 10:57:24	 OK
+2015-04-04 10:57:24	
+2015-04-04 10:57:24	Spawn [Task-111] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/111
+2015-04-04 10:57:24	Resolving localhost... 
+2015-04-04 10:57:24	127.0.0.1
+2015-04-04 10:57:24	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:24	HTTP request sent, awaiting response... 
+2015-04-04 10:57:24	200
+2015-04-04 10:57:24	 OK
+2015-04-04 10:57:24	
+2015-04-04 10:57:24	Spawn [Task-112] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/112
+2015-04-04 10:57:24	Resolving localhost... 
+2015-04-04 10:57:24	127.0.0.1
+2015-04-04 10:57:24	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:24	HTTP request sent, awaiting response... 
+2015-04-04 10:57:24	200
+2015-04-04 10:57:24	 OK
+2015-04-04 10:57:24	
+2015-04-04 10:57:24	Spawn [Task-113] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/113
+2015-04-04 10:57:24	Resolving localhost... 
+2015-04-04 10:57:24	127.0.0.1
+2015-04-04 10:57:24	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:24	HTTP request sent, awaiting response... 
+2015-04-04 10:57:24	200
+2015-04-04 10:57:24	 OK
+2015-04-04 10:57:24	
+2015-04-04 10:57:24	Spawn [Task-114] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/114
+2015-04-04 10:57:24	Resolving localhost... 
+2015-04-04 10:57:24	127.0.0.1
+2015-04-04 10:57:24	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:24	HTTP request sent, awaiting response... 
+2015-04-04 10:57:24	200
+2015-04-04 10:57:24	 OK
+2015-04-04 10:57:24	
+2015-04-04 10:57:24	Spawn [Task-115] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/115
+2015-04-04 10:57:24	Resolving localhost... 
+2015-04-04 10:57:24	127.0.0.1
+2015-04-04 10:57:24	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:24	HTTP request sent, awaiting response... 
+2015-04-04 10:57:24	200
+2015-04-04 10:57:24	 OK
+2015-04-04 10:57:24	
+2015-04-04 10:57:24	Spawn [Task-116] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/116
+2015-04-04 10:57:24	Resolving localhost... 
+2015-04-04 10:57:24	127.0.0.1
+2015-04-04 10:57:24	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:24	HTTP request sent, awaiting response... 
+2015-04-04 10:57:24	200
+2015-04-04 10:57:24	 OK
+2015-04-04 10:57:24	
+2015-04-04 10:57:24	Spawn [Task-117] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/117
+2015-04-04 10:57:24	Resolving localhost... 
+2015-04-04 10:57:24	127.0.0.1
+2015-04-04 10:57:24	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:24	HTTP request sent, awaiting response... 
+2015-04-04 10:57:24	200
+2015-04-04 10:57:24	 OK
+2015-04-04 10:57:24	
+2015-04-04 10:57:24	Spawn [Task-118] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/118
+2015-04-04 10:57:24	Resolving localhost... 
+2015-04-04 10:57:24	127.0.0.1
+2015-04-04 10:57:24	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:24	HTTP request sent, awaiting response... 
+2015-04-04 10:57:24	200
+2015-04-04 10:57:24	 OK
+2015-04-04 10:57:24	
+2015-04-04 10:57:24	Spawn [Task-119] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/119
+2015-04-04 10:57:24	Resolving localhost... 
+2015-04-04 10:57:24	127.0.0.1
+2015-04-04 10:57:24	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:24	HTTP request sent, awaiting response... 
+2015-04-04 10:57:24	200
+2015-04-04 10:57:24	 OK
+2015-04-04 10:57:24	
+2015-04-04 10:57:24	Spawn [Task-120] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/120
+2015-04-04 10:57:24	Resolving localhost... 
+2015-04-04 10:57:24	127.0.0.1
+2015-04-04 10:57:24	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:24	HTTP request sent, awaiting response... 
+2015-04-04 10:57:24	200
+2015-04-04 10:57:24	 OK
+2015-04-04 10:57:24	
+2015-04-04 10:57:24	Spawn [Task-121] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/121
+2015-04-04 10:57:24	Resolving localhost... 
+2015-04-04 10:57:24	127.0.0.1
+2015-04-04 10:57:24	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:24	HTTP request sent, awaiting response... 
+2015-04-04 10:57:24	200
+2015-04-04 10:57:24	 OK
+2015-04-04 10:57:24	
+2015-04-04 10:57:24	Spawn [Task-122] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/122
+2015-04-04 10:57:24	Resolving localhost... 
+2015-04-04 10:57:24	127.0.0.1
+2015-04-04 10:57:24	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:24	HTTP request sent, awaiting response... 
+2015-04-04 10:57:24	200
+2015-04-04 10:57:24	 OK
+2015-04-04 10:57:24	
+2015-04-04 10:57:24	Spawn [Task-123] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/123
+2015-04-04 10:57:24	Resolving localhost... 
+2015-04-04 10:57:24	127.0.0.1
+2015-04-04 10:57:24	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:24	HTTP request sent, awaiting response... 
+2015-04-04 10:57:24	200
+2015-04-04 10:57:24	 OK
+2015-04-04 10:57:24	
+2015-04-04 10:57:24	Spawn [Task-124] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/124
+2015-04-04 10:57:24	Resolving localhost... 
+2015-04-04 10:57:24	127.0.0.1
+2015-04-04 10:57:24	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:24	HTTP request sent, awaiting response... 
+2015-04-04 10:57:24	200
+2015-04-04 10:57:24	 OK
+2015-04-04 10:57:24	
+2015-04-04 10:57:24	Spawn [Task-125] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/125
+2015-04-04 10:57:24	Resolving localhost... 
+2015-04-04 10:57:24	127.0.0.1
+2015-04-04 10:57:24	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:24	HTTP request sent, awaiting response... 
+2015-04-04 10:57:24	200
+2015-04-04 10:57:24	 OK
+2015-04-04 10:57:24	
+2015-04-04 10:57:24	Spawn [Task-126] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/126
+2015-04-04 10:57:24	Resolving localhost... 
+2015-04-04 10:57:24	127.0.0.1
+2015-04-04 10:57:24	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:24	HTTP request sent, awaiting response... 
+2015-04-04 10:57:24	200
+2015-04-04 10:57:24	 OK
+2015-04-04 10:57:24	
+2015-04-04 10:57:24	Spawn [Task-127] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/127
+2015-04-04 10:57:24	Resolving localhost... 
+2015-04-04 10:57:24	127.0.0.1
+2015-04-04 10:57:24	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:24	HTTP request sent, awaiting response... 
+2015-04-04 10:57:24	200
+2015-04-04 10:57:24	 OK
+2015-04-04 10:57:24	
+2015-04-04 10:57:24	Spawn [Task-128] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/128
+2015-04-04 10:57:24	Resolving localhost... 
+2015-04-04 10:57:24	127.0.0.1
+2015-04-04 10:57:24	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:24	HTTP request sent, awaiting response... 
+2015-04-04 10:57:24	200
+2015-04-04 10:57:24	 OK
+2015-04-04 10:57:24	
+2015-04-04 10:57:24	Spawn [Task-129] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/129
+2015-04-04 10:57:24	Resolving localhost... 
+2015-04-04 10:57:24	127.0.0.1
+2015-04-04 10:57:24	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:25	HTTP request sent, awaiting response... 
+2015-04-04 10:57:25	200
+2015-04-04 10:57:25	 OK
+2015-04-04 10:57:25	
+2015-04-04 10:57:25	Spawn [Task-130] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/130
+2015-04-04 10:57:25	Resolving localhost... 
+2015-04-04 10:57:25	127.0.0.1
+2015-04-04 10:57:25	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:25	HTTP request sent, awaiting response... 
+2015-04-04 10:57:25	200
+2015-04-04 10:57:25	 OK
+2015-04-04 10:57:25	
+2015-04-04 10:57:25	Spawn [Task-131] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/131
+2015-04-04 10:57:25	Resolving localhost... 
+2015-04-04 10:57:25	127.0.0.1
+2015-04-04 10:57:25	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:25	HTTP request sent, awaiting response... 
+2015-04-04 10:57:25	200
+2015-04-04 10:57:25	 OK
+2015-04-04 10:57:25	
+2015-04-04 10:57:25	Spawn [Task-132] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/132
+2015-04-04 10:57:25	Resolving localhost... 
+2015-04-04 10:57:25	127.0.0.1
+2015-04-04 10:57:25	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:25	HTTP request sent, awaiting response... 
+2015-04-04 10:57:25	200
+2015-04-04 10:57:25	 OK
+2015-04-04 10:57:25	
+2015-04-04 10:57:25	Spawn [Task-133] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/133
+2015-04-04 10:57:25	Resolving localhost... 
+2015-04-04 10:57:25	127.0.0.1
+2015-04-04 10:57:25	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:25	HTTP request sent, awaiting response... 
+2015-04-04 10:57:25	200
+2015-04-04 10:57:25	 OK
+2015-04-04 10:57:25	
+2015-04-04 10:57:25	Spawn [Task-134] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/134
+2015-04-04 10:57:25	Resolving localhost... 
+2015-04-04 10:57:25	127.0.0.1
+2015-04-04 10:57:25	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:25	HTTP request sent, awaiting response... 
+2015-04-04 10:57:25	200
+2015-04-04 10:57:25	 OK
+2015-04-04 10:57:25	
+2015-04-04 10:57:25	Spawn [Task-135] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/135
+2015-04-04 10:57:25	Resolving localhost... 
+2015-04-04 10:57:25	127.0.0.1
+2015-04-04 10:57:25	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:25	HTTP request sent, awaiting response... 
+2015-04-04 10:57:25	200
+2015-04-04 10:57:25	 OK
+2015-04-04 10:57:25	
+2015-04-04 10:57:25	Spawn [Task-136] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/136
+2015-04-04 10:57:25	Resolving localhost... 
+2015-04-04 10:57:25	127.0.0.1
+2015-04-04 10:57:25	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:25	HTTP request sent, awaiting response... 
+2015-04-04 10:57:25	200
+2015-04-04 10:57:25	 OK
+2015-04-04 10:57:25	
+2015-04-04 10:57:25	Spawn [Task-137] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/137
+2015-04-04 10:57:25	Resolving localhost... 
+2015-04-04 10:57:25	127.0.0.1
+2015-04-04 10:57:25	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:25	HTTP request sent, awaiting response... 
+2015-04-04 10:57:25	200
+2015-04-04 10:57:25	 OK
+2015-04-04 10:57:25	
+2015-04-04 10:57:25	Spawn [Task-138] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/138
+2015-04-04 10:57:25	Resolving localhost... 
+2015-04-04 10:57:25	127.0.0.1
+2015-04-04 10:57:25	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:25	HTTP request sent, awaiting response... 
+2015-04-04 10:57:25	200
+2015-04-04 10:57:25	 OK
+2015-04-04 10:57:25	
+2015-04-04 10:57:25	Spawn [Task-139] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/139
+2015-04-04 10:57:25	Resolving localhost... 
+2015-04-04 10:57:25	127.0.0.1
+2015-04-04 10:57:25	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:25	HTTP request sent, awaiting response... 
+2015-04-04 10:57:25	200
+2015-04-04 10:57:25	 OK
+2015-04-04 10:57:25	
+2015-04-04 10:57:25	Spawn [Task-140] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/140
+2015-04-04 10:57:25	Resolving localhost... 
+2015-04-04 10:57:25	127.0.0.1
+2015-04-04 10:57:25	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:25	HTTP request sent, awaiting response... 
+2015-04-04 10:57:25	200
+2015-04-04 10:57:25	 OK
+2015-04-04 10:57:25	
+2015-04-04 10:57:25	Spawn [Task-141] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/141
+2015-04-04 10:57:25	Resolving localhost... 
+2015-04-04 10:57:25	127.0.0.1
+2015-04-04 10:57:25	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:25	HTTP request sent, awaiting response... 
+2015-04-04 10:57:25	200
+2015-04-04 10:57:25	 OK
+2015-04-04 10:57:25	
+2015-04-04 10:57:55	Spawn [Task-109] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/109
+2015-04-04 10:57:55	Resolving localhost... 
+2015-04-04 10:57:55	127.0.0.1
+2015-04-04 10:57:55	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:55	HTTP request sent, awaiting response... 
+2015-04-04 10:57:55	200
+2015-04-04 10:57:55	 OK
+2015-04-04 10:57:55	
+2015-04-04 10:57:55	Spawn [Task-110] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/110
+2015-04-04 10:57:55	Resolving localhost... 
+2015-04-04 10:57:55	127.0.0.1
+2015-04-04 10:57:55	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:55	HTTP request sent, awaiting response... 
+2015-04-04 10:57:55	200
+2015-04-04 10:57:55	 OK
+2015-04-04 10:57:55	
+2015-04-04 10:57:55	Spawn [Task-111] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/111
+2015-04-04 10:57:55	Resolving localhost... 
+2015-04-04 10:57:55	127.0.0.1
+2015-04-04 10:57:55	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:55	HTTP request sent, awaiting response... 
+2015-04-04 10:57:55	200
+2015-04-04 10:57:55	 OK
+2015-04-04 10:57:55	
+2015-04-04 10:57:55	Spawn [Task-112] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/112
+2015-04-04 10:57:55	Resolving localhost... 
+2015-04-04 10:57:55	127.0.0.1
+2015-04-04 10:57:55	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:55	HTTP request sent, awaiting response... 
+2015-04-04 10:57:55	200
+2015-04-04 10:57:55	 OK
+2015-04-04 10:57:55	
+2015-04-04 10:57:55	Spawn [Task-113] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/113
+2015-04-04 10:57:55	Resolving localhost... 
+2015-04-04 10:57:55	127.0.0.1
+2015-04-04 10:57:55	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:55	HTTP request sent, awaiting response... 
+2015-04-04 10:57:55	200
+2015-04-04 10:57:55	 OK
+2015-04-04 10:57:55	
+2015-04-04 10:57:55	Spawn [Task-114] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/114
+2015-04-04 10:57:55	Resolving localhost... 
+2015-04-04 10:57:55	127.0.0.1
+2015-04-04 10:57:55	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:55	HTTP request sent, awaiting response... 
+2015-04-04 10:57:55	200
+2015-04-04 10:57:55	 OK
+2015-04-04 10:57:55	
+2015-04-04 10:57:55	Spawn [Task-115] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/115
+2015-04-04 10:57:55	Resolving localhost... 
+2015-04-04 10:57:55	127.0.0.1
+2015-04-04 10:57:55	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:55	HTTP request sent, awaiting response... 
+2015-04-04 10:57:55	200
+2015-04-04 10:57:55	 OK
+2015-04-04 10:57:55	
+2015-04-04 10:57:55	Spawn [Task-116] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/116
+2015-04-04 10:57:55	Resolving localhost... 
+2015-04-04 10:57:55	127.0.0.1
+2015-04-04 10:57:55	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:55	HTTP request sent, awaiting response... 
+2015-04-04 10:57:55	200
+2015-04-04 10:57:55	 OK
+2015-04-04 10:57:55	
+2015-04-04 10:57:55	Spawn [Task-117] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/117
+2015-04-04 10:57:55	Resolving localhost... 
+2015-04-04 10:57:55	127.0.0.1
+2015-04-04 10:57:55	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:55	HTTP request sent, awaiting response... 
+2015-04-04 10:57:55	200
+2015-04-04 10:57:55	 OK
+2015-04-04 10:57:55	
+2015-04-04 10:57:55	Spawn [Task-118] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/118
+2015-04-04 10:57:55	Resolving localhost... 
+2015-04-04 10:57:55	127.0.0.1
+2015-04-04 10:57:55	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:55	HTTP request sent, awaiting response... 
+2015-04-04 10:57:55	200
+2015-04-04 10:57:55	 OK
+2015-04-04 10:57:55	
+2015-04-04 10:57:55	Spawn [Task-119] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/119
+2015-04-04 10:57:55	Resolving localhost... 
+2015-04-04 10:57:55	127.0.0.1
+2015-04-04 10:57:55	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:55	HTTP request sent, awaiting response... 
+2015-04-04 10:57:55	200
+2015-04-04 10:57:55	 OK
+2015-04-04 10:57:55	
+2015-04-04 10:57:55	Spawn [Task-120] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/120
+2015-04-04 10:57:55	Resolving localhost... 
+2015-04-04 10:57:55	127.0.0.1
+2015-04-04 10:57:55	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:55	HTTP request sent, awaiting response... 
+2015-04-04 10:57:55	200
+2015-04-04 10:57:55	 OK
+2015-04-04 10:57:55	
+2015-04-04 10:57:55	Spawn [Task-121] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/121
+2015-04-04 10:57:55	Resolving localhost... 
+2015-04-04 10:57:55	127.0.0.1
+2015-04-04 10:57:55	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:55	HTTP request sent, awaiting response... 
+2015-04-04 10:57:55	200
+2015-04-04 10:57:55	 OK
+2015-04-04 10:57:55	
+2015-04-04 10:57:55	Spawn [Task-122] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/122
+2015-04-04 10:57:55	Resolving localhost... 
+2015-04-04 10:57:55	127.0.0.1
+2015-04-04 10:57:55	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:55	HTTP request sent, awaiting response... 
+2015-04-04 10:57:55	200
+2015-04-04 10:57:55	 OK
+2015-04-04 10:57:55	
+2015-04-04 10:57:55	Spawn [Task-123] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/123
+2015-04-04 10:57:55	Resolving localhost... 
+2015-04-04 10:57:55	127.0.0.1
+2015-04-04 10:57:55	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:55	HTTP request sent, awaiting response... 
+2015-04-04 10:57:55	200
+2015-04-04 10:57:55	 OK
+2015-04-04 10:57:55	
+2015-04-04 10:57:55	Spawn [Task-124] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/124
+2015-04-04 10:57:55	Resolving localhost... 
+2015-04-04 10:57:55	127.0.0.1
+2015-04-04 10:57:55	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:55	HTTP request sent, awaiting response... 
+2015-04-04 10:57:55	200
+2015-04-04 10:57:55	 OK
+2015-04-04 10:57:55	
+2015-04-04 10:57:55	Spawn [Task-125] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/125
+2015-04-04 10:57:55	Resolving localhost... 
+2015-04-04 10:57:55	127.0.0.1
+2015-04-04 10:57:55	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:55	HTTP request sent, awaiting response... 
+2015-04-04 10:57:55	200
+2015-04-04 10:57:55	 OK
+2015-04-04 10:57:55	
+2015-04-04 10:57:55	Spawn [Task-126] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/126
+2015-04-04 10:57:55	Resolving localhost... 
+2015-04-04 10:57:55	127.0.0.1
+2015-04-04 10:57:55	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:55	HTTP request sent, awaiting response... 
+2015-04-04 10:57:55	200
+2015-04-04 10:57:55	 OK
+2015-04-04 10:57:55	
+2015-04-04 10:57:55	Spawn [Task-127] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/127
+2015-04-04 10:57:55	Resolving localhost... 
+2015-04-04 10:57:55	127.0.0.1
+2015-04-04 10:57:55	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:55	HTTP request sent, awaiting response... 
+2015-04-04 10:57:55	200
+2015-04-04 10:57:55	 OK
+2015-04-04 10:57:55	
+2015-04-04 10:57:55	Spawn [Task-128] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/128
+2015-04-04 10:57:55	Resolving localhost... 
+2015-04-04 10:57:55	127.0.0.1
+2015-04-04 10:57:55	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:55	HTTP request sent, awaiting response... 
+2015-04-04 10:57:55	200
+2015-04-04 10:57:55	 OK
+2015-04-04 10:57:55	
+2015-04-04 10:57:55	Spawn [Task-129] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/129
+2015-04-04 10:57:55	Resolving localhost... 
+2015-04-04 10:57:55	127.0.0.1
+2015-04-04 10:57:55	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:56	HTTP request sent, awaiting response... 
+2015-04-04 10:57:56	200
+2015-04-04 10:57:56	 OK
+2015-04-04 10:57:56	
+2015-04-04 10:57:56	Spawn [Task-130] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/130
+2015-04-04 10:57:56	Resolving localhost... 
+2015-04-04 10:57:56	127.0.0.1
+2015-04-04 10:57:56	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:56	HTTP request sent, awaiting response... 
+2015-04-04 10:57:56	200
+2015-04-04 10:57:56	 OK
+2015-04-04 10:57:56	
+2015-04-04 10:57:56	Spawn [Task-131] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/131
+2015-04-04 10:57:56	Resolving localhost... 
+2015-04-04 10:57:56	127.0.0.1
+2015-04-04 10:57:56	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:56	HTTP request sent, awaiting response... 
+2015-04-04 10:57:56	200
+2015-04-04 10:57:56	 OK
+2015-04-04 10:57:56	
+2015-04-04 10:57:56	Spawn [Task-132] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/132
+2015-04-04 10:57:56	Resolving localhost... 
+2015-04-04 10:57:56	127.0.0.1
+2015-04-04 10:57:56	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:56	HTTP request sent, awaiting response... 
+2015-04-04 10:57:56	200
+2015-04-04 10:57:56	 OK
+2015-04-04 10:57:56	
+2015-04-04 10:57:56	Spawn [Task-133] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/133
+2015-04-04 10:57:56	Resolving localhost... 
+2015-04-04 10:57:56	127.0.0.1
+2015-04-04 10:57:56	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:56	HTTP request sent, awaiting response... 
+2015-04-04 10:57:56	200
+2015-04-04 10:57:56	 OK
+2015-04-04 10:57:56	
+2015-04-04 10:57:56	Spawn [Task-134] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/134
+2015-04-04 10:57:56	Resolving localhost... 
+2015-04-04 10:57:56	127.0.0.1
+2015-04-04 10:57:56	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:56	HTTP request sent, awaiting response... 
+2015-04-04 10:57:56	200
+2015-04-04 10:57:56	 OK
+2015-04-04 10:57:56	
+2015-04-04 10:57:56	Spawn [Task-135] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/135
+2015-04-04 10:57:56	Resolving localhost... 
+2015-04-04 10:57:56	127.0.0.1
+2015-04-04 10:57:56	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:56	HTTP request sent, awaiting response... 
+2015-04-04 10:57:56	200
+2015-04-04 10:57:56	 OK
+2015-04-04 10:57:56	
+2015-04-04 10:57:56	Spawn [Task-136] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/136
+2015-04-04 10:57:56	Resolving localhost... 
+2015-04-04 10:57:56	127.0.0.1
+2015-04-04 10:57:56	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:56	HTTP request sent, awaiting response... 
+2015-04-04 10:57:56	200
+2015-04-04 10:57:56	 OK
+2015-04-04 10:57:56	
+2015-04-04 10:57:56	Spawn [Task-137] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/137
+2015-04-04 10:57:56	Resolving localhost... 
+2015-04-04 10:57:56	127.0.0.1
+2015-04-04 10:57:56	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:56	HTTP request sent, awaiting response... 
+2015-04-04 10:57:56	200
+2015-04-04 10:57:56	 OK
+2015-04-04 10:57:56	
+2015-04-04 10:57:56	Spawn [Task-138] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/138
+2015-04-04 10:57:56	Resolving localhost... 
+2015-04-04 10:57:56	127.0.0.1
+2015-04-04 10:57:56	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:56	HTTP request sent, awaiting response... 
+2015-04-04 10:57:56	200
+2015-04-04 10:57:56	 OK
+2015-04-04 10:57:56	
+2015-04-04 10:57:56	Spawn [Task-139] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/139
+2015-04-04 10:57:56	Resolving localhost... 
+2015-04-04 10:57:56	127.0.0.1
+2015-04-04 10:57:56	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:56	HTTP request sent, awaiting response... 
+2015-04-04 10:57:56	200
+2015-04-04 10:57:56	 OK
+2015-04-04 10:57:56	
+2015-04-04 10:57:56	Spawn [Task-140] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/140
+2015-04-04 10:57:56	Resolving localhost... 
+2015-04-04 10:57:56	127.0.0.1
+2015-04-04 10:57:56	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:56	HTTP request sent, awaiting response... 
+2015-04-04 10:57:56	200
+2015-04-04 10:57:56	 OK
+2015-04-04 10:57:56	
+2015-04-04 10:57:56	Spawn [Task-141] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/141
+2015-04-04 10:57:56	Resolving localhost... 
+2015-04-04 10:57:56	127.0.0.1
+2015-04-04 10:57:56	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:57:56	HTTP request sent, awaiting response... 
+2015-04-04 10:57:56	200
+2015-04-04 10:57:56	 OK
+2015-04-04 10:57:56	
+2015-04-04 10:58:26	Spawn [Task-109] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/109
+2015-04-04 10:58:26	Resolving localhost... 
+2015-04-04 10:58:26	127.0.0.1
+2015-04-04 10:58:26	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:26	HTTP request sent, awaiting response... 
+2015-04-04 10:58:26	200
+2015-04-04 10:58:26	 OK
+2015-04-04 10:58:26	
+2015-04-04 10:58:26	Spawn [Task-110] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/110
+2015-04-04 10:58:26	Resolving localhost... 
+2015-04-04 10:58:26	127.0.0.1
+2015-04-04 10:58:26	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:26	HTTP request sent, awaiting response... 
+2015-04-04 10:58:26	200
+2015-04-04 10:58:26	 OK
+2015-04-04 10:58:26	
+2015-04-04 10:58:26	Spawn [Task-111] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/111
+2015-04-04 10:58:26	Resolving localhost... 
+2015-04-04 10:58:26	127.0.0.1
+2015-04-04 10:58:26	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:26	HTTP request sent, awaiting response... 
+2015-04-04 10:58:26	200
+2015-04-04 10:58:26	 OK
+2015-04-04 10:58:26	
+2015-04-04 10:58:26	Spawn [Task-112] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/112
+2015-04-04 10:58:26	Resolving localhost... 
+2015-04-04 10:58:26	127.0.0.1
+2015-04-04 10:58:26	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:26	HTTP request sent, awaiting response... 
+2015-04-04 10:58:26	200
+2015-04-04 10:58:26	 OK
+2015-04-04 10:58:26	
+2015-04-04 10:58:26	Spawn [Task-113] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/113
+2015-04-04 10:58:26	Resolving localhost... 
+2015-04-04 10:58:26	127.0.0.1
+2015-04-04 10:58:26	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:26	HTTP request sent, awaiting response... 
+2015-04-04 10:58:26	200
+2015-04-04 10:58:26	 OK
+2015-04-04 10:58:26	
+2015-04-04 10:58:26	Spawn [Task-114] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/114
+2015-04-04 10:58:26	Resolving localhost... 
+2015-04-04 10:58:26	127.0.0.1
+2015-04-04 10:58:26	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:26	HTTP request sent, awaiting response... 
+2015-04-04 10:58:26	200
+2015-04-04 10:58:26	 OK
+2015-04-04 10:58:26	
+2015-04-04 10:58:26	Spawn [Task-115] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/115
+2015-04-04 10:58:26	Resolving localhost... 
+2015-04-04 10:58:26	127.0.0.1
+2015-04-04 10:58:26	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:26	HTTP request sent, awaiting response... 
+2015-04-04 10:58:26	200
+2015-04-04 10:58:26	 OK
+2015-04-04 10:58:26	
+2015-04-04 10:58:26	Spawn [Task-116] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/116
+2015-04-04 10:58:26	Resolving localhost... 
+2015-04-04 10:58:26	127.0.0.1
+2015-04-04 10:58:26	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:26	HTTP request sent, awaiting response... 
+2015-04-04 10:58:26	200
+2015-04-04 10:58:26	 OK
+2015-04-04 10:58:26	
+2015-04-04 10:58:26	Spawn [Task-117] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/117
+2015-04-04 10:58:26	Resolving localhost... 
+2015-04-04 10:58:26	127.0.0.1
+2015-04-04 10:58:26	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:26	HTTP request sent, awaiting response... 
+2015-04-04 10:58:26	200
+2015-04-04 10:58:26	 OK
+2015-04-04 10:58:26	
+2015-04-04 10:58:26	Spawn [Task-118] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/118
+2015-04-04 10:58:26	Resolving localhost... 
+2015-04-04 10:58:26	127.0.0.1
+2015-04-04 10:58:26	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:26	HTTP request sent, awaiting response... 
+2015-04-04 10:58:26	200
+2015-04-04 10:58:26	 OK
+2015-04-04 10:58:26	
+2015-04-04 10:58:26	Spawn [Task-119] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/119
+2015-04-04 10:58:26	Resolving localhost... 
+2015-04-04 10:58:26	127.0.0.1
+2015-04-04 10:58:26	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:26	HTTP request sent, awaiting response... 
+2015-04-04 10:58:27	200
+2015-04-04 10:58:27	 OK
+2015-04-04 10:58:27	
+2015-04-04 10:58:27	Spawn [Task-120] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/120
+2015-04-04 10:58:27	Resolving localhost... 
+2015-04-04 10:58:27	127.0.0.1
+2015-04-04 10:58:27	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:27	HTTP request sent, awaiting response... 
+2015-04-04 10:58:27	200
+2015-04-04 10:58:27	 OK
+2015-04-04 10:58:27	
+2015-04-04 10:58:27	Spawn [Task-121] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/121
+2015-04-04 10:58:27	Resolving localhost... 
+2015-04-04 10:58:27	127.0.0.1
+2015-04-04 10:58:27	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:27	HTTP request sent, awaiting response... 
+2015-04-04 10:58:27	200
+2015-04-04 10:58:27	 OK
+2015-04-04 10:58:27	
+2015-04-04 10:58:27	Spawn [Task-122] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/122
+2015-04-04 10:58:27	Resolving localhost... 
+2015-04-04 10:58:27	127.0.0.1
+2015-04-04 10:58:27	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:27	HTTP request sent, awaiting response... 
+2015-04-04 10:58:27	200
+2015-04-04 10:58:27	 OK
+2015-04-04 10:58:27	
+2015-04-04 10:58:27	Spawn [Task-123] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/123
+2015-04-04 10:58:27	Resolving localhost... 
+2015-04-04 10:58:27	127.0.0.1
+2015-04-04 10:58:27	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:27	HTTP request sent, awaiting response... 
+2015-04-04 10:58:27	200
+2015-04-04 10:58:27	 OK
+2015-04-04 10:58:27	
+2015-04-04 10:58:27	Spawn [Task-124] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/124
+2015-04-04 10:58:27	Resolving localhost... 
+2015-04-04 10:58:27	127.0.0.1
+2015-04-04 10:58:27	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:27	HTTP request sent, awaiting response... 
+2015-04-04 10:58:27	200
+2015-04-04 10:58:27	 OK
+2015-04-04 10:58:27	
+2015-04-04 10:58:27	Spawn [Task-125] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/125
+2015-04-04 10:58:27	Resolving localhost... 
+2015-04-04 10:58:27	127.0.0.1
+2015-04-04 10:58:27	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:27	HTTP request sent, awaiting response... 
+2015-04-04 10:58:27	200
+2015-04-04 10:58:27	 OK
+2015-04-04 10:58:27	
+2015-04-04 10:58:27	Spawn [Task-126] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/126
+2015-04-04 10:58:27	Resolving localhost... 
+2015-04-04 10:58:27	127.0.0.1
+2015-04-04 10:58:27	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:27	HTTP request sent, awaiting response... 
+2015-04-04 10:58:27	200
+2015-04-04 10:58:27	 OK
+2015-04-04 10:58:27	
+2015-04-04 10:58:27	Spawn [Task-127] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/127
+2015-04-04 10:58:27	Resolving localhost... 
+2015-04-04 10:58:27	127.0.0.1
+2015-04-04 10:58:27	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:27	HTTP request sent, awaiting response... 
+2015-04-04 10:58:27	200
+2015-04-04 10:58:27	 OK
+2015-04-04 10:58:27	
+2015-04-04 10:58:27	Spawn [Task-128] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/128
+2015-04-04 10:58:27	Resolving localhost... 
+2015-04-04 10:58:27	127.0.0.1
+2015-04-04 10:58:27	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:27	HTTP request sent, awaiting response... 
+2015-04-04 10:58:27	200
+2015-04-04 10:58:27	 OK
+2015-04-04 10:58:27	
+2015-04-04 10:58:27	Spawn [Task-129] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/129
+2015-04-04 10:58:27	Resolving localhost... 
+2015-04-04 10:58:27	127.0.0.1
+2015-04-04 10:58:27	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:27	HTTP request sent, awaiting response... 
+2015-04-04 10:58:27	200
+2015-04-04 10:58:27	 OK
+2015-04-04 10:58:27	
+2015-04-04 10:58:27	Spawn [Task-130] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/130
+2015-04-04 10:58:27	Resolving localhost... 
+2015-04-04 10:58:27	127.0.0.1
+2015-04-04 10:58:27	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:27	HTTP request sent, awaiting response... 
+2015-04-04 10:58:27	200
+2015-04-04 10:58:27	 OK
+2015-04-04 10:58:27	
+2015-04-04 10:58:27	Spawn [Task-131] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/131
+2015-04-04 10:58:27	Resolving localhost... 
+2015-04-04 10:58:27	127.0.0.1
+2015-04-04 10:58:27	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:27	HTTP request sent, awaiting response... 
+2015-04-04 10:58:27	200
+2015-04-04 10:58:27	 OK
+2015-04-04 10:58:27	
+2015-04-04 10:58:27	Spawn [Task-132] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/132
+2015-04-04 10:58:27	Resolving localhost... 
+2015-04-04 10:58:27	127.0.0.1
+2015-04-04 10:58:27	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:27	HTTP request sent, awaiting response... 
+2015-04-04 10:58:27	200
+2015-04-04 10:58:27	 OK
+2015-04-04 10:58:27	
+2015-04-04 10:58:27	Spawn [Task-133] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/133
+2015-04-04 10:58:27	Resolving localhost... 
+2015-04-04 10:58:27	127.0.0.1
+2015-04-04 10:58:27	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:27	HTTP request sent, awaiting response... 
+2015-04-04 10:58:27	200
+2015-04-04 10:58:27	 OK
+2015-04-04 10:58:27	
+2015-04-04 10:58:27	Spawn [Task-134] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/134
+2015-04-04 10:58:27	Resolving localhost... 
+2015-04-04 10:58:27	127.0.0.1
+2015-04-04 10:58:27	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:27	HTTP request sent, awaiting response... 
+2015-04-04 10:58:27	200
+2015-04-04 10:58:27	 OK
+2015-04-04 10:58:27	
+2015-04-04 10:58:27	Spawn [Task-135] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/135
+2015-04-04 10:58:27	Resolving localhost... 
+2015-04-04 10:58:27	127.0.0.1
+2015-04-04 10:58:27	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:27	HTTP request sent, awaiting response... 
+2015-04-04 10:58:27	200
+2015-04-04 10:58:27	 OK
+2015-04-04 10:58:27	
+2015-04-04 10:58:27	Spawn [Task-136] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/136
+2015-04-04 10:58:27	Resolving localhost... 
+2015-04-04 10:58:27	127.0.0.1
+2015-04-04 10:58:27	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:27	HTTP request sent, awaiting response... 
+2015-04-04 10:58:27	200
+2015-04-04 10:58:27	 OK
+2015-04-04 10:58:27	
+2015-04-04 10:58:27	Spawn [Task-137] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/137
+2015-04-04 10:58:27	Resolving localhost... 
+2015-04-04 10:58:27	127.0.0.1
+2015-04-04 10:58:27	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:27	HTTP request sent, awaiting response... 
+2015-04-04 10:58:27	200
+2015-04-04 10:58:27	 OK
+2015-04-04 10:58:27	
+2015-04-04 10:58:27	Spawn [Task-138] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/138
+2015-04-04 10:58:27	Resolving localhost... 
+2015-04-04 10:58:27	127.0.0.1
+2015-04-04 10:58:27	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:27	HTTP request sent, awaiting response... 
+2015-04-04 10:58:27	200
+2015-04-04 10:58:27	 OK
+2015-04-04 10:58:27	
+2015-04-04 10:58:27	Spawn [Task-139] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/139
+2015-04-04 10:58:27	Resolving localhost... 
+2015-04-04 10:58:27	127.0.0.1
+2015-04-04 10:58:27	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:27	HTTP request sent, awaiting response... 
+2015-04-04 10:58:27	200
+2015-04-04 10:58:27	 OK
+2015-04-04 10:58:27	
+2015-04-04 10:58:27	Spawn [Task-140] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/140
+2015-04-04 10:58:27	Resolving localhost... 
+2015-04-04 10:58:27	127.0.0.1
+2015-04-04 10:58:27	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:27	HTTP request sent, awaiting response... 
+2015-04-04 10:58:27	200
+2015-04-04 10:58:27	 OK
+2015-04-04 10:58:27	
+2015-04-04 10:58:27	Spawn [Task-141] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/141
+2015-04-04 10:58:27	Resolving localhost... 
+2015-04-04 10:58:27	127.0.0.1
+2015-04-04 10:58:27	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:27	HTTP request sent, awaiting response... 
+2015-04-04 10:58:27	200
+2015-04-04 10:58:27	 OK
+2015-04-04 10:58:27	
+2015-04-04 10:58:57	Spawn [Task-109] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/109
+2015-04-04 10:58:57	Resolving localhost... 
+2015-04-04 10:58:57	127.0.0.1
+2015-04-04 10:58:57	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:57	HTTP request sent, awaiting response... 
+2015-04-04 10:58:57	200
+2015-04-04 10:58:57	 OK
+2015-04-04 10:58:57	
+2015-04-04 10:58:57	Spawn [Task-110] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/110
+2015-04-04 10:58:57	Resolving localhost... 
+2015-04-04 10:58:57	127.0.0.1
+2015-04-04 10:58:57	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:57	HTTP request sent, awaiting response... 
+2015-04-04 10:58:57	200
+2015-04-04 10:58:57	 OK
+2015-04-04 10:58:57	
+2015-04-04 10:58:57	Spawn [Task-111] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/111
+2015-04-04 10:58:57	Resolving localhost... 
+2015-04-04 10:58:57	127.0.0.1
+2015-04-04 10:58:57	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:57	HTTP request sent, awaiting response... 
+2015-04-04 10:58:57	200
+2015-04-04 10:58:57	 OK
+2015-04-04 10:58:57	
+2015-04-04 10:58:57	Spawn [Task-112] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/112
+2015-04-04 10:58:57	Resolving localhost... 
+2015-04-04 10:58:57	127.0.0.1
+2015-04-04 10:58:57	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:57	HTTP request sent, awaiting response... 
+2015-04-04 10:58:57	200
+2015-04-04 10:58:57	 OK
+2015-04-04 10:58:57	
+2015-04-04 10:58:57	Spawn [Task-113] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/113
+2015-04-04 10:58:57	Resolving localhost... 
+2015-04-04 10:58:57	127.0.0.1
+2015-04-04 10:58:57	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:57	HTTP request sent, awaiting response... 
+2015-04-04 10:58:57	200
+2015-04-04 10:58:57	 OK
+2015-04-04 10:58:57	
+2015-04-04 10:58:57	Spawn [Task-114] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/114
+2015-04-04 10:58:57	Resolving localhost... 
+2015-04-04 10:58:57	127.0.0.1
+2015-04-04 10:58:57	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:57	HTTP request sent, awaiting response... 
+2015-04-04 10:58:57	200
+2015-04-04 10:58:57	 OK
+2015-04-04 10:58:57	
+2015-04-04 10:58:57	Spawn [Task-115] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/115
+2015-04-04 10:58:57	Resolving localhost... 
+2015-04-04 10:58:57	127.0.0.1
+2015-04-04 10:58:57	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:57	HTTP request sent, awaiting response... 
+2015-04-04 10:58:57	200
+2015-04-04 10:58:57	 OK
+2015-04-04 10:58:57	
+2015-04-04 10:58:57	Spawn [Task-116] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/116
+2015-04-04 10:58:57	Resolving localhost... 
+2015-04-04 10:58:57	127.0.0.1
+2015-04-04 10:58:57	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:57	HTTP request sent, awaiting response... 
+2015-04-04 10:58:58	200
+2015-04-04 10:58:58	 OK
+2015-04-04 10:58:58	
+2015-04-04 10:58:58	Spawn [Task-117] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/117
+2015-04-04 10:58:58	Resolving localhost... 
+2015-04-04 10:58:58	127.0.0.1
+2015-04-04 10:58:58	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:58	HTTP request sent, awaiting response... 
+2015-04-04 10:58:58	200
+2015-04-04 10:58:58	 OK
+2015-04-04 10:58:58	
+2015-04-04 10:58:58	Spawn [Task-118] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/118
+2015-04-04 10:58:58	Resolving localhost... 
+2015-04-04 10:58:58	127.0.0.1
+2015-04-04 10:58:58	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:58	HTTP request sent, awaiting response... 
+2015-04-04 10:58:58	200
+2015-04-04 10:58:58	 OK
+2015-04-04 10:58:58	
+2015-04-04 10:58:58	Spawn [Task-119] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/119
+2015-04-04 10:58:58	Resolving localhost... 
+2015-04-04 10:58:58	127.0.0.1
+2015-04-04 10:58:58	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:58	HTTP request sent, awaiting response... 
+2015-04-04 10:58:58	200
+2015-04-04 10:58:58	 OK
+2015-04-04 10:58:58	
+2015-04-04 10:58:58	Spawn [Task-120] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/120
+2015-04-04 10:58:58	Resolving localhost... 
+2015-04-04 10:58:58	127.0.0.1
+2015-04-04 10:58:58	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:58	HTTP request sent, awaiting response... 
+2015-04-04 10:58:58	200
+2015-04-04 10:58:58	 OK
+2015-04-04 10:58:58	
+2015-04-04 10:58:58	Spawn [Task-121] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/121
+2015-04-04 10:58:58	Resolving localhost... 
+2015-04-04 10:58:58	127.0.0.1
+2015-04-04 10:58:58	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:58	HTTP request sent, awaiting response... 
+2015-04-04 10:58:58	200
+2015-04-04 10:58:58	 OK
+2015-04-04 10:58:58	
+2015-04-04 10:58:58	Spawn [Task-122] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/122
+2015-04-04 10:58:58	Resolving localhost... 
+2015-04-04 10:58:58	127.0.0.1
+2015-04-04 10:58:58	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:58	HTTP request sent, awaiting response... 
+2015-04-04 10:58:58	200
+2015-04-04 10:58:58	 OK
+2015-04-04 10:58:58	
+2015-04-04 10:58:58	Spawn [Task-123] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/123
+2015-04-04 10:58:58	Resolving localhost... 
+2015-04-04 10:58:58	127.0.0.1
+2015-04-04 10:58:58	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:58	HTTP request sent, awaiting response... 
+2015-04-04 10:58:58	200
+2015-04-04 10:58:58	 OK
+2015-04-04 10:58:58	
+2015-04-04 10:58:58	Spawn [Task-124] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/124
+2015-04-04 10:58:58	Resolving localhost... 
+2015-04-04 10:58:58	127.0.0.1
+2015-04-04 10:58:58	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:58	HTTP request sent, awaiting response... 
+2015-04-04 10:58:58	200
+2015-04-04 10:58:58	 OK
+2015-04-04 10:58:58	
+2015-04-04 10:58:58	Spawn [Task-125] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/125
+2015-04-04 10:58:58	Resolving localhost... 
+2015-04-04 10:58:58	127.0.0.1
+2015-04-04 10:58:58	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:58	HTTP request sent, awaiting response... 
+2015-04-04 10:58:58	200
+2015-04-04 10:58:58	 OK
+2015-04-04 10:58:58	
+2015-04-04 10:58:58	Spawn [Task-126] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/126
+2015-04-04 10:58:58	Resolving localhost... 
+2015-04-04 10:58:58	127.0.0.1
+2015-04-04 10:58:58	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:58	HTTP request sent, awaiting response... 
+2015-04-04 10:58:58	200
+2015-04-04 10:58:58	 OK
+2015-04-04 10:58:58	
+2015-04-04 10:58:58	Spawn [Task-127] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/127
+2015-04-04 10:58:58	Resolving localhost... 
+2015-04-04 10:58:58	127.0.0.1
+2015-04-04 10:58:58	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:58	HTTP request sent, awaiting response... 
+2015-04-04 10:58:58	200
+2015-04-04 10:58:58	 OK
+2015-04-04 10:58:58	
+2015-04-04 10:58:58	Spawn [Task-128] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/128
+2015-04-04 10:58:58	Resolving localhost... 
+2015-04-04 10:58:58	127.0.0.1
+2015-04-04 10:58:58	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:58	HTTP request sent, awaiting response... 
+2015-04-04 10:58:58	200
+2015-04-04 10:58:58	 OK
+2015-04-04 10:58:58	
+2015-04-04 10:58:58	Spawn [Task-129] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/129
+2015-04-04 10:58:58	Resolving localhost... 
+2015-04-04 10:58:58	127.0.0.1
+2015-04-04 10:58:58	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:58	HTTP request sent, awaiting response... 
+2015-04-04 10:58:58	200
+2015-04-04 10:58:58	 OK
+2015-04-04 10:58:58	
+2015-04-04 10:58:58	Spawn [Task-130] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/130
+2015-04-04 10:58:58	Resolving localhost... 
+2015-04-04 10:58:58	127.0.0.1
+2015-04-04 10:58:58	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:58	HTTP request sent, awaiting response... 
+2015-04-04 10:58:58	200
+2015-04-04 10:58:58	 OK
+2015-04-04 10:58:58	
+2015-04-04 10:58:58	Spawn [Task-131] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/131
+2015-04-04 10:58:58	Resolving localhost... 
+2015-04-04 10:58:58	127.0.0.1
+2015-04-04 10:58:58	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:58	HTTP request sent, awaiting response... 
+2015-04-04 10:58:58	200
+2015-04-04 10:58:58	 OK
+2015-04-04 10:58:58	
+2015-04-04 10:58:58	Spawn [Task-132] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/132
+2015-04-04 10:58:58	Resolving localhost... 
+2015-04-04 10:58:58	127.0.0.1
+2015-04-04 10:58:58	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:58	HTTP request sent, awaiting response... 
+2015-04-04 10:58:58	200
+2015-04-04 10:58:58	 OK
+2015-04-04 10:58:58	
+2015-04-04 10:58:58	Spawn [Task-133] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/133
+2015-04-04 10:58:58	Resolving localhost... 
+2015-04-04 10:58:58	127.0.0.1
+2015-04-04 10:58:58	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:58	HTTP request sent, awaiting response... 
+2015-04-04 10:58:58	200
+2015-04-04 10:58:58	 OK
+2015-04-04 10:58:58	
+2015-04-04 10:58:58	Spawn [Task-134] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/134
+2015-04-04 10:58:58	Resolving localhost... 
+2015-04-04 10:58:58	127.0.0.1
+2015-04-04 10:58:58	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:58	HTTP request sent, awaiting response... 
+2015-04-04 10:58:58	200
+2015-04-04 10:58:58	 OK
+2015-04-04 10:58:58	
+2015-04-04 10:58:58	Spawn [Task-135] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/135
+2015-04-04 10:58:58	Resolving localhost... 
+2015-04-04 10:58:58	127.0.0.1
+2015-04-04 10:58:58	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:58	HTTP request sent, awaiting response... 
+2015-04-04 10:58:58	200
+2015-04-04 10:58:58	 OK
+2015-04-04 10:58:58	
+2015-04-04 10:58:58	Spawn [Task-136] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/136
+2015-04-04 10:58:58	Resolving localhost... 
+2015-04-04 10:58:58	127.0.0.1
+2015-04-04 10:58:58	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:58	HTTP request sent, awaiting response... 
+2015-04-04 10:58:58	200
+2015-04-04 10:58:58	 OK
+2015-04-04 10:58:58	
+2015-04-04 10:58:58	Spawn [Task-137] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/137
+2015-04-04 10:58:58	Resolving localhost... 
+2015-04-04 10:58:58	127.0.0.1
+2015-04-04 10:58:58	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:58	HTTP request sent, awaiting response... 
+2015-04-04 10:58:58	200
+2015-04-04 10:58:58	 OK
+2015-04-04 10:58:58	
+2015-04-04 10:58:58	Spawn [Task-138] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/138
+2015-04-04 10:58:58	Resolving localhost... 
+2015-04-04 10:58:58	127.0.0.1
+2015-04-04 10:58:58	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:58	HTTP request sent, awaiting response... 
+2015-04-04 10:58:58	200
+2015-04-04 10:58:58	 OK
+2015-04-04 10:58:58	
+2015-04-04 10:58:58	Spawn [Task-139] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/139
+2015-04-04 10:58:58	Resolving localhost... 
+2015-04-04 10:58:58	127.0.0.1
+2015-04-04 10:58:58	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:58	HTTP request sent, awaiting response... 
+2015-04-04 10:58:58	200
+2015-04-04 10:58:58	 OK
+2015-04-04 10:58:58	
+2015-04-04 10:58:58	Spawn [Task-140] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/140
+2015-04-04 10:58:58	Resolving localhost... 
+2015-04-04 10:58:58	127.0.0.1
+2015-04-04 10:58:58	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:58	HTTP request sent, awaiting response... 
+2015-04-04 10:58:58	200
+2015-04-04 10:58:58	 OK
+2015-04-04 10:58:58	
+2015-04-04 10:58:58	Spawn [Task-141] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/141
+2015-04-04 10:58:58	Resolving localhost... 
+2015-04-04 10:58:58	127.0.0.1
+2015-04-04 10:58:58	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:58:58	HTTP request sent, awaiting response... 
+2015-04-04 10:58:58	200
+2015-04-04 10:58:58	 OK
+2015-04-04 10:58:58	
+2015-04-04 10:59:28	Spawn [Task-109] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/109
+2015-04-04 10:59:28	Resolving localhost... 
+2015-04-04 10:59:28	127.0.0.1
+2015-04-04 10:59:28	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:59:28	HTTP request sent, awaiting response... 
+2015-04-04 02:59:28	<query><method>store.trade.update</method><params>Array
+(
+    [node_type] => ecos.ome
+    [from_api_v] => 2.0
+    [to_node_id] => 1123816836
+    [to_api_v] => 2.2
+)
+</params><rpc_callback><class>b2c_api_callback_none</class><method>callback</method></rpc_callback></query>
+2015-04-04 02:59:29	Resolving matrix.ecos.shopex.cn... 
+2015-04-04 02:59:29	122.144.135.142
+2015-04-04 02:59:29	Connecting to matrix.ecos.shopex.cn|122.144.135.142|:80... connected.
+2015-04-04 02:59:29	HTTP request sent, awaiting response... 
+2015-04-04 02:59:29	200
+2015-04-04 02:59:29	 OK
+2015-04-04 02:59:29	Response: {"res": "e00060", "msg_id": null, "rsp": "fail", "err_msg": "\u7f3a\u5c11\u7cfb\u7edf\u53c2\u6570:['from_node_id']", "data": ""}
+2015-04-04 10:59:29	500
+2015-04-04 10:59:29	
+2015-04-04 10:59:29	Spawn [Task-110] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/110
+2015-04-04 10:59:29	Resolving localhost... 
+2015-04-04 10:59:29	127.0.0.1
+2015-04-04 10:59:29	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:59:29	HTTP request sent, awaiting response... 
+2015-04-04 10:59:29	200
+2015-04-04 10:59:29	 OK
+2015-04-04 10:59:29	
+2015-04-04 10:59:29	Spawn [Task-111] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/111
+2015-04-04 10:59:29	Resolving localhost... 
+2015-04-04 10:59:29	127.0.0.1
+2015-04-04 10:59:29	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:59:29	HTTP request sent, awaiting response... 
+2015-04-04 10:59:29	200
+2015-04-04 10:59:29	 OK
+2015-04-04 10:59:29	
+2015-04-04 10:59:29	Spawn [Task-112] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/112
+2015-04-04 10:59:29	Resolving localhost... 
+2015-04-04 10:59:29	127.0.0.1
+2015-04-04 10:59:29	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:59:29	HTTP request sent, awaiting response... 
+2015-04-04 10:59:29	200
+2015-04-04 10:59:29	 OK
+2015-04-04 10:59:29	
+2015-04-04 10:59:29	Spawn [Task-113] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/113
+2015-04-04 10:59:29	Resolving localhost... 
+2015-04-04 10:59:29	127.0.0.1
+2015-04-04 10:59:29	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:59:29	HTTP request sent, awaiting response... 
+2015-04-04 10:59:29	200
+2015-04-04 10:59:29	 OK
+2015-04-04 10:59:29	
+2015-04-04 10:59:29	Spawn [Task-114] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/114
+2015-04-04 10:59:29	Resolving localhost... 
+2015-04-04 10:59:29	127.0.0.1
+2015-04-04 10:59:29	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:59:29	HTTP request sent, awaiting response... 
+2015-04-04 10:59:29	200
+2015-04-04 10:59:29	 OK
+2015-04-04 10:59:29	
+2015-04-04 10:59:29	Spawn [Task-115] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/115
+2015-04-04 10:59:29	Resolving localhost... 
+2015-04-04 10:59:29	127.0.0.1
+2015-04-04 10:59:29	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:59:29	HTTP request sent, awaiting response... 
+2015-04-04 10:59:29	200
+2015-04-04 10:59:29	 OK
+2015-04-04 10:59:29	
+2015-04-04 10:59:29	Spawn [Task-116] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/116
+2015-04-04 10:59:29	Resolving localhost... 
+2015-04-04 10:59:29	127.0.0.1
+2015-04-04 10:59:29	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:59:29	HTTP request sent, awaiting response... 
+2015-04-04 10:59:29	200
+2015-04-04 10:59:29	 OK
+2015-04-04 10:59:29	
+2015-04-04 10:59:29	Spawn [Task-117] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/117
+2015-04-04 10:59:29	Resolving localhost... 
+2015-04-04 10:59:29	127.0.0.1
+2015-04-04 10:59:29	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:59:29	HTTP request sent, awaiting response... 
+2015-04-04 10:59:29	200
+2015-04-04 10:59:29	 OK
+2015-04-04 10:59:29	
+2015-04-04 10:59:29	Spawn [Task-118] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/118
+2015-04-04 10:59:29	Resolving localhost... 
+2015-04-04 10:59:29	127.0.0.1
+2015-04-04 10:59:29	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:59:29	HTTP request sent, awaiting response... 
+2015-04-04 10:59:29	200
+2015-04-04 10:59:29	 OK
+2015-04-04 10:59:29	
+2015-04-04 10:59:29	Spawn [Task-119] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/119
+2015-04-04 10:59:29	Resolving localhost... 
+2015-04-04 10:59:29	127.0.0.1
+2015-04-04 10:59:29	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:59:29	HTTP request sent, awaiting response... 
+2015-04-04 10:59:29	200
+2015-04-04 10:59:29	 OK
+2015-04-04 10:59:29	
+2015-04-04 10:59:29	Spawn [Task-120] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/120
+2015-04-04 10:59:29	Resolving localhost... 
+2015-04-04 10:59:29	127.0.0.1
+2015-04-04 10:59:29	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:59:29	HTTP request sent, awaiting response... 
+2015-04-04 10:59:29	200
+2015-04-04 10:59:29	 OK
+2015-04-04 10:59:29	
+2015-04-04 10:59:29	Spawn [Task-121] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/121
+2015-04-04 10:59:29	Resolving localhost... 
+2015-04-04 10:59:29	127.0.0.1
+2015-04-04 10:59:29	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:59:29	HTTP request sent, awaiting response... 
+2015-04-04 10:59:29	200
+2015-04-04 10:59:29	 OK
+2015-04-04 10:59:29	
+2015-04-04 10:59:29	Spawn [Task-122] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/122
+2015-04-04 10:59:29	Resolving localhost... 
+2015-04-04 10:59:29	127.0.0.1
+2015-04-04 10:59:29	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:59:29	HTTP request sent, awaiting response... 
+2015-04-04 10:59:29	200
+2015-04-04 10:59:29	 OK
+2015-04-04 10:59:29	
+2015-04-04 10:59:29	Spawn [Task-123] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/123
+2015-04-04 10:59:29	Resolving localhost... 
+2015-04-04 10:59:29	127.0.0.1
+2015-04-04 10:59:29	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:59:29	HTTP request sent, awaiting response... 
+2015-04-04 10:59:29	200
+2015-04-04 10:59:29	 OK
+2015-04-04 10:59:29	
+2015-04-04 10:59:29	Spawn [Task-124] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/124
+2015-04-04 10:59:29	Resolving localhost... 
+2015-04-04 10:59:29	127.0.0.1
+2015-04-04 10:59:29	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:59:29	HTTP request sent, awaiting response... 
+2015-04-04 10:59:29	200
+2015-04-04 10:59:29	 OK
+2015-04-04 10:59:29	
+2015-04-04 10:59:29	Spawn [Task-125] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/125
+2015-04-04 10:59:29	Resolving localhost... 
+2015-04-04 10:59:29	127.0.0.1
+2015-04-04 10:59:29	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:59:29	HTTP request sent, awaiting response... 
+2015-04-04 10:59:29	200
+2015-04-04 10:59:29	 OK
+2015-04-04 10:59:29	
+2015-04-04 10:59:29	Spawn [Task-126] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/126
+2015-04-04 10:59:29	Resolving localhost... 
+2015-04-04 10:59:29	127.0.0.1
+2015-04-04 10:59:29	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:59:29	HTTP request sent, awaiting response... 
+2015-04-04 10:59:29	200
+2015-04-04 10:59:29	 OK
+2015-04-04 10:59:29	
+2015-04-04 10:59:29	Spawn [Task-127] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/127
+2015-04-04 10:59:29	Resolving localhost... 
+2015-04-04 10:59:29	127.0.0.1
+2015-04-04 10:59:29	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:59:29	HTTP request sent, awaiting response... 
+2015-04-04 10:59:29	200
+2015-04-04 10:59:29	 OK
+2015-04-04 10:59:29	
+2015-04-04 10:59:29	Spawn [Task-128] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/128
+2015-04-04 10:59:29	Resolving localhost... 
+2015-04-04 10:59:29	127.0.0.1
+2015-04-04 10:59:29	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:59:29	HTTP request sent, awaiting response... 
+2015-04-04 10:59:29	200
+2015-04-04 10:59:29	 OK
+2015-04-04 10:59:29	
+2015-04-04 10:59:29	Spawn [Task-129] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/129
+2015-04-04 10:59:29	Resolving localhost... 
+2015-04-04 10:59:29	127.0.0.1
+2015-04-04 10:59:29	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:59:29	HTTP request sent, awaiting response... 
+2015-04-04 10:59:29	200
+2015-04-04 10:59:29	 OK
+2015-04-04 10:59:29	
+2015-04-04 10:59:29	Spawn [Task-130] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/130
+2015-04-04 10:59:29	Resolving localhost... 
+2015-04-04 10:59:29	127.0.0.1
+2015-04-04 10:59:29	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:59:29	HTTP request sent, awaiting response... 
+2015-04-04 10:59:29	200
+2015-04-04 10:59:29	 OK
+2015-04-04 10:59:29	
+2015-04-04 10:59:29	Spawn [Task-131] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/131
+2015-04-04 10:59:29	Resolving localhost... 
+2015-04-04 10:59:29	127.0.0.1
+2015-04-04 10:59:29	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:59:29	HTTP request sent, awaiting response... 
+2015-04-04 10:59:29	200
+2015-04-04 10:59:29	 OK
+2015-04-04 10:59:29	
+2015-04-04 10:59:29	Spawn [Task-132] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/132
+2015-04-04 10:59:29	Resolving localhost... 
+2015-04-04 10:59:29	127.0.0.1
+2015-04-04 10:59:29	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:59:29	HTTP request sent, awaiting response... 
+2015-04-04 10:59:29	200
+2015-04-04 10:59:29	 OK
+2015-04-04 10:59:29	
+2015-04-04 10:59:29	Spawn [Task-133] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/133
+2015-04-04 10:59:29	Resolving localhost... 
+2015-04-04 10:59:29	127.0.0.1
+2015-04-04 10:59:29	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:59:29	HTTP request sent, awaiting response... 
+2015-04-04 10:59:29	200
+2015-04-04 10:59:29	 OK
+2015-04-04 10:59:29	
+2015-04-04 10:59:29	Spawn [Task-134] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/134
+2015-04-04 10:59:29	Resolving localhost... 
+2015-04-04 10:59:29	127.0.0.1
+2015-04-04 10:59:29	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:59:29	HTTP request sent, awaiting response... 
+2015-04-04 10:59:29	200
+2015-04-04 10:59:29	 OK
+2015-04-04 10:59:29	
+2015-04-04 10:59:29	Spawn [Task-135] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/135
+2015-04-04 10:59:29	Resolving localhost... 
+2015-04-04 10:59:29	127.0.0.1
+2015-04-04 10:59:29	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:59:29	HTTP request sent, awaiting response... 
+2015-04-04 10:59:29	200
+2015-04-04 10:59:29	 OK
+2015-04-04 10:59:29	
+2015-04-04 10:59:29	Spawn [Task-136] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/136
+2015-04-04 10:59:29	Resolving localhost... 
+2015-04-04 10:59:29	127.0.0.1
+2015-04-04 10:59:29	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:59:29	HTTP request sent, awaiting response... 
+2015-04-04 10:59:29	200
+2015-04-04 10:59:29	 OK
+2015-04-04 10:59:29	
+2015-04-04 10:59:29	Spawn [Task-137] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/137
+2015-04-04 10:59:29	Resolving localhost... 
+2015-04-04 10:59:29	127.0.0.1
+2015-04-04 10:59:29	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:59:29	HTTP request sent, awaiting response... 
+2015-04-04 10:59:29	200
+2015-04-04 10:59:29	 OK
+2015-04-04 10:59:29	
+2015-04-04 10:59:29	Spawn [Task-138] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/138
+2015-04-04 10:59:29	Resolving localhost... 
+2015-04-04 10:59:29	127.0.0.1
+2015-04-04 10:59:29	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:59:29	HTTP request sent, awaiting response... 
+2015-04-04 10:59:29	200
+2015-04-04 10:59:29	 OK
+2015-04-04 10:59:29	
+2015-04-04 10:59:29	Spawn [Task-139] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/139
+2015-04-04 10:59:29	Resolving localhost... 
+2015-04-04 10:59:29	127.0.0.1
+2015-04-04 10:59:29	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:59:29	HTTP request sent, awaiting response... 
+2015-04-04 10:59:29	200
+2015-04-04 10:59:29	 OK
+2015-04-04 10:59:29	
+2015-04-04 10:59:29	Spawn [Task-140] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/140
+2015-04-04 10:59:30	Resolving localhost... 
+2015-04-04 10:59:30	127.0.0.1
+2015-04-04 10:59:30	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:59:30	HTTP request sent, awaiting response... 
+2015-04-04 10:59:30	200
+2015-04-04 10:59:30	 OK
+2015-04-04 10:59:30	
+2015-04-04 10:59:30	Spawn [Task-141] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/141
+2015-04-04 10:59:30	Resolving localhost... 
+2015-04-04 10:59:30	127.0.0.1
+2015-04-04 10:59:30	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 10:59:30	HTTP request sent, awaiting response... 
+2015-04-04 10:59:30	200
+2015-04-04 10:59:30	 OK
+2015-04-04 10:59:30	
+2015-04-04 11:00:00	Spawn [Task-109] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/109
+2015-04-04 11:00:00	Resolving localhost... 
+2015-04-04 11:00:00	127.0.0.1
+2015-04-04 11:00:00	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:00	HTTP request sent, awaiting response... 
+2015-04-04 11:00:00	200
+2015-04-04 11:00:00	 OK
+2015-04-04 11:00:00	
+2015-04-04 11:00:00	Spawn [Task-110] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/110
+2015-04-04 11:00:00	Resolving localhost... 
+2015-04-04 11:00:00	127.0.0.1
+2015-04-04 11:00:00	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:00	HTTP request sent, awaiting response... 
+2015-04-04 11:00:00	200
+2015-04-04 11:00:00	 OK
+2015-04-04 11:00:00	
+2015-04-04 11:00:00	Spawn [Task-111] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/111
+2015-04-04 11:00:00	Resolving localhost... 
+2015-04-04 11:00:00	127.0.0.1
+2015-04-04 11:00:00	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:00	HTTP request sent, awaiting response... 
+2015-04-04 11:00:00	200
+2015-04-04 11:00:00	 OK
+2015-04-04 11:00:00	
+2015-04-04 11:00:00	Spawn [Task-112] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/112
+2015-04-04 11:00:00	Resolving localhost... 
+2015-04-04 11:00:00	127.0.0.1
+2015-04-04 11:00:00	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:00	HTTP request sent, awaiting response... 
+2015-04-04 11:00:00	200
+2015-04-04 11:00:00	 OK
+2015-04-04 11:00:00	
+2015-04-04 11:00:00	Spawn [Task-113] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/113
+2015-04-04 11:00:00	Resolving localhost... 
+2015-04-04 11:00:00	127.0.0.1
+2015-04-04 11:00:00	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:00	HTTP request sent, awaiting response... 
+2015-04-04 11:00:00	200
+2015-04-04 11:00:00	 OK
+2015-04-04 11:00:00	
+2015-04-04 11:00:00	Spawn [Task-114] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/114
+2015-04-04 11:00:00	Resolving localhost... 
+2015-04-04 11:00:00	127.0.0.1
+2015-04-04 11:00:00	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:00	HTTP request sent, awaiting response... 
+2015-04-04 11:00:00	200
+2015-04-04 11:00:00	 OK
+2015-04-04 11:00:00	
+2015-04-04 11:00:00	Spawn [Task-115] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/115
+2015-04-04 11:00:00	Resolving localhost... 
+2015-04-04 11:00:00	127.0.0.1
+2015-04-04 11:00:00	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:00	HTTP request sent, awaiting response... 
+2015-04-04 11:00:00	200
+2015-04-04 11:00:00	 OK
+2015-04-04 11:00:00	
+2015-04-04 11:00:00	Spawn [Task-116] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/116
+2015-04-04 11:00:00	Resolving localhost... 
+2015-04-04 11:00:00	127.0.0.1
+2015-04-04 11:00:00	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:00	HTTP request sent, awaiting response... 
+2015-04-04 11:00:00	200
+2015-04-04 11:00:00	 OK
+2015-04-04 11:00:00	
+2015-04-04 11:00:00	Spawn [Task-117] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/117
+2015-04-04 11:00:00	Resolving localhost... 
+2015-04-04 11:00:00	127.0.0.1
+2015-04-04 11:00:00	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:00	HTTP request sent, awaiting response... 
+2015-04-04 11:00:00	200
+2015-04-04 11:00:00	 OK
+2015-04-04 11:00:00	
+2015-04-04 11:00:00	Spawn [Task-118] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/118
+2015-04-04 11:00:00	Resolving localhost... 
+2015-04-04 11:00:00	127.0.0.1
+2015-04-04 11:00:00	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:00	HTTP request sent, awaiting response... 
+2015-04-04 11:00:00	200
+2015-04-04 11:00:00	 OK
+2015-04-04 11:00:00	
+2015-04-04 11:00:00	Spawn [Task-119] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/119
+2015-04-04 11:00:00	Resolving localhost... 
+2015-04-04 11:00:00	127.0.0.1
+2015-04-04 11:00:00	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:00	HTTP request sent, awaiting response... 
+2015-04-04 11:00:00	200
+2015-04-04 11:00:00	 OK
+2015-04-04 11:00:00	
+2015-04-04 11:00:00	Spawn [Task-120] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/120
+2015-04-04 11:00:00	Resolving localhost... 
+2015-04-04 11:00:00	127.0.0.1
+2015-04-04 11:00:00	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:00	HTTP request sent, awaiting response... 
+2015-04-04 11:00:00	200
+2015-04-04 11:00:00	 OK
+2015-04-04 11:00:00	
+2015-04-04 11:00:00	Spawn [Task-121] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/121
+2015-04-04 11:00:00	Resolving localhost... 
+2015-04-04 11:00:00	127.0.0.1
+2015-04-04 11:00:00	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:00	HTTP request sent, awaiting response... 
+2015-04-04 11:00:00	200
+2015-04-04 11:00:00	 OK
+2015-04-04 11:00:00	
+2015-04-04 11:00:00	Spawn [Task-122] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/122
+2015-04-04 11:00:00	Resolving localhost... 
+2015-04-04 11:00:00	127.0.0.1
+2015-04-04 11:00:00	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:00	HTTP request sent, awaiting response... 
+2015-04-04 11:00:00	200
+2015-04-04 11:00:00	 OK
+2015-04-04 11:00:00	
+2015-04-04 11:00:00	Spawn [Task-123] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/123
+2015-04-04 11:00:00	Resolving localhost... 
+2015-04-04 11:00:00	127.0.0.1
+2015-04-04 11:00:00	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:00	HTTP request sent, awaiting response... 
+2015-04-04 11:00:00	200
+2015-04-04 11:00:00	 OK
+2015-04-04 11:00:00	
+2015-04-04 11:00:00	Spawn [Task-124] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/124
+2015-04-04 11:00:00	Resolving localhost... 
+2015-04-04 11:00:00	127.0.0.1
+2015-04-04 11:00:00	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:00	HTTP request sent, awaiting response... 
+2015-04-04 11:00:00	200
+2015-04-04 11:00:00	 OK
+2015-04-04 11:00:00	
+2015-04-04 11:00:00	Spawn [Task-125] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/125
+2015-04-04 11:00:00	Resolving localhost... 
+2015-04-04 11:00:00	127.0.0.1
+2015-04-04 11:00:00	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:00	HTTP request sent, awaiting response... 
+2015-04-04 11:00:00	200
+2015-04-04 11:00:00	 OK
+2015-04-04 11:00:00	
+2015-04-04 11:00:00	Spawn [Task-126] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/126
+2015-04-04 11:00:00	Resolving localhost... 
+2015-04-04 11:00:00	127.0.0.1
+2015-04-04 11:00:00	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:00	HTTP request sent, awaiting response... 
+2015-04-04 11:00:00	200
+2015-04-04 11:00:00	 OK
+2015-04-04 11:00:00	
+2015-04-04 11:00:00	Spawn [Task-127] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/127
+2015-04-04 11:00:00	Resolving localhost... 
+2015-04-04 11:00:00	127.0.0.1
+2015-04-04 11:00:00	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:00	HTTP request sent, awaiting response... 
+2015-04-04 11:00:00	200
+2015-04-04 11:00:00	 OK
+2015-04-04 11:00:00	
+2015-04-04 11:00:00	Spawn [Task-128] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/128
+2015-04-04 11:00:00	Resolving localhost... 
+2015-04-04 11:00:00	127.0.0.1
+2015-04-04 11:00:00	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:00	HTTP request sent, awaiting response... 
+2015-04-04 11:00:00	200
+2015-04-04 11:00:00	 OK
+2015-04-04 11:00:00	
+2015-04-04 11:00:00	Spawn [Task-129] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/129
+2015-04-04 11:00:00	Resolving localhost... 
+2015-04-04 11:00:00	127.0.0.1
+2015-04-04 11:00:00	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:00	HTTP request sent, awaiting response... 
+2015-04-04 11:00:00	200
+2015-04-04 11:00:00	 OK
+2015-04-04 11:00:00	
+2015-04-04 11:00:00	Spawn [Task-130] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/130
+2015-04-04 11:00:00	Resolving localhost... 
+2015-04-04 11:00:00	127.0.0.1
+2015-04-04 11:00:00	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:00	HTTP request sent, awaiting response... 
+2015-04-04 11:00:00	200
+2015-04-04 11:00:00	 OK
+2015-04-04 11:00:00	
+2015-04-04 11:00:00	Spawn [Task-131] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/131
+2015-04-04 11:00:00	Resolving localhost... 
+2015-04-04 11:00:00	127.0.0.1
+2015-04-04 11:00:00	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:00	HTTP request sent, awaiting response... 
+2015-04-04 11:00:00	200
+2015-04-04 11:00:00	 OK
+2015-04-04 11:00:00	
+2015-04-04 11:00:00	Spawn [Task-132] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/132
+2015-04-04 11:00:00	Resolving localhost... 
+2015-04-04 11:00:00	127.0.0.1
+2015-04-04 11:00:00	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:00	HTTP request sent, awaiting response... 
+2015-04-04 11:00:00	200
+2015-04-04 11:00:00	 OK
+2015-04-04 11:00:00	
+2015-04-04 11:00:00	Spawn [Task-133] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/133
+2015-04-04 11:00:00	Resolving localhost... 
+2015-04-04 11:00:00	127.0.0.1
+2015-04-04 11:00:00	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:00	HTTP request sent, awaiting response... 
+2015-04-04 11:00:00	200
+2015-04-04 11:00:00	 OK
+2015-04-04 11:00:00	
+2015-04-04 11:00:00	Spawn [Task-134] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/134
+2015-04-04 11:00:00	Resolving localhost... 
+2015-04-04 11:00:00	127.0.0.1
+2015-04-04 11:00:00	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:00	HTTP request sent, awaiting response... 
+2015-04-04 11:00:00	200
+2015-04-04 11:00:00	 OK
+2015-04-04 11:00:00	
+2015-04-04 11:00:00	Spawn [Task-135] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/135
+2015-04-04 11:00:00	Resolving localhost... 
+2015-04-04 11:00:00	127.0.0.1
+2015-04-04 11:00:00	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:00	HTTP request sent, awaiting response... 
+2015-04-04 11:00:00	200
+2015-04-04 11:00:00	 OK
+2015-04-04 11:00:00	
+2015-04-04 11:00:00	Spawn [Task-136] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/136
+2015-04-04 11:00:00	Resolving localhost... 
+2015-04-04 11:00:00	127.0.0.1
+2015-04-04 11:00:00	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:00	HTTP request sent, awaiting response... 
+2015-04-04 11:00:00	200
+2015-04-04 11:00:00	 OK
+2015-04-04 11:00:00	
+2015-04-04 11:00:00	Spawn [Task-137] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/137
+2015-04-04 11:00:00	Resolving localhost... 
+2015-04-04 11:00:00	127.0.0.1
+2015-04-04 11:00:00	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:00	HTTP request sent, awaiting response... 
+2015-04-04 11:00:00	200
+2015-04-04 11:00:00	 OK
+2015-04-04 11:00:00	
+2015-04-04 11:00:00	Spawn [Task-138] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/138
+2015-04-04 11:00:00	Resolving localhost... 
+2015-04-04 11:00:00	127.0.0.1
+2015-04-04 11:00:00	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:00	HTTP request sent, awaiting response... 
+2015-04-04 11:00:00	200
+2015-04-04 11:00:00	 OK
+2015-04-04 11:00:00	
+2015-04-04 11:00:00	Spawn [Task-139] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/139
+2015-04-04 11:00:00	Resolving localhost... 
+2015-04-04 11:00:00	127.0.0.1
+2015-04-04 11:00:00	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:00	HTTP request sent, awaiting response... 
+2015-04-04 11:00:01	200
+2015-04-04 11:00:01	 OK
+2015-04-04 11:00:01	
+2015-04-04 11:00:01	Spawn [Task-140] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/140
+2015-04-04 11:00:01	Resolving localhost... 
+2015-04-04 11:00:01	127.0.0.1
+2015-04-04 11:00:01	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:01	HTTP request sent, awaiting response... 
+2015-04-04 11:00:01	200
+2015-04-04 11:00:01	 OK
+2015-04-04 11:00:01	
+2015-04-04 11:00:01	Spawn [Task-141] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/141
+2015-04-04 11:00:01	Resolving localhost... 
+2015-04-04 11:00:01	127.0.0.1
+2015-04-04 11:00:01	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:01	HTTP request sent, awaiting response... 
+2015-04-04 11:00:01	200
+2015-04-04 11:00:01	 OK
+2015-04-04 11:00:01	
+2015-04-04 11:00:31	Spawn [Task-109] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/109
+2015-04-04 11:00:31	Resolving localhost... 
+2015-04-04 11:00:31	127.0.0.1
+2015-04-04 11:00:31	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:31	HTTP request sent, awaiting response... 
+2015-04-04 11:00:31	200
+2015-04-04 11:00:31	 OK
+2015-04-04 11:00:31	
+2015-04-04 11:00:31	Spawn [Task-110] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/110
+2015-04-04 11:00:31	Resolving localhost... 
+2015-04-04 11:00:31	127.0.0.1
+2015-04-04 11:00:31	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:31	HTTP request sent, awaiting response... 
+2015-04-04 11:00:31	200
+2015-04-04 11:00:31	 OK
+2015-04-04 11:00:31	
+2015-04-04 11:00:31	Spawn [Task-111] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/111
+2015-04-04 11:00:31	Resolving localhost... 
+2015-04-04 11:00:31	127.0.0.1
+2015-04-04 11:00:31	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:31	HTTP request sent, awaiting response... 
+2015-04-04 11:00:31	200
+2015-04-04 11:00:31	 OK
+2015-04-04 11:00:31	
+2015-04-04 11:00:31	Spawn [Task-112] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/112
+2015-04-04 11:00:31	Resolving localhost... 
+2015-04-04 11:00:31	127.0.0.1
+2015-04-04 11:00:31	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:31	HTTP request sent, awaiting response... 
+2015-04-04 11:00:31	200
+2015-04-04 11:00:31	 OK
+2015-04-04 11:00:31	
+2015-04-04 11:00:31	Spawn [Task-113] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/113
+2015-04-04 11:00:31	Resolving localhost... 
+2015-04-04 11:00:31	127.0.0.1
+2015-04-04 11:00:31	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:31	HTTP request sent, awaiting response... 
+2015-04-04 11:00:31	200
+2015-04-04 11:00:31	 OK
+2015-04-04 11:00:31	
+2015-04-04 11:00:31	Spawn [Task-114] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/114
+2015-04-04 11:00:31	Resolving localhost... 
+2015-04-04 11:00:31	127.0.0.1
+2015-04-04 11:00:31	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:31	HTTP request sent, awaiting response... 
+2015-04-04 11:00:31	200
+2015-04-04 11:00:31	 OK
+2015-04-04 11:00:31	
+2015-04-04 11:00:31	Spawn [Task-115] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/115
+2015-04-04 11:00:31	Resolving localhost... 
+2015-04-04 11:00:31	127.0.0.1
+2015-04-04 11:00:31	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:31	HTTP request sent, awaiting response... 
+2015-04-04 11:00:31	200
+2015-04-04 11:00:31	 OK
+2015-04-04 11:00:31	
+2015-04-04 11:00:31	Spawn [Task-116] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/116
+2015-04-04 11:00:31	Resolving localhost... 
+2015-04-04 11:00:31	127.0.0.1
+2015-04-04 11:00:31	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:31	HTTP request sent, awaiting response... 
+2015-04-04 11:00:31	200
+2015-04-04 11:00:31	 OK
+2015-04-04 11:00:31	
+2015-04-04 11:00:31	Spawn [Task-117] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/117
+2015-04-04 11:00:31	Resolving localhost... 
+2015-04-04 11:00:31	127.0.0.1
+2015-04-04 11:00:31	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:31	HTTP request sent, awaiting response... 
+2015-04-04 11:00:31	200
+2015-04-04 11:00:31	 OK
+2015-04-04 11:00:31	
+2015-04-04 11:00:31	Spawn [Task-118] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/118
+2015-04-04 11:00:31	Resolving localhost... 
+2015-04-04 11:00:31	127.0.0.1
+2015-04-04 11:00:31	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:31	HTTP request sent, awaiting response... 
+2015-04-04 11:00:31	200
+2015-04-04 11:00:31	 OK
+2015-04-04 11:00:31	
+2015-04-04 11:00:31	Spawn [Task-119] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/119
+2015-04-04 11:00:31	Resolving localhost... 
+2015-04-04 11:00:31	127.0.0.1
+2015-04-04 11:00:31	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:31	HTTP request sent, awaiting response... 
+2015-04-04 11:00:31	200
+2015-04-04 11:00:31	 OK
+2015-04-04 11:00:31	
+2015-04-04 11:00:31	Spawn [Task-120] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/120
+2015-04-04 11:00:31	Resolving localhost... 
+2015-04-04 11:00:31	127.0.0.1
+2015-04-04 11:00:31	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:31	HTTP request sent, awaiting response... 
+2015-04-04 11:00:31	200
+2015-04-04 11:00:31	 OK
+2015-04-04 11:00:31	
+2015-04-04 11:00:31	Spawn [Task-121] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/121
+2015-04-04 11:00:31	Resolving localhost... 
+2015-04-04 11:00:31	127.0.0.1
+2015-04-04 11:00:31	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:31	HTTP request sent, awaiting response... 
+2015-04-04 11:00:31	200
+2015-04-04 11:00:31	 OK
+2015-04-04 11:00:31	
+2015-04-04 11:00:31	Spawn [Task-122] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/122
+2015-04-04 11:00:31	Resolving localhost... 
+2015-04-04 11:00:31	127.0.0.1
+2015-04-04 11:00:31	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:31	HTTP request sent, awaiting response... 
+2015-04-04 11:00:31	200
+2015-04-04 11:00:31	 OK
+2015-04-04 11:00:31	
+2015-04-04 11:00:31	Spawn [Task-123] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/123
+2015-04-04 11:00:31	Resolving localhost... 
+2015-04-04 11:00:31	127.0.0.1
+2015-04-04 11:00:31	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:31	HTTP request sent, awaiting response... 
+2015-04-04 11:00:31	200
+2015-04-04 11:00:31	 OK
+2015-04-04 11:00:31	
+2015-04-04 11:00:31	Spawn [Task-124] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/124
+2015-04-04 11:00:31	Resolving localhost... 
+2015-04-04 11:00:31	127.0.0.1
+2015-04-04 11:00:31	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:31	HTTP request sent, awaiting response... 
+2015-04-04 11:00:31	200
+2015-04-04 11:00:31	 OK
+2015-04-04 11:00:31	
+2015-04-04 11:00:31	Spawn [Task-125] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/125
+2015-04-04 11:00:31	Resolving localhost... 
+2015-04-04 11:00:31	127.0.0.1
+2015-04-04 11:00:31	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:31	HTTP request sent, awaiting response... 
+2015-04-04 11:00:31	200
+2015-04-04 11:00:31	 OK
+2015-04-04 11:00:31	
+2015-04-04 11:00:31	Spawn [Task-126] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/126
+2015-04-04 11:00:31	Resolving localhost... 
+2015-04-04 11:00:31	127.0.0.1
+2015-04-04 11:00:31	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:31	HTTP request sent, awaiting response... 
+2015-04-04 11:00:31	200
+2015-04-04 11:00:31	 OK
+2015-04-04 11:00:31	
+2015-04-04 11:00:31	Spawn [Task-127] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/127
+2015-04-04 11:00:31	Resolving localhost... 
+2015-04-04 11:00:31	127.0.0.1
+2015-04-04 11:00:31	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:31	HTTP request sent, awaiting response... 
+2015-04-04 11:00:31	200
+2015-04-04 11:00:31	 OK
+2015-04-04 11:00:31	
+2015-04-04 11:00:31	Spawn [Task-128] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/128
+2015-04-04 11:00:31	Resolving localhost... 
+2015-04-04 11:00:31	127.0.0.1
+2015-04-04 11:00:31	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:31	HTTP request sent, awaiting response... 
+2015-04-04 11:00:31	200
+2015-04-04 11:00:31	 OK
+2015-04-04 11:00:31	
+2015-04-04 11:00:31	Spawn [Task-129] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/129
+2015-04-04 11:00:31	Resolving localhost... 
+2015-04-04 11:00:31	127.0.0.1
+2015-04-04 11:00:31	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:31	HTTP request sent, awaiting response... 
+2015-04-04 11:00:31	200
+2015-04-04 11:00:31	 OK
+2015-04-04 11:00:31	
+2015-04-04 11:00:31	Spawn [Task-130] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/130
+2015-04-04 11:00:31	Resolving localhost... 
+2015-04-04 11:00:31	127.0.0.1
+2015-04-04 11:00:31	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:31	HTTP request sent, awaiting response... 
+2015-04-04 11:00:31	200
+2015-04-04 11:00:31	 OK
+2015-04-04 11:00:31	
+2015-04-04 11:00:31	Spawn [Task-131] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/131
+2015-04-04 11:00:31	Resolving localhost... 
+2015-04-04 11:00:31	127.0.0.1
+2015-04-04 11:00:31	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:31	HTTP request sent, awaiting response... 
+2015-04-04 11:00:31	200
+2015-04-04 11:00:31	 OK
+2015-04-04 11:00:31	
+2015-04-04 11:00:31	Spawn [Task-132] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/132
+2015-04-04 11:00:31	Resolving localhost... 
+2015-04-04 11:00:31	127.0.0.1
+2015-04-04 11:00:31	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:31	HTTP request sent, awaiting response... 
+2015-04-04 11:00:31	200
+2015-04-04 11:00:31	 OK
+2015-04-04 11:00:31	
+2015-04-04 11:00:31	Spawn [Task-133] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/133
+2015-04-04 11:00:31	Resolving localhost... 
+2015-04-04 11:00:31	127.0.0.1
+2015-04-04 11:00:31	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:31	HTTP request sent, awaiting response... 
+2015-04-04 11:00:31	200
+2015-04-04 11:00:31	 OK
+2015-04-04 11:00:31	
+2015-04-04 11:00:31	Spawn [Task-134] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/134
+2015-04-04 11:00:31	Resolving localhost... 
+2015-04-04 11:00:31	127.0.0.1
+2015-04-04 11:00:31	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:31	HTTP request sent, awaiting response... 
+2015-04-04 11:00:31	200
+2015-04-04 11:00:31	 OK
+2015-04-04 11:00:31	
+2015-04-04 11:00:31	Spawn [Task-135] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/135
+2015-04-04 11:00:31	Resolving localhost... 
+2015-04-04 11:00:31	127.0.0.1
+2015-04-04 11:00:31	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:31	HTTP request sent, awaiting response... 
+2015-04-04 11:00:31	200
+2015-04-04 11:00:31	 OK
+2015-04-04 11:00:31	
+2015-04-04 11:00:31	Spawn [Task-136] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/136
+2015-04-04 11:00:31	Resolving localhost... 
+2015-04-04 11:00:31	127.0.0.1
+2015-04-04 11:00:31	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:31	HTTP request sent, awaiting response... 
+2015-04-04 11:00:32	200
+2015-04-04 11:00:32	 OK
+2015-04-04 11:00:32	
+2015-04-04 11:00:32	Spawn [Task-137] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/137
+2015-04-04 11:00:32	Resolving localhost... 
+2015-04-04 11:00:32	127.0.0.1
+2015-04-04 11:00:32	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:32	HTTP request sent, awaiting response... 
+2015-04-04 11:00:32	200
+2015-04-04 11:00:32	 OK
+2015-04-04 11:00:32	
+2015-04-04 11:00:32	Spawn [Task-138] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/138
+2015-04-04 11:00:32	Resolving localhost... 
+2015-04-04 11:00:32	127.0.0.1
+2015-04-04 11:00:32	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:32	HTTP request sent, awaiting response... 
+2015-04-04 11:00:32	200
+2015-04-04 11:00:32	 OK
+2015-04-04 11:00:32	
+2015-04-04 11:00:32	Spawn [Task-139] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/139
+2015-04-04 11:00:32	Resolving localhost... 
+2015-04-04 11:00:32	127.0.0.1
+2015-04-04 11:00:32	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:32	HTTP request sent, awaiting response... 
+2015-04-04 11:00:32	200
+2015-04-04 11:00:32	 OK
+2015-04-04 11:00:32	
+2015-04-04 11:00:32	Spawn [Task-140] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/140
+2015-04-04 11:00:32	Resolving localhost... 
+2015-04-04 11:00:32	127.0.0.1
+2015-04-04 11:00:32	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:32	HTTP request sent, awaiting response... 
+2015-04-04 11:00:32	200
+2015-04-04 11:00:32	 OK
+2015-04-04 11:00:32	
+2015-04-04 11:00:32	Spawn [Task-141] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/141
+2015-04-04 11:00:32	Resolving localhost... 
+2015-04-04 11:00:32	127.0.0.1
+2015-04-04 11:00:32	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:00:32	HTTP request sent, awaiting response... 
+2015-04-04 11:00:32	200
+2015-04-04 11:00:32	 OK
+2015-04-04 11:00:32	
+2015-04-04 11:01:02	Spawn [Task-109] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/109
+2015-04-04 11:01:02	Resolving localhost... 
+2015-04-04 11:01:02	127.0.0.1
+2015-04-04 11:01:02	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:02	HTTP request sent, awaiting response... 
+2015-04-04 11:01:02	200
+2015-04-04 11:01:02	 OK
+2015-04-04 11:01:02	
+2015-04-04 11:01:02	Spawn [Task-110] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/110
+2015-04-04 11:01:02	Resolving localhost... 
+2015-04-04 11:01:02	127.0.0.1
+2015-04-04 11:01:02	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:02	HTTP request sent, awaiting response... 
+2015-04-04 11:01:02	200
+2015-04-04 11:01:02	 OK
+2015-04-04 11:01:02	
+2015-04-04 11:01:02	Spawn [Task-111] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/111
+2015-04-04 11:01:02	Resolving localhost... 
+2015-04-04 11:01:02	127.0.0.1
+2015-04-04 11:01:02	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:02	HTTP request sent, awaiting response... 
+2015-04-04 11:01:02	200
+2015-04-04 11:01:02	 OK
+2015-04-04 11:01:02	
+2015-04-04 11:01:02	Spawn [Task-112] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/112
+2015-04-04 11:01:02	Resolving localhost... 
+2015-04-04 11:01:02	127.0.0.1
+2015-04-04 11:01:02	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:02	HTTP request sent, awaiting response... 
+2015-04-04 11:01:02	200
+2015-04-04 11:01:02	 OK
+2015-04-04 11:01:02	
+2015-04-04 11:01:02	Spawn [Task-113] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/113
+2015-04-04 11:01:02	Resolving localhost... 
+2015-04-04 11:01:02	127.0.0.1
+2015-04-04 11:01:02	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:02	HTTP request sent, awaiting response... 
+2015-04-04 11:01:02	200
+2015-04-04 11:01:02	 OK
+2015-04-04 11:01:02	
+2015-04-04 11:01:02	Spawn [Task-114] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/114
+2015-04-04 11:01:02	Resolving localhost... 
+2015-04-04 11:01:02	127.0.0.1
+2015-04-04 11:01:02	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:02	HTTP request sent, awaiting response... 
+2015-04-04 11:01:02	200
+2015-04-04 11:01:02	 OK
+2015-04-04 11:01:02	
+2015-04-04 11:01:02	Spawn [Task-115] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/115
+2015-04-04 11:01:02	Resolving localhost... 
+2015-04-04 11:01:02	127.0.0.1
+2015-04-04 11:01:02	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:02	HTTP request sent, awaiting response... 
+2015-04-04 11:01:02	200
+2015-04-04 11:01:02	 OK
+2015-04-04 11:01:02	
+2015-04-04 11:01:02	Spawn [Task-116] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/116
+2015-04-04 11:01:02	Resolving localhost... 
+2015-04-04 11:01:02	127.0.0.1
+2015-04-04 11:01:02	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:02	HTTP request sent, awaiting response... 
+2015-04-04 11:01:02	200
+2015-04-04 11:01:02	 OK
+2015-04-04 11:01:02	
+2015-04-04 11:01:02	Spawn [Task-117] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/117
+2015-04-04 11:01:02	Resolving localhost... 
+2015-04-04 11:01:02	127.0.0.1
+2015-04-04 11:01:02	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:02	HTTP request sent, awaiting response... 
+2015-04-04 11:01:02	200
+2015-04-04 11:01:02	 OK
+2015-04-04 11:01:02	
+2015-04-04 11:01:02	Spawn [Task-118] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/118
+2015-04-04 11:01:02	Resolving localhost... 
+2015-04-04 11:01:02	127.0.0.1
+2015-04-04 11:01:02	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:02	HTTP request sent, awaiting response... 
+2015-04-04 11:01:02	200
+2015-04-04 11:01:02	 OK
+2015-04-04 11:01:02	
+2015-04-04 11:01:02	Spawn [Task-119] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/119
+2015-04-04 11:01:02	Resolving localhost... 
+2015-04-04 11:01:02	127.0.0.1
+2015-04-04 11:01:02	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:02	HTTP request sent, awaiting response... 
+2015-04-04 11:01:02	200
+2015-04-04 11:01:02	 OK
+2015-04-04 11:01:02	
+2015-04-04 11:01:02	Spawn [Task-120] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/120
+2015-04-04 11:01:02	Resolving localhost... 
+2015-04-04 11:01:02	127.0.0.1
+2015-04-04 11:01:02	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:02	HTTP request sent, awaiting response... 
+2015-04-04 11:01:02	200
+2015-04-04 11:01:02	 OK
+2015-04-04 11:01:02	
+2015-04-04 11:01:02	Spawn [Task-121] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/121
+2015-04-04 11:01:02	Resolving localhost... 
+2015-04-04 11:01:02	127.0.0.1
+2015-04-04 11:01:02	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:02	HTTP request sent, awaiting response... 
+2015-04-04 11:01:02	200
+2015-04-04 11:01:02	 OK
+2015-04-04 11:01:02	
+2015-04-04 11:01:02	Spawn [Task-122] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/122
+2015-04-04 11:01:02	Resolving localhost... 
+2015-04-04 11:01:02	127.0.0.1
+2015-04-04 11:01:02	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:02	HTTP request sent, awaiting response... 
+2015-04-04 11:01:02	200
+2015-04-04 11:01:02	 OK
+2015-04-04 11:01:02	
+2015-04-04 11:01:02	Spawn [Task-123] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/123
+2015-04-04 11:01:02	Resolving localhost... 
+2015-04-04 11:01:02	127.0.0.1
+2015-04-04 11:01:02	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:02	HTTP request sent, awaiting response... 
+2015-04-04 11:01:02	200
+2015-04-04 11:01:02	 OK
+2015-04-04 11:01:02	
+2015-04-04 11:01:02	Spawn [Task-124] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/124
+2015-04-04 11:01:02	Resolving localhost... 
+2015-04-04 11:01:02	127.0.0.1
+2015-04-04 11:01:02	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:02	HTTP request sent, awaiting response... 
+2015-04-04 11:01:02	200
+2015-04-04 11:01:02	 OK
+2015-04-04 11:01:02	
+2015-04-04 11:01:02	Spawn [Task-125] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/125
+2015-04-04 11:01:02	Resolving localhost... 
+2015-04-04 11:01:02	127.0.0.1
+2015-04-04 11:01:02	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:02	HTTP request sent, awaiting response... 
+2015-04-04 11:01:02	200
+2015-04-04 11:01:02	 OK
+2015-04-04 11:01:02	
+2015-04-04 11:01:02	Spawn [Task-126] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/126
+2015-04-04 11:01:02	Resolving localhost... 
+2015-04-04 11:01:02	127.0.0.1
+2015-04-04 11:01:02	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:02	HTTP request sent, awaiting response... 
+2015-04-04 11:01:02	200
+2015-04-04 11:01:02	 OK
+2015-04-04 11:01:02	
+2015-04-04 11:01:02	Spawn [Task-127] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/127
+2015-04-04 11:01:02	Resolving localhost... 
+2015-04-04 11:01:02	127.0.0.1
+2015-04-04 11:01:02	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:02	HTTP request sent, awaiting response... 
+2015-04-04 11:01:02	200
+2015-04-04 11:01:02	 OK
+2015-04-04 11:01:02	
+2015-04-04 11:01:02	Spawn [Task-128] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/128
+2015-04-04 11:01:02	Resolving localhost... 
+2015-04-04 11:01:02	127.0.0.1
+2015-04-04 11:01:02	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:02	HTTP request sent, awaiting response... 
+2015-04-04 11:01:02	200
+2015-04-04 11:01:02	 OK
+2015-04-04 11:01:02	
+2015-04-04 11:01:02	Spawn [Task-129] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/129
+2015-04-04 11:01:02	Resolving localhost... 
+2015-04-04 11:01:02	127.0.0.1
+2015-04-04 11:01:02	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:02	HTTP request sent, awaiting response... 
+2015-04-04 11:01:02	200
+2015-04-04 11:01:02	 OK
+2015-04-04 11:01:02	
+2015-04-04 11:01:02	Spawn [Task-130] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/130
+2015-04-04 11:01:02	Resolving localhost... 
+2015-04-04 11:01:02	127.0.0.1
+2015-04-04 11:01:02	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:02	HTTP request sent, awaiting response... 
+2015-04-04 11:01:02	200
+2015-04-04 11:01:02	 OK
+2015-04-04 11:01:02	
+2015-04-04 11:01:02	Spawn [Task-131] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/131
+2015-04-04 11:01:02	Resolving localhost... 
+2015-04-04 11:01:02	127.0.0.1
+2015-04-04 11:01:02	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:02	HTTP request sent, awaiting response... 
+2015-04-04 11:01:02	200
+2015-04-04 11:01:02	 OK
+2015-04-04 11:01:02	
+2015-04-04 11:01:02	Spawn [Task-132] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/132
+2015-04-04 11:01:02	Resolving localhost... 
+2015-04-04 11:01:02	127.0.0.1
+2015-04-04 11:01:02	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:02	HTTP request sent, awaiting response... 
+2015-04-04 11:01:02	200
+2015-04-04 11:01:02	 OK
+2015-04-04 11:01:02	
+2015-04-04 11:01:02	Spawn [Task-133] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/133
+2015-04-04 11:01:02	Resolving localhost... 
+2015-04-04 11:01:02	127.0.0.1
+2015-04-04 11:01:02	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:02	HTTP request sent, awaiting response... 
+2015-04-04 11:01:02	200
+2015-04-04 11:01:02	 OK
+2015-04-04 11:01:02	
+2015-04-04 11:01:02	Spawn [Task-134] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/134
+2015-04-04 11:01:02	Resolving localhost... 
+2015-04-04 11:01:02	127.0.0.1
+2015-04-04 11:01:02	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:02	HTTP request sent, awaiting response... 
+2015-04-04 11:01:02	200
+2015-04-04 11:01:02	 OK
+2015-04-04 11:01:02	
+2015-04-04 11:01:02	Spawn [Task-135] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/135
+2015-04-04 11:01:02	Resolving localhost... 
+2015-04-04 11:01:02	127.0.0.1
+2015-04-04 11:01:02	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:02	HTTP request sent, awaiting response... 
+2015-04-04 11:01:02	200
+2015-04-04 11:01:02	 OK
+2015-04-04 11:01:02	
+2015-04-04 11:01:02	Spawn [Task-136] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/136
+2015-04-04 11:01:02	Resolving localhost... 
+2015-04-04 11:01:02	127.0.0.1
+2015-04-04 11:01:02	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:02	HTTP request sent, awaiting response... 
+2015-04-04 11:01:02	200
+2015-04-04 11:01:02	 OK
+2015-04-04 11:01:02	
+2015-04-04 11:01:02	Spawn [Task-137] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/137
+2015-04-04 11:01:02	Resolving localhost... 
+2015-04-04 11:01:02	127.0.0.1
+2015-04-04 11:01:02	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:02	HTTP request sent, awaiting response... 
+2015-04-04 11:01:02	200
+2015-04-04 11:01:02	 OK
+2015-04-04 11:01:02	
+2015-04-04 11:01:02	Spawn [Task-138] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/138
+2015-04-04 11:01:02	Resolving localhost... 
+2015-04-04 11:01:02	127.0.0.1
+2015-04-04 11:01:02	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:02	HTTP request sent, awaiting response... 
+2015-04-04 11:01:02	200
+2015-04-04 11:01:02	 OK
+2015-04-04 11:01:02	
+2015-04-04 11:01:02	Spawn [Task-139] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/139
+2015-04-04 11:01:02	Resolving localhost... 
+2015-04-04 11:01:02	127.0.0.1
+2015-04-04 11:01:02	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:03	HTTP request sent, awaiting response... 
+2015-04-04 11:01:03	200
+2015-04-04 11:01:03	 OK
+2015-04-04 11:01:03	
+2015-04-04 11:01:03	Spawn [Task-140] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/140
+2015-04-04 11:01:03	Resolving localhost... 
+2015-04-04 11:01:03	127.0.0.1
+2015-04-04 11:01:03	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:03	HTTP request sent, awaiting response... 
+2015-04-04 11:01:03	200
+2015-04-04 11:01:03	 OK
+2015-04-04 11:01:03	
+2015-04-04 11:01:03	Spawn [Task-141] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/141
+2015-04-04 11:01:03	Resolving localhost... 
+2015-04-04 11:01:03	127.0.0.1
+2015-04-04 11:01:03	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:03	HTTP request sent, awaiting response... 
+2015-04-04 11:01:03	200
+2015-04-04 11:01:03	 OK
+2015-04-04 11:01:03	
+2015-04-04 11:01:33	Spawn [Task-109] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/109
+2015-04-04 11:01:33	Resolving localhost... 
+2015-04-04 11:01:33	127.0.0.1
+2015-04-04 11:01:33	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:33	HTTP request sent, awaiting response... 
+2015-04-04 11:01:33	200
+2015-04-04 11:01:33	 OK
+2015-04-04 11:01:33	
+2015-04-04 11:01:33	Spawn [Task-110] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/110
+2015-04-04 11:01:33	Resolving localhost... 
+2015-04-04 11:01:33	127.0.0.1
+2015-04-04 11:01:33	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:33	HTTP request sent, awaiting response... 
+2015-04-04 11:01:33	200
+2015-04-04 11:01:33	 OK
+2015-04-04 11:01:33	
+2015-04-04 11:01:33	Spawn [Task-111] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/111
+2015-04-04 11:01:33	Resolving localhost... 
+2015-04-04 11:01:33	127.0.0.1
+2015-04-04 11:01:33	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:33	HTTP request sent, awaiting response... 
+2015-04-04 11:01:33	200
+2015-04-04 11:01:33	 OK
+2015-04-04 11:01:33	
+2015-04-04 11:01:33	Spawn [Task-112] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/112
+2015-04-04 11:01:33	Resolving localhost... 
+2015-04-04 11:01:33	127.0.0.1
+2015-04-04 11:01:33	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:33	HTTP request sent, awaiting response... 
+2015-04-04 11:01:33	200
+2015-04-04 11:01:33	 OK
+2015-04-04 11:01:33	
+2015-04-04 11:01:33	Spawn [Task-113] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/113
+2015-04-04 11:01:33	Resolving localhost... 
+2015-04-04 11:01:33	127.0.0.1
+2015-04-04 11:01:33	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:33	HTTP request sent, awaiting response... 
+2015-04-04 11:01:33	200
+2015-04-04 11:01:33	 OK
+2015-04-04 11:01:33	
+2015-04-04 11:01:33	Spawn [Task-114] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/114
+2015-04-04 11:01:33	Resolving localhost... 
+2015-04-04 11:01:33	127.0.0.1
+2015-04-04 11:01:33	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:33	HTTP request sent, awaiting response... 
+2015-04-04 11:01:33	200
+2015-04-04 11:01:33	 OK
+2015-04-04 11:01:33	
+2015-04-04 11:01:33	Spawn [Task-115] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/115
+2015-04-04 11:01:33	Resolving localhost... 
+2015-04-04 11:01:33	127.0.0.1
+2015-04-04 11:01:33	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:33	HTTP request sent, awaiting response... 
+2015-04-04 11:01:33	200
+2015-04-04 11:01:33	 OK
+2015-04-04 11:01:33	
+2015-04-04 11:01:33	Spawn [Task-116] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/116
+2015-04-04 11:01:33	Resolving localhost... 
+2015-04-04 11:01:33	127.0.0.1
+2015-04-04 11:01:33	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:33	HTTP request sent, awaiting response... 
+2015-04-04 11:01:33	200
+2015-04-04 11:01:33	 OK
+2015-04-04 11:01:33	
+2015-04-04 11:01:33	Spawn [Task-117] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/117
+2015-04-04 11:01:33	Resolving localhost... 
+2015-04-04 11:01:33	127.0.0.1
+2015-04-04 11:01:33	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:33	HTTP request sent, awaiting response... 
+2015-04-04 11:01:33	200
+2015-04-04 11:01:33	 OK
+2015-04-04 11:01:33	
+2015-04-04 11:01:33	Spawn [Task-118] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/118
+2015-04-04 11:01:33	Resolving localhost... 
+2015-04-04 11:01:33	127.0.0.1
+2015-04-04 11:01:33	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:33	HTTP request sent, awaiting response... 
+2015-04-04 11:01:33	200
+2015-04-04 11:01:33	 OK
+2015-04-04 11:01:33	
+2015-04-04 11:01:33	Spawn [Task-119] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/119
+2015-04-04 11:01:33	Resolving localhost... 
+2015-04-04 11:01:33	127.0.0.1
+2015-04-04 11:01:33	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:33	HTTP request sent, awaiting response... 
+2015-04-04 11:01:33	200
+2015-04-04 11:01:33	 OK
+2015-04-04 11:01:33	
+2015-04-04 11:01:33	Spawn [Task-120] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/120
+2015-04-04 11:01:33	Resolving localhost... 
+2015-04-04 11:01:33	127.0.0.1
+2015-04-04 11:01:33	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:33	HTTP request sent, awaiting response... 
+2015-04-04 11:01:33	200
+2015-04-04 11:01:33	 OK
+2015-04-04 11:01:33	
+2015-04-04 11:01:33	Spawn [Task-121] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/121
+2015-04-04 11:01:33	Resolving localhost... 
+2015-04-04 11:01:33	127.0.0.1
+2015-04-04 11:01:33	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:33	HTTP request sent, awaiting response... 
+2015-04-04 11:01:33	200
+2015-04-04 11:01:33	 OK
+2015-04-04 11:01:33	
+2015-04-04 11:01:33	Spawn [Task-122] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/122
+2015-04-04 11:01:33	Resolving localhost... 
+2015-04-04 11:01:33	127.0.0.1
+2015-04-04 11:01:33	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:33	HTTP request sent, awaiting response... 
+2015-04-04 11:01:33	200
+2015-04-04 11:01:33	 OK
+2015-04-04 11:01:33	
+2015-04-04 11:01:33	Spawn [Task-123] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/123
+2015-04-04 11:01:33	Resolving localhost... 
+2015-04-04 11:01:33	127.0.0.1
+2015-04-04 11:01:33	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:33	HTTP request sent, awaiting response... 
+2015-04-04 11:01:33	200
+2015-04-04 11:01:33	 OK
+2015-04-04 11:01:33	
+2015-04-04 11:01:33	Spawn [Task-124] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/124
+2015-04-04 11:01:33	Resolving localhost... 
+2015-04-04 11:01:33	127.0.0.1
+2015-04-04 11:01:33	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:33	HTTP request sent, awaiting response... 
+2015-04-04 11:01:33	200
+2015-04-04 11:01:33	 OK
+2015-04-04 11:01:33	
+2015-04-04 11:01:33	Spawn [Task-125] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/125
+2015-04-04 11:01:33	Resolving localhost... 
+2015-04-04 11:01:33	127.0.0.1
+2015-04-04 11:01:33	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:33	HTTP request sent, awaiting response... 
+2015-04-04 11:01:33	200
+2015-04-04 11:01:33	 OK
+2015-04-04 11:01:33	
+2015-04-04 11:01:33	Spawn [Task-126] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/126
+2015-04-04 11:01:33	Resolving localhost... 
+2015-04-04 11:01:33	127.0.0.1
+2015-04-04 11:01:33	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:33	HTTP request sent, awaiting response... 
+2015-04-04 11:01:33	200
+2015-04-04 11:01:33	 OK
+2015-04-04 11:01:33	
+2015-04-04 11:01:33	Spawn [Task-127] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/127
+2015-04-04 11:01:33	Resolving localhost... 
+2015-04-04 11:01:33	127.0.0.1
+2015-04-04 11:01:33	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:33	HTTP request sent, awaiting response... 
+2015-04-04 11:01:33	200
+2015-04-04 11:01:33	 OK
+2015-04-04 11:01:33	
+2015-04-04 11:01:33	Spawn [Task-128] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/128
+2015-04-04 11:01:33	Resolving localhost... 
+2015-04-04 11:01:33	127.0.0.1
+2015-04-04 11:01:33	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:33	HTTP request sent, awaiting response... 
+2015-04-04 11:01:33	200
+2015-04-04 11:01:33	 OK
+2015-04-04 11:01:33	
+2015-04-04 11:01:33	Spawn [Task-129] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/129
+2015-04-04 11:01:33	Resolving localhost... 
+2015-04-04 11:01:33	127.0.0.1
+2015-04-04 11:01:33	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:33	HTTP request sent, awaiting response... 
+2015-04-04 11:01:33	200
+2015-04-04 11:01:33	 OK
+2015-04-04 11:01:33	
+2015-04-04 11:01:33	Spawn [Task-130] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/130
+2015-04-04 11:01:33	Resolving localhost... 
+2015-04-04 11:01:33	127.0.0.1
+2015-04-04 11:01:33	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:33	HTTP request sent, awaiting response... 
+2015-04-04 11:01:33	200
+2015-04-04 11:01:33	 OK
+2015-04-04 11:01:33	
+2015-04-04 11:01:33	Spawn [Task-131] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/131
+2015-04-04 11:01:33	Resolving localhost... 
+2015-04-04 11:01:33	127.0.0.1
+2015-04-04 11:01:33	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:33	HTTP request sent, awaiting response... 
+2015-04-04 11:01:33	200
+2015-04-04 11:01:33	 OK
+2015-04-04 11:01:33	
+2015-04-04 11:01:33	Spawn [Task-132] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/132
+2015-04-04 11:01:33	Resolving localhost... 
+2015-04-04 11:01:33	127.0.0.1
+2015-04-04 11:01:33	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:33	HTTP request sent, awaiting response... 
+2015-04-04 11:01:33	200
+2015-04-04 11:01:33	 OK
+2015-04-04 11:01:33	
+2015-04-04 11:01:33	Spawn [Task-133] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/133
+2015-04-04 11:01:33	Resolving localhost... 
+2015-04-04 11:01:33	127.0.0.1
+2015-04-04 11:01:33	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:33	HTTP request sent, awaiting response... 
+2015-04-04 11:01:33	200
+2015-04-04 11:01:33	 OK
+2015-04-04 11:01:33	
+2015-04-04 11:01:33	Spawn [Task-134] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/134
+2015-04-04 11:01:33	Resolving localhost... 
+2015-04-04 11:01:33	127.0.0.1
+2015-04-04 11:01:33	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:33	HTTP request sent, awaiting response... 
+2015-04-04 11:01:33	200
+2015-04-04 11:01:33	 OK
+2015-04-04 11:01:33	
+2015-04-04 11:01:33	Spawn [Task-135] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/135
+2015-04-04 11:01:33	Resolving localhost... 
+2015-04-04 11:01:33	127.0.0.1
+2015-04-04 11:01:33	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:33	HTTP request sent, awaiting response... 
+2015-04-04 11:01:33	200
+2015-04-04 11:01:33	 OK
+2015-04-04 11:01:33	
+2015-04-04 11:01:33	Spawn [Task-136] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/136
+2015-04-04 11:01:33	Resolving localhost... 
+2015-04-04 11:01:33	127.0.0.1
+2015-04-04 11:01:33	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:33	HTTP request sent, awaiting response... 
+2015-04-04 11:01:33	200
+2015-04-04 11:01:33	 OK
+2015-04-04 11:01:33	
+2015-04-04 11:01:33	Spawn [Task-137] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/137
+2015-04-04 11:01:33	Resolving localhost... 
+2015-04-04 11:01:33	127.0.0.1
+2015-04-04 11:01:33	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:33	HTTP request sent, awaiting response... 
+2015-04-04 11:01:33	200
+2015-04-04 11:01:33	 OK
+2015-04-04 11:01:33	
+2015-04-04 11:01:33	Spawn [Task-138] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/138
+2015-04-04 11:01:33	Resolving localhost... 
+2015-04-04 11:01:33	127.0.0.1
+2015-04-04 11:01:33	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:33	HTTP request sent, awaiting response... 
+2015-04-04 11:01:33	200
+2015-04-04 11:01:33	 OK
+2015-04-04 11:01:33	
+2015-04-04 11:01:33	Spawn [Task-139] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/139
+2015-04-04 11:01:33	Resolving localhost... 
+2015-04-04 11:01:33	127.0.0.1
+2015-04-04 11:01:33	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:33	HTTP request sent, awaiting response... 
+2015-04-04 11:01:34	200
+2015-04-04 11:01:34	 OK
+2015-04-04 11:01:34	
+2015-04-04 11:01:34	Spawn [Task-140] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/140
+2015-04-04 11:01:34	Resolving localhost... 
+2015-04-04 11:01:34	127.0.0.1
+2015-04-04 11:01:34	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:34	HTTP request sent, awaiting response... 
+2015-04-04 11:01:34	200
+2015-04-04 11:01:34	 OK
+2015-04-04 11:01:34	
+2015-04-04 11:01:34	Spawn [Task-141] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/141
+2015-04-04 11:01:34	Resolving localhost... 
+2015-04-04 11:01:34	127.0.0.1
+2015-04-04 11:01:34	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:01:34	HTTP request sent, awaiting response... 
+2015-04-04 11:01:34	200
+2015-04-04 11:01:34	 OK
+2015-04-04 11:01:34	
+2015-04-04 11:02:04	Spawn [Task-109] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/109
+2015-04-04 11:02:04	Resolving localhost... 
+2015-04-04 11:02:04	127.0.0.1
+2015-04-04 11:02:04	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:04	HTTP request sent, awaiting response... 
+2015-04-04 11:02:04	200
+2015-04-04 11:02:04	 OK
+2015-04-04 11:02:04	
+2015-04-04 11:02:04	Spawn [Task-110] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/110
+2015-04-04 11:02:04	Resolving localhost... 
+2015-04-04 11:02:04	127.0.0.1
+2015-04-04 11:02:04	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:04	HTTP request sent, awaiting response... 
+2015-04-04 11:02:04	200
+2015-04-04 11:02:04	 OK
+2015-04-04 11:02:04	
+2015-04-04 11:02:04	Spawn [Task-111] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/111
+2015-04-04 11:02:04	Resolving localhost... 
+2015-04-04 11:02:04	127.0.0.1
+2015-04-04 11:02:04	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:04	HTTP request sent, awaiting response... 
+2015-04-04 11:02:04	200
+2015-04-04 11:02:04	 OK
+2015-04-04 11:02:04	
+2015-04-04 11:02:04	Spawn [Task-112] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/112
+2015-04-04 11:02:04	Resolving localhost... 
+2015-04-04 11:02:04	127.0.0.1
+2015-04-04 11:02:04	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:04	HTTP request sent, awaiting response... 
+2015-04-04 11:02:04	200
+2015-04-04 11:02:04	 OK
+2015-04-04 11:02:04	
+2015-04-04 11:02:04	Spawn [Task-113] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/113
+2015-04-04 11:02:04	Resolving localhost... 
+2015-04-04 11:02:04	127.0.0.1
+2015-04-04 11:02:04	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:04	HTTP request sent, awaiting response... 
+2015-04-04 11:02:04	200
+2015-04-04 11:02:04	 OK
+2015-04-04 11:02:04	
+2015-04-04 11:02:04	Spawn [Task-114] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/114
+2015-04-04 11:02:04	Resolving localhost... 
+2015-04-04 11:02:04	127.0.0.1
+2015-04-04 11:02:04	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:04	HTTP request sent, awaiting response... 
+2015-04-04 11:02:04	200
+2015-04-04 11:02:04	 OK
+2015-04-04 11:02:04	
+2015-04-04 11:02:04	Spawn [Task-115] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/115
+2015-04-04 11:02:04	Resolving localhost... 
+2015-04-04 11:02:04	127.0.0.1
+2015-04-04 11:02:04	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:04	HTTP request sent, awaiting response... 
+2015-04-04 11:02:04	200
+2015-04-04 11:02:04	 OK
+2015-04-04 11:02:04	
+2015-04-04 11:02:04	Spawn [Task-116] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/116
+2015-04-04 11:02:04	Resolving localhost... 
+2015-04-04 11:02:04	127.0.0.1
+2015-04-04 11:02:04	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:04	HTTP request sent, awaiting response... 
+2015-04-04 11:02:04	200
+2015-04-04 11:02:04	 OK
+2015-04-04 11:02:04	
+2015-04-04 11:02:04	Spawn [Task-117] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/117
+2015-04-04 11:02:04	Resolving localhost... 
+2015-04-04 11:02:04	127.0.0.1
+2015-04-04 11:02:04	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:04	HTTP request sent, awaiting response... 
+2015-04-04 11:02:04	200
+2015-04-04 11:02:04	 OK
+2015-04-04 11:02:04	
+2015-04-04 11:02:04	Spawn [Task-118] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/118
+2015-04-04 11:02:04	Resolving localhost... 
+2015-04-04 11:02:04	127.0.0.1
+2015-04-04 11:02:04	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:04	HTTP request sent, awaiting response... 
+2015-04-04 11:02:04	200
+2015-04-04 11:02:04	 OK
+2015-04-04 11:02:04	
+2015-04-04 11:02:04	Spawn [Task-119] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/119
+2015-04-04 11:02:04	Resolving localhost... 
+2015-04-04 11:02:04	127.0.0.1
+2015-04-04 11:02:04	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:04	HTTP request sent, awaiting response... 
+2015-04-04 11:02:04	200
+2015-04-04 11:02:04	 OK
+2015-04-04 11:02:04	
+2015-04-04 11:02:04	Spawn [Task-120] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/120
+2015-04-04 11:02:04	Resolving localhost... 
+2015-04-04 11:02:04	127.0.0.1
+2015-04-04 11:02:04	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:04	HTTP request sent, awaiting response... 
+2015-04-04 11:02:04	200
+2015-04-04 11:02:04	 OK
+2015-04-04 11:02:04	
+2015-04-04 11:02:04	Spawn [Task-121] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/121
+2015-04-04 11:02:04	Resolving localhost... 
+2015-04-04 11:02:04	127.0.0.1
+2015-04-04 11:02:04	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:04	HTTP request sent, awaiting response... 
+2015-04-04 11:02:04	200
+2015-04-04 11:02:04	 OK
+2015-04-04 11:02:04	
+2015-04-04 11:02:04	Spawn [Task-122] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/122
+2015-04-04 11:02:04	Resolving localhost... 
+2015-04-04 11:02:04	127.0.0.1
+2015-04-04 11:02:04	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:04	HTTP request sent, awaiting response... 
+2015-04-04 11:02:04	200
+2015-04-04 11:02:04	 OK
+2015-04-04 11:02:04	
+2015-04-04 11:02:04	Spawn [Task-123] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/123
+2015-04-04 11:02:04	Resolving localhost... 
+2015-04-04 11:02:04	127.0.0.1
+2015-04-04 11:02:04	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:04	HTTP request sent, awaiting response... 
+2015-04-04 11:02:04	200
+2015-04-04 11:02:04	 OK
+2015-04-04 11:02:04	
+2015-04-04 11:02:04	Spawn [Task-124] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/124
+2015-04-04 11:02:04	Resolving localhost... 
+2015-04-04 11:02:04	127.0.0.1
+2015-04-04 11:02:04	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:04	HTTP request sent, awaiting response... 
+2015-04-04 11:02:04	200
+2015-04-04 11:02:04	 OK
+2015-04-04 11:02:04	
+2015-04-04 11:02:04	Spawn [Task-125] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/125
+2015-04-04 11:02:04	Resolving localhost... 
+2015-04-04 11:02:04	127.0.0.1
+2015-04-04 11:02:04	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:04	HTTP request sent, awaiting response... 
+2015-04-04 11:02:04	200
+2015-04-04 11:02:04	 OK
+2015-04-04 11:02:04	
+2015-04-04 11:02:04	Spawn [Task-126] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/126
+2015-04-04 11:02:04	Resolving localhost... 
+2015-04-04 11:02:04	127.0.0.1
+2015-04-04 11:02:04	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:04	HTTP request sent, awaiting response... 
+2015-04-04 11:02:04	200
+2015-04-04 11:02:04	 OK
+2015-04-04 11:02:04	
+2015-04-04 11:02:04	Spawn [Task-127] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/127
+2015-04-04 11:02:04	Resolving localhost... 
+2015-04-04 11:02:04	127.0.0.1
+2015-04-04 11:02:04	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:04	HTTP request sent, awaiting response... 
+2015-04-04 11:02:04	200
+2015-04-04 11:02:04	 OK
+2015-04-04 11:02:04	
+2015-04-04 11:02:04	Spawn [Task-128] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/128
+2015-04-04 11:02:04	Resolving localhost... 
+2015-04-04 11:02:04	127.0.0.1
+2015-04-04 11:02:04	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:04	HTTP request sent, awaiting response... 
+2015-04-04 11:02:04	200
+2015-04-04 11:02:04	 OK
+2015-04-04 11:02:04	
+2015-04-04 11:02:04	Spawn [Task-129] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/129
+2015-04-04 11:02:04	Resolving localhost... 
+2015-04-04 11:02:04	127.0.0.1
+2015-04-04 11:02:04	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:04	HTTP request sent, awaiting response... 
+2015-04-04 11:02:04	200
+2015-04-04 11:02:04	 OK
+2015-04-04 11:02:04	
+2015-04-04 11:02:04	Spawn [Task-130] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/130
+2015-04-04 11:02:04	Resolving localhost... 
+2015-04-04 11:02:04	127.0.0.1
+2015-04-04 11:02:04	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:04	HTTP request sent, awaiting response... 
+2015-04-04 11:02:04	200
+2015-04-04 11:02:04	 OK
+2015-04-04 11:02:04	
+2015-04-04 11:02:04	Spawn [Task-131] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/131
+2015-04-04 11:02:04	Resolving localhost... 
+2015-04-04 11:02:04	127.0.0.1
+2015-04-04 11:02:04	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:04	HTTP request sent, awaiting response... 
+2015-04-04 11:02:04	200
+2015-04-04 11:02:04	 OK
+2015-04-04 11:02:04	
+2015-04-04 11:02:04	Spawn [Task-132] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/132
+2015-04-04 11:02:04	Resolving localhost... 
+2015-04-04 11:02:04	127.0.0.1
+2015-04-04 11:02:04	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:04	HTTP request sent, awaiting response... 
+2015-04-04 11:02:04	200
+2015-04-04 11:02:04	 OK
+2015-04-04 11:02:04	
+2015-04-04 11:02:04	Spawn [Task-133] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/133
+2015-04-04 11:02:04	Resolving localhost... 
+2015-04-04 11:02:04	127.0.0.1
+2015-04-04 11:02:04	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:04	HTTP request sent, awaiting response... 
+2015-04-04 11:02:04	200
+2015-04-04 11:02:04	 OK
+2015-04-04 11:02:04	
+2015-04-04 11:02:04	Spawn [Task-134] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/134
+2015-04-04 11:02:04	Resolving localhost... 
+2015-04-04 11:02:04	127.0.0.1
+2015-04-04 11:02:04	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:04	HTTP request sent, awaiting response... 
+2015-04-04 11:02:04	200
+2015-04-04 11:02:04	 OK
+2015-04-04 11:02:04	
+2015-04-04 11:02:04	Spawn [Task-135] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/135
+2015-04-04 11:02:04	Resolving localhost... 
+2015-04-04 11:02:04	127.0.0.1
+2015-04-04 11:02:04	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:05	HTTP request sent, awaiting response... 
+2015-04-04 11:02:05	200
+2015-04-04 11:02:05	 OK
+2015-04-04 11:02:05	
+2015-04-04 11:02:05	Spawn [Task-136] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/136
+2015-04-04 11:02:05	Resolving localhost... 
+2015-04-04 11:02:05	127.0.0.1
+2015-04-04 11:02:05	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:05	HTTP request sent, awaiting response... 
+2015-04-04 11:02:05	200
+2015-04-04 11:02:05	 OK
+2015-04-04 11:02:05	
+2015-04-04 11:02:05	Spawn [Task-137] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/137
+2015-04-04 11:02:05	Resolving localhost... 
+2015-04-04 11:02:05	127.0.0.1
+2015-04-04 11:02:05	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:05	HTTP request sent, awaiting response... 
+2015-04-04 11:02:05	200
+2015-04-04 11:02:05	 OK
+2015-04-04 11:02:05	
+2015-04-04 11:02:05	Spawn [Task-138] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/138
+2015-04-04 11:02:05	Resolving localhost... 
+2015-04-04 11:02:05	127.0.0.1
+2015-04-04 11:02:05	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:05	HTTP request sent, awaiting response... 
+2015-04-04 11:02:05	200
+2015-04-04 11:02:05	 OK
+2015-04-04 11:02:05	
+2015-04-04 11:02:05	Spawn [Task-139] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/139
+2015-04-04 11:02:05	Resolving localhost... 
+2015-04-04 11:02:05	127.0.0.1
+2015-04-04 11:02:05	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:05	HTTP request sent, awaiting response... 
+2015-04-04 11:02:05	200
+2015-04-04 11:02:05	 OK
+2015-04-04 11:02:05	
+2015-04-04 11:02:05	Spawn [Task-140] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/140
+2015-04-04 11:02:05	Resolving localhost... 
+2015-04-04 11:02:05	127.0.0.1
+2015-04-04 11:02:05	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:05	HTTP request sent, awaiting response... 
+2015-04-04 11:02:05	200
+2015-04-04 11:02:05	 OK
+2015-04-04 11:02:05	
+2015-04-04 11:02:05	Spawn [Task-141] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/141
+2015-04-04 11:02:05	Resolving localhost... 
+2015-04-04 11:02:05	127.0.0.1
+2015-04-04 11:02:05	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:05	HTTP request sent, awaiting response... 
+2015-04-04 11:02:05	200
+2015-04-04 11:02:05	 OK
+2015-04-04 11:02:05	
+2015-04-04 11:02:35	Spawn [Task-109] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/109
+2015-04-04 11:02:35	Resolving localhost... 
+2015-04-04 11:02:35	127.0.0.1
+2015-04-04 11:02:35	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:35	HTTP request sent, awaiting response... 
+2015-04-04 11:02:35	200
+2015-04-04 11:02:35	 OK
+2015-04-04 11:02:35	
+2015-04-04 11:02:35	Spawn [Task-110] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/110
+2015-04-04 11:02:35	Resolving localhost... 
+2015-04-04 11:02:35	127.0.0.1
+2015-04-04 11:02:35	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:35	HTTP request sent, awaiting response... 
+2015-04-04 11:02:35	200
+2015-04-04 11:02:35	 OK
+2015-04-04 11:02:35	
+2015-04-04 11:02:35	Spawn [Task-111] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/111
+2015-04-04 11:02:35	Resolving localhost... 
+2015-04-04 11:02:35	127.0.0.1
+2015-04-04 11:02:35	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:35	HTTP request sent, awaiting response... 
+2015-04-04 11:02:35	200
+2015-04-04 11:02:35	 OK
+2015-04-04 11:02:35	
+2015-04-04 11:02:35	Spawn [Task-112] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/112
+2015-04-04 11:02:35	Resolving localhost... 
+2015-04-04 11:02:35	127.0.0.1
+2015-04-04 11:02:35	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:35	HTTP request sent, awaiting response... 
+2015-04-04 11:02:35	200
+2015-04-04 11:02:35	 OK
+2015-04-04 11:02:35	
+2015-04-04 11:02:35	Spawn [Task-113] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/113
+2015-04-04 11:02:35	Resolving localhost... 
+2015-04-04 11:02:35	127.0.0.1
+2015-04-04 11:02:35	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:35	HTTP request sent, awaiting response... 
+2015-04-04 11:02:35	200
+2015-04-04 11:02:35	 OK
+2015-04-04 11:02:35	
+2015-04-04 11:02:35	Spawn [Task-114] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/114
+2015-04-04 11:02:35	Resolving localhost... 
+2015-04-04 11:02:35	127.0.0.1
+2015-04-04 11:02:35	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:35	HTTP request sent, awaiting response... 
+2015-04-04 11:02:35	200
+2015-04-04 11:02:35	 OK
+2015-04-04 11:02:35	
+2015-04-04 11:02:35	Spawn [Task-115] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/115
+2015-04-04 11:02:35	Resolving localhost... 
+2015-04-04 11:02:35	127.0.0.1
+2015-04-04 11:02:35	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:35	HTTP request sent, awaiting response... 
+2015-04-04 11:02:35	200
+2015-04-04 11:02:35	 OK
+2015-04-04 11:02:35	
+2015-04-04 11:02:35	Spawn [Task-116] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/116
+2015-04-04 11:02:35	Resolving localhost... 
+2015-04-04 11:02:35	127.0.0.1
+2015-04-04 11:02:35	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:35	HTTP request sent, awaiting response... 
+2015-04-04 11:02:35	200
+2015-04-04 11:02:35	 OK
+2015-04-04 11:02:35	
+2015-04-04 11:02:35	Spawn [Task-117] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/117
+2015-04-04 11:02:35	Resolving localhost... 
+2015-04-04 11:02:35	127.0.0.1
+2015-04-04 11:02:35	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:35	HTTP request sent, awaiting response... 
+2015-04-04 11:02:35	200
+2015-04-04 11:02:35	 OK
+2015-04-04 11:02:35	
+2015-04-04 11:02:35	Spawn [Task-118] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/118
+2015-04-04 11:02:35	Resolving localhost... 
+2015-04-04 11:02:35	127.0.0.1
+2015-04-04 11:02:35	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:35	HTTP request sent, awaiting response... 
+2015-04-04 11:02:35	200
+2015-04-04 11:02:35	 OK
+2015-04-04 11:02:35	
+2015-04-04 11:02:35	Spawn [Task-119] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/119
+2015-04-04 11:02:35	Resolving localhost... 
+2015-04-04 11:02:35	127.0.0.1
+2015-04-04 11:02:35	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:35	HTTP request sent, awaiting response... 
+2015-04-04 11:02:35	200
+2015-04-04 11:02:35	 OK
+2015-04-04 11:02:35	
+2015-04-04 11:02:35	Spawn [Task-120] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/120
+2015-04-04 11:02:35	Resolving localhost... 
+2015-04-04 11:02:35	127.0.0.1
+2015-04-04 11:02:35	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:35	HTTP request sent, awaiting response... 
+2015-04-04 11:02:35	200
+2015-04-04 11:02:35	 OK
+2015-04-04 11:02:35	
+2015-04-04 11:02:35	Spawn [Task-121] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/121
+2015-04-04 11:02:35	Resolving localhost... 
+2015-04-04 11:02:35	127.0.0.1
+2015-04-04 11:02:35	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:35	HTTP request sent, awaiting response... 
+2015-04-04 11:02:35	200
+2015-04-04 11:02:35	 OK
+2015-04-04 11:02:35	
+2015-04-04 11:02:35	Spawn [Task-122] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/122
+2015-04-04 11:02:35	Resolving localhost... 
+2015-04-04 11:02:35	127.0.0.1
+2015-04-04 11:02:35	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:35	HTTP request sent, awaiting response... 
+2015-04-04 11:02:35	200
+2015-04-04 11:02:35	 OK
+2015-04-04 11:02:35	
+2015-04-04 11:02:35	Spawn [Task-123] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/123
+2015-04-04 11:02:35	Resolving localhost... 
+2015-04-04 11:02:35	127.0.0.1
+2015-04-04 11:02:35	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:35	HTTP request sent, awaiting response... 
+2015-04-04 11:02:35	200
+2015-04-04 11:02:35	 OK
+2015-04-04 11:02:35	
+2015-04-04 11:02:35	Spawn [Task-124] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/124
+2015-04-04 11:02:35	Resolving localhost... 
+2015-04-04 11:02:35	127.0.0.1
+2015-04-04 11:02:35	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:35	HTTP request sent, awaiting response... 
+2015-04-04 11:02:35	200
+2015-04-04 11:02:35	 OK
+2015-04-04 11:02:35	
+2015-04-04 11:02:35	Spawn [Task-125] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/125
+2015-04-04 11:02:35	Resolving localhost... 
+2015-04-04 11:02:35	127.0.0.1
+2015-04-04 11:02:35	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:35	HTTP request sent, awaiting response... 
+2015-04-04 11:02:35	200
+2015-04-04 11:02:35	 OK
+2015-04-04 11:02:35	
+2015-04-04 11:02:35	Spawn [Task-126] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/126
+2015-04-04 11:02:35	Resolving localhost... 
+2015-04-04 11:02:35	127.0.0.1
+2015-04-04 11:02:35	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:35	HTTP request sent, awaiting response... 
+2015-04-04 11:02:35	200
+2015-04-04 11:02:35	 OK
+2015-04-04 11:02:35	
+2015-04-04 11:02:35	Spawn [Task-127] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/127
+2015-04-04 11:02:35	Resolving localhost... 
+2015-04-04 11:02:35	127.0.0.1
+2015-04-04 11:02:35	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:35	HTTP request sent, awaiting response... 
+2015-04-04 11:02:35	200
+2015-04-04 11:02:35	 OK
+2015-04-04 11:02:35	
+2015-04-04 11:02:35	Spawn [Task-128] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/128
+2015-04-04 11:02:35	Resolving localhost... 
+2015-04-04 11:02:35	127.0.0.1
+2015-04-04 11:02:35	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:35	HTTP request sent, awaiting response... 
+2015-04-04 11:02:35	200
+2015-04-04 11:02:35	 OK
+2015-04-04 11:02:35	
+2015-04-04 11:02:35	Spawn [Task-129] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/129
+2015-04-04 11:02:35	Resolving localhost... 
+2015-04-04 11:02:35	127.0.0.1
+2015-04-04 11:02:35	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:35	HTTP request sent, awaiting response... 
+2015-04-04 11:02:35	200
+2015-04-04 11:02:35	 OK
+2015-04-04 11:02:35	
+2015-04-04 11:02:35	Spawn [Task-130] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/130
+2015-04-04 11:02:35	Resolving localhost... 
+2015-04-04 11:02:35	127.0.0.1
+2015-04-04 11:02:35	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:35	HTTP request sent, awaiting response... 
+2015-04-04 11:02:35	200
+2015-04-04 11:02:35	 OK
+2015-04-04 11:02:35	
+2015-04-04 11:02:35	Spawn [Task-131] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/131
+2015-04-04 11:02:35	Resolving localhost... 
+2015-04-04 11:02:35	127.0.0.1
+2015-04-04 11:02:35	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:35	HTTP request sent, awaiting response... 
+2015-04-04 11:02:35	200
+2015-04-04 11:02:35	 OK
+2015-04-04 11:02:35	
+2015-04-04 11:02:35	Spawn [Task-132] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/132
+2015-04-04 11:02:35	Resolving localhost... 
+2015-04-04 11:02:35	127.0.0.1
+2015-04-04 11:02:35	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:36	HTTP request sent, awaiting response... 
+2015-04-04 11:02:36	200
+2015-04-04 11:02:36	 OK
+2015-04-04 11:02:36	
+2015-04-04 11:02:36	Spawn [Task-133] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/133
+2015-04-04 11:02:36	Resolving localhost... 
+2015-04-04 11:02:36	127.0.0.1
+2015-04-04 11:02:36	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:36	HTTP request sent, awaiting response... 
+2015-04-04 11:02:36	200
+2015-04-04 11:02:36	 OK
+2015-04-04 11:02:36	
+2015-04-04 11:02:36	Spawn [Task-134] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/134
+2015-04-04 11:02:36	Resolving localhost... 
+2015-04-04 11:02:36	127.0.0.1
+2015-04-04 11:02:36	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:36	HTTP request sent, awaiting response... 
+2015-04-04 11:02:36	200
+2015-04-04 11:02:36	 OK
+2015-04-04 11:02:36	
+2015-04-04 11:02:36	Spawn [Task-135] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/135
+2015-04-04 11:02:36	Resolving localhost... 
+2015-04-04 11:02:36	127.0.0.1
+2015-04-04 11:02:36	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:36	HTTP request sent, awaiting response... 
+2015-04-04 11:02:36	200
+2015-04-04 11:02:36	 OK
+2015-04-04 11:02:36	
+2015-04-04 11:02:36	Spawn [Task-136] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/136
+2015-04-04 11:02:36	Resolving localhost... 
+2015-04-04 11:02:36	127.0.0.1
+2015-04-04 11:02:36	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:36	HTTP request sent, awaiting response... 
+2015-04-04 11:02:36	200
+2015-04-04 11:02:36	 OK
+2015-04-04 11:02:36	
+2015-04-04 11:02:36	Spawn [Task-137] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/137
+2015-04-04 11:02:36	Resolving localhost... 
+2015-04-04 11:02:36	127.0.0.1
+2015-04-04 11:02:36	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:36	HTTP request sent, awaiting response... 
+2015-04-04 11:02:36	200
+2015-04-04 11:02:36	 OK
+2015-04-04 11:02:36	
+2015-04-04 11:02:36	Spawn [Task-138] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/138
+2015-04-04 11:02:36	Resolving localhost... 
+2015-04-04 11:02:36	127.0.0.1
+2015-04-04 11:02:36	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:36	HTTP request sent, awaiting response... 
+2015-04-04 11:02:36	200
+2015-04-04 11:02:36	 OK
+2015-04-04 11:02:36	
+2015-04-04 11:02:36	Spawn [Task-139] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/139
+2015-04-04 11:02:36	Resolving localhost... 
+2015-04-04 11:02:36	127.0.0.1
+2015-04-04 11:02:36	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:36	HTTP request sent, awaiting response... 
+2015-04-04 11:02:36	200
+2015-04-04 11:02:36	 OK
+2015-04-04 11:02:36	
+2015-04-04 11:02:36	Spawn [Task-140] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/140
+2015-04-04 11:02:36	Resolving localhost... 
+2015-04-04 11:02:36	127.0.0.1
+2015-04-04 11:02:36	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:36	HTTP request sent, awaiting response... 
+2015-04-04 11:02:36	200
+2015-04-04 11:02:36	 OK
+2015-04-04 11:02:36	
+2015-04-04 11:02:36	Spawn [Task-141] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/141
+2015-04-04 11:02:36	Resolving localhost... 
+2015-04-04 11:02:36	127.0.0.1
+2015-04-04 11:02:36	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:02:36	HTTP request sent, awaiting response... 
+2015-04-04 11:02:36	200
+2015-04-04 11:02:36	 OK
+2015-04-04 11:02:36	
+2015-04-04 11:03:06	Spawn [Task-109] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/109
+2015-04-04 11:03:06	Resolving localhost... 
+2015-04-04 11:03:06	127.0.0.1
+2015-04-04 11:03:06	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:06	HTTP request sent, awaiting response... 
+2015-04-04 11:03:06	200
+2015-04-04 11:03:06	 OK
+2015-04-04 11:03:06	
+2015-04-04 11:03:06	Spawn [Task-110] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/110
+2015-04-04 11:03:06	Resolving localhost... 
+2015-04-04 11:03:06	127.0.0.1
+2015-04-04 11:03:06	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:06	HTTP request sent, awaiting response... 
+2015-04-04 11:03:06	200
+2015-04-04 11:03:06	 OK
+2015-04-04 11:03:06	
+2015-04-04 11:03:06	Spawn [Task-111] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/111
+2015-04-04 11:03:06	Resolving localhost... 
+2015-04-04 11:03:06	127.0.0.1
+2015-04-04 11:03:06	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:06	HTTP request sent, awaiting response... 
+2015-04-04 11:03:06	200
+2015-04-04 11:03:06	 OK
+2015-04-04 11:03:06	
+2015-04-04 11:03:06	Spawn [Task-112] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/112
+2015-04-04 11:03:06	Resolving localhost... 
+2015-04-04 11:03:06	127.0.0.1
+2015-04-04 11:03:06	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:06	HTTP request sent, awaiting response... 
+2015-04-04 11:03:06	200
+2015-04-04 11:03:06	 OK
+2015-04-04 11:03:06	
+2015-04-04 11:03:06	Spawn [Task-113] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/113
+2015-04-04 11:03:06	Resolving localhost... 
+2015-04-04 11:03:06	127.0.0.1
+2015-04-04 11:03:06	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:06	HTTP request sent, awaiting response... 
+2015-04-04 11:03:06	200
+2015-04-04 11:03:06	 OK
+2015-04-04 11:03:06	
+2015-04-04 11:03:06	Spawn [Task-114] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/114
+2015-04-04 11:03:06	Resolving localhost... 
+2015-04-04 11:03:06	127.0.0.1
+2015-04-04 11:03:06	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:06	HTTP request sent, awaiting response... 
+2015-04-04 11:03:06	200
+2015-04-04 11:03:06	 OK
+2015-04-04 11:03:06	
+2015-04-04 11:03:06	Spawn [Task-115] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/115
+2015-04-04 11:03:06	Resolving localhost... 
+2015-04-04 11:03:06	127.0.0.1
+2015-04-04 11:03:06	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:06	HTTP request sent, awaiting response... 
+2015-04-04 11:03:06	200
+2015-04-04 11:03:06	 OK
+2015-04-04 11:03:06	
+2015-04-04 11:03:06	Spawn [Task-116] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/116
+2015-04-04 11:03:06	Resolving localhost... 
+2015-04-04 11:03:06	127.0.0.1
+2015-04-04 11:03:06	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:06	HTTP request sent, awaiting response... 
+2015-04-04 11:03:06	200
+2015-04-04 11:03:06	 OK
+2015-04-04 11:03:06	
+2015-04-04 11:03:06	Spawn [Task-117] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/117
+2015-04-04 11:03:06	Resolving localhost... 
+2015-04-04 11:03:06	127.0.0.1
+2015-04-04 11:03:06	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:06	HTTP request sent, awaiting response... 
+2015-04-04 11:03:06	200
+2015-04-04 11:03:06	 OK
+2015-04-04 11:03:06	
+2015-04-04 11:03:06	Spawn [Task-118] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/118
+2015-04-04 11:03:06	Resolving localhost... 
+2015-04-04 11:03:06	127.0.0.1
+2015-04-04 11:03:06	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:06	HTTP request sent, awaiting response... 
+2015-04-04 11:03:06	200
+2015-04-04 11:03:06	 OK
+2015-04-04 11:03:06	
+2015-04-04 11:03:06	Spawn [Task-119] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/119
+2015-04-04 11:03:06	Resolving localhost... 
+2015-04-04 11:03:06	127.0.0.1
+2015-04-04 11:03:06	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:06	HTTP request sent, awaiting response... 
+2015-04-04 11:03:06	200
+2015-04-04 11:03:06	 OK
+2015-04-04 11:03:06	
+2015-04-04 11:03:06	Spawn [Task-120] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/120
+2015-04-04 11:03:06	Resolving localhost... 
+2015-04-04 11:03:06	127.0.0.1
+2015-04-04 11:03:06	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:06	HTTP request sent, awaiting response... 
+2015-04-04 11:03:06	200
+2015-04-04 11:03:06	 OK
+2015-04-04 11:03:06	
+2015-04-04 11:03:06	Spawn [Task-121] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/121
+2015-04-04 11:03:06	Resolving localhost... 
+2015-04-04 11:03:06	127.0.0.1
+2015-04-04 11:03:06	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:06	HTTP request sent, awaiting response... 
+2015-04-04 11:03:06	200
+2015-04-04 11:03:06	 OK
+2015-04-04 11:03:06	
+2015-04-04 11:03:06	Spawn [Task-122] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/122
+2015-04-04 11:03:06	Resolving localhost... 
+2015-04-04 11:03:06	127.0.0.1
+2015-04-04 11:03:06	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:06	HTTP request sent, awaiting response... 
+2015-04-04 11:03:06	200
+2015-04-04 11:03:06	 OK
+2015-04-04 11:03:06	
+2015-04-04 11:03:06	Spawn [Task-123] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/123
+2015-04-04 11:03:06	Resolving localhost... 
+2015-04-04 11:03:06	127.0.0.1
+2015-04-04 11:03:06	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:06	HTTP request sent, awaiting response... 
+2015-04-04 11:03:06	200
+2015-04-04 11:03:06	 OK
+2015-04-04 11:03:06	
+2015-04-04 11:03:06	Spawn [Task-124] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/124
+2015-04-04 11:03:06	Resolving localhost... 
+2015-04-04 11:03:06	127.0.0.1
+2015-04-04 11:03:06	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:06	HTTP request sent, awaiting response... 
+2015-04-04 11:03:06	200
+2015-04-04 11:03:06	 OK
+2015-04-04 11:03:06	
+2015-04-04 11:03:06	Spawn [Task-125] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/125
+2015-04-04 11:03:06	Resolving localhost... 
+2015-04-04 11:03:06	127.0.0.1
+2015-04-04 11:03:06	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:06	HTTP request sent, awaiting response... 
+2015-04-04 11:03:06	200
+2015-04-04 11:03:06	 OK
+2015-04-04 11:03:06	
+2015-04-04 11:03:06	Spawn [Task-126] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/126
+2015-04-04 11:03:06	Resolving localhost... 
+2015-04-04 11:03:06	127.0.0.1
+2015-04-04 11:03:06	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:06	HTTP request sent, awaiting response... 
+2015-04-04 11:03:06	200
+2015-04-04 11:03:06	 OK
+2015-04-04 11:03:06	
+2015-04-04 11:03:06	Spawn [Task-127] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/127
+2015-04-04 11:03:06	Resolving localhost... 
+2015-04-04 11:03:06	127.0.0.1
+2015-04-04 11:03:06	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:06	HTTP request sent, awaiting response... 
+2015-04-04 11:03:06	200
+2015-04-04 11:03:06	 OK
+2015-04-04 11:03:06	
+2015-04-04 11:03:06	Spawn [Task-128] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/128
+2015-04-04 11:03:06	Resolving localhost... 
+2015-04-04 11:03:06	127.0.0.1
+2015-04-04 11:03:06	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:06	HTTP request sent, awaiting response... 
+2015-04-04 11:03:06	200
+2015-04-04 11:03:06	 OK
+2015-04-04 11:03:06	
+2015-04-04 11:03:06	Spawn [Task-129] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/129
+2015-04-04 11:03:06	Resolving localhost... 
+2015-04-04 11:03:06	127.0.0.1
+2015-04-04 11:03:06	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:06	HTTP request sent, awaiting response... 
+2015-04-04 11:03:07	200
+2015-04-04 11:03:07	 OK
+2015-04-04 11:03:07	
+2015-04-04 11:03:07	Spawn [Task-130] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/130
+2015-04-04 11:03:07	Resolving localhost... 
+2015-04-04 11:03:07	127.0.0.1
+2015-04-04 11:03:07	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:07	HTTP request sent, awaiting response... 
+2015-04-04 11:03:07	200
+2015-04-04 11:03:07	 OK
+2015-04-04 11:03:07	
+2015-04-04 11:03:07	Spawn [Task-131] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/131
+2015-04-04 11:03:07	Resolving localhost... 
+2015-04-04 11:03:07	127.0.0.1
+2015-04-04 11:03:07	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:07	HTTP request sent, awaiting response... 
+2015-04-04 11:03:07	200
+2015-04-04 11:03:07	 OK
+2015-04-04 11:03:07	
+2015-04-04 11:03:07	Spawn [Task-132] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/132
+2015-04-04 11:03:07	Resolving localhost... 
+2015-04-04 11:03:07	127.0.0.1
+2015-04-04 11:03:07	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:07	HTTP request sent, awaiting response... 
+2015-04-04 11:03:07	200
+2015-04-04 11:03:07	 OK
+2015-04-04 11:03:07	
+2015-04-04 11:03:07	Spawn [Task-133] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/133
+2015-04-04 11:03:07	Resolving localhost... 
+2015-04-04 11:03:07	127.0.0.1
+2015-04-04 11:03:07	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:07	HTTP request sent, awaiting response... 
+2015-04-04 11:03:07	200
+2015-04-04 11:03:07	 OK
+2015-04-04 11:03:07	
+2015-04-04 11:03:07	Spawn [Task-134] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/134
+2015-04-04 11:03:07	Resolving localhost... 
+2015-04-04 11:03:07	127.0.0.1
+2015-04-04 11:03:07	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:07	HTTP request sent, awaiting response... 
+2015-04-04 11:03:07	200
+2015-04-04 11:03:07	 OK
+2015-04-04 11:03:07	
+2015-04-04 11:03:07	Spawn [Task-135] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/135
+2015-04-04 11:03:07	Resolving localhost... 
+2015-04-04 11:03:07	127.0.0.1
+2015-04-04 11:03:07	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:07	HTTP request sent, awaiting response... 
+2015-04-04 11:03:07	200
+2015-04-04 11:03:07	 OK
+2015-04-04 11:03:07	
+2015-04-04 11:03:07	Spawn [Task-136] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/136
+2015-04-04 11:03:07	Resolving localhost... 
+2015-04-04 11:03:07	127.0.0.1
+2015-04-04 11:03:07	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:07	HTTP request sent, awaiting response... 
+2015-04-04 11:03:07	200
+2015-04-04 11:03:07	 OK
+2015-04-04 11:03:07	
+2015-04-04 11:03:07	Spawn [Task-137] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/137
+2015-04-04 11:03:07	Resolving localhost... 
+2015-04-04 11:03:07	127.0.0.1
+2015-04-04 11:03:07	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:07	HTTP request sent, awaiting response... 
+2015-04-04 11:03:07	200
+2015-04-04 11:03:07	 OK
+2015-04-04 11:03:07	
+2015-04-04 11:03:07	Spawn [Task-138] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/138
+2015-04-04 11:03:07	Resolving localhost... 
+2015-04-04 11:03:07	127.0.0.1
+2015-04-04 11:03:07	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:07	HTTP request sent, awaiting response... 
+2015-04-04 11:03:07	200
+2015-04-04 11:03:07	 OK
+2015-04-04 11:03:07	
+2015-04-04 11:03:07	Spawn [Task-139] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/139
+2015-04-04 11:03:07	Resolving localhost... 
+2015-04-04 11:03:07	127.0.0.1
+2015-04-04 11:03:07	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:07	HTTP request sent, awaiting response... 
+2015-04-04 11:03:07	200
+2015-04-04 11:03:07	 OK
+2015-04-04 11:03:07	
+2015-04-04 11:03:07	Spawn [Task-140] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/140
+2015-04-04 11:03:07	Resolving localhost... 
+2015-04-04 11:03:07	127.0.0.1
+2015-04-04 11:03:07	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:07	HTTP request sent, awaiting response... 
+2015-04-04 11:03:07	200
+2015-04-04 11:03:07	 OK
+2015-04-04 11:03:07	
+2015-04-04 11:03:07	Spawn [Task-141] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/141
+2015-04-04 11:03:07	Resolving localhost... 
+2015-04-04 11:03:07	127.0.0.1
+2015-04-04 11:03:07	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:07	HTTP request sent, awaiting response... 
+2015-04-04 11:03:07	200
+2015-04-04 11:03:07	 OK
+2015-04-04 11:03:07	
+2015-04-04 11:03:37	Spawn [Task-109] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/109
+2015-04-04 11:03:37	Resolving localhost... 
+2015-04-04 11:03:37	127.0.0.1
+2015-04-04 11:03:37	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:37	HTTP request sent, awaiting response... 
+2015-04-04 11:03:37	200
+2015-04-04 11:03:37	 OK
+2015-04-04 11:03:37	
+2015-04-04 11:03:37	Spawn [Task-110] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/110
+2015-04-04 11:03:37	Resolving localhost... 
+2015-04-04 11:03:37	127.0.0.1
+2015-04-04 11:03:37	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:37	HTTP request sent, awaiting response... 
+2015-04-04 11:03:37	200
+2015-04-04 11:03:37	 OK
+2015-04-04 11:03:37	
+2015-04-04 11:03:37	Spawn [Task-111] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/111
+2015-04-04 11:03:37	Resolving localhost... 
+2015-04-04 11:03:37	127.0.0.1
+2015-04-04 11:03:37	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:37	HTTP request sent, awaiting response... 
+2015-04-04 11:03:37	200
+2015-04-04 11:03:37	 OK
+2015-04-04 11:03:37	
+2015-04-04 11:03:37	Spawn [Task-112] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/112
+2015-04-04 11:03:37	Resolving localhost... 
+2015-04-04 11:03:37	127.0.0.1
+2015-04-04 11:03:37	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:37	HTTP request sent, awaiting response... 
+2015-04-04 11:03:37	200
+2015-04-04 11:03:37	 OK
+2015-04-04 11:03:37	
+2015-04-04 11:03:37	Spawn [Task-113] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/113
+2015-04-04 11:03:37	Resolving localhost... 
+2015-04-04 11:03:37	127.0.0.1
+2015-04-04 11:03:37	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:37	HTTP request sent, awaiting response... 
+2015-04-04 11:03:37	200
+2015-04-04 11:03:37	 OK
+2015-04-04 11:03:37	
+2015-04-04 11:03:37	Spawn [Task-114] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/114
+2015-04-04 11:03:37	Resolving localhost... 
+2015-04-04 11:03:37	127.0.0.1
+2015-04-04 11:03:37	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:37	HTTP request sent, awaiting response... 
+2015-04-04 11:03:37	200
+2015-04-04 11:03:37	 OK
+2015-04-04 11:03:37	
+2015-04-04 11:03:37	Spawn [Task-115] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/115
+2015-04-04 11:03:37	Resolving localhost... 
+2015-04-04 11:03:37	127.0.0.1
+2015-04-04 11:03:37	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:37	HTTP request sent, awaiting response... 
+2015-04-04 11:03:37	200
+2015-04-04 11:03:37	 OK
+2015-04-04 11:03:37	
+2015-04-04 11:03:37	Spawn [Task-116] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/116
+2015-04-04 11:03:37	Resolving localhost... 
+2015-04-04 11:03:37	127.0.0.1
+2015-04-04 11:03:37	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:37	HTTP request sent, awaiting response... 
+2015-04-04 11:03:37	200
+2015-04-04 11:03:37	 OK
+2015-04-04 11:03:37	
+2015-04-04 11:03:37	Spawn [Task-117] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/117
+2015-04-04 11:03:37	Resolving localhost... 
+2015-04-04 11:03:37	127.0.0.1
+2015-04-04 11:03:37	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:37	HTTP request sent, awaiting response... 
+2015-04-04 11:03:37	200
+2015-04-04 11:03:37	 OK
+2015-04-04 11:03:37	
+2015-04-04 11:03:37	Spawn [Task-118] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/118
+2015-04-04 11:03:37	Resolving localhost... 
+2015-04-04 11:03:37	127.0.0.1
+2015-04-04 11:03:37	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:37	HTTP request sent, awaiting response... 
+2015-04-04 11:03:37	200
+2015-04-04 11:03:37	 OK
+2015-04-04 11:03:37	
+2015-04-04 11:03:37	Spawn [Task-119] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/119
+2015-04-04 11:03:37	Resolving localhost... 
+2015-04-04 11:03:37	127.0.0.1
+2015-04-04 11:03:37	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:37	HTTP request sent, awaiting response... 
+2015-04-04 11:03:37	200
+2015-04-04 11:03:37	 OK
+2015-04-04 11:03:37	
+2015-04-04 11:03:37	Spawn [Task-120] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/120
+2015-04-04 11:03:37	Resolving localhost... 
+2015-04-04 11:03:37	127.0.0.1
+2015-04-04 11:03:37	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:37	HTTP request sent, awaiting response... 
+2015-04-04 11:03:37	200
+2015-04-04 11:03:37	 OK
+2015-04-04 11:03:37	
+2015-04-04 11:03:37	Spawn [Task-121] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/121
+2015-04-04 11:03:37	Resolving localhost... 
+2015-04-04 11:03:37	127.0.0.1
+2015-04-04 11:03:37	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:37	HTTP request sent, awaiting response... 
+2015-04-04 11:03:37	200
+2015-04-04 11:03:37	 OK
+2015-04-04 11:03:37	
+2015-04-04 11:03:37	Spawn [Task-122] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/122
+2015-04-04 11:03:37	Resolving localhost... 
+2015-04-04 11:03:37	127.0.0.1
+2015-04-04 11:03:37	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:37	HTTP request sent, awaiting response... 
+2015-04-04 11:03:37	200
+2015-04-04 11:03:37	 OK
+2015-04-04 11:03:37	
+2015-04-04 11:03:37	Spawn [Task-123] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/123
+2015-04-04 11:03:37	Resolving localhost... 
+2015-04-04 11:03:37	127.0.0.1
+2015-04-04 11:03:37	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:37	HTTP request sent, awaiting response... 
+2015-04-04 11:03:37	200
+2015-04-04 11:03:37	 OK
+2015-04-04 11:03:37	
+2015-04-04 11:03:37	Spawn [Task-124] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/124
+2015-04-04 11:03:37	Resolving localhost... 
+2015-04-04 11:03:37	127.0.0.1
+2015-04-04 11:03:37	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:37	HTTP request sent, awaiting response... 
+2015-04-04 11:03:37	200
+2015-04-04 11:03:37	 OK
+2015-04-04 11:03:37	
+2015-04-04 11:03:37	Spawn [Task-125] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/125
+2015-04-04 11:03:37	Resolving localhost... 
+2015-04-04 11:03:37	127.0.0.1
+2015-04-04 11:03:37	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:37	HTTP request sent, awaiting response... 
+2015-04-04 11:03:37	200
+2015-04-04 11:03:37	 OK
+2015-04-04 11:03:37	
+2015-04-04 11:03:37	Spawn [Task-126] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/126
+2015-04-04 11:03:37	Resolving localhost... 
+2015-04-04 11:03:37	127.0.0.1
+2015-04-04 11:03:37	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:37	HTTP request sent, awaiting response... 
+2015-04-04 11:03:38	200
+2015-04-04 11:03:38	 OK
+2015-04-04 11:03:38	
+2015-04-04 11:03:38	Spawn [Task-127] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/127
+2015-04-04 11:03:38	Resolving localhost... 
+2015-04-04 11:03:38	127.0.0.1
+2015-04-04 11:03:38	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:38	HTTP request sent, awaiting response... 
+2015-04-04 11:03:38	200
+2015-04-04 11:03:38	 OK
+2015-04-04 11:03:38	
+2015-04-04 11:03:38	Spawn [Task-128] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/128
+2015-04-04 11:03:38	Resolving localhost... 
+2015-04-04 11:03:38	127.0.0.1
+2015-04-04 11:03:38	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:38	HTTP request sent, awaiting response... 
+2015-04-04 11:03:38	200
+2015-04-04 11:03:38	 OK
+2015-04-04 11:03:38	
+2015-04-04 11:03:38	Spawn [Task-129] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/129
+2015-04-04 11:03:38	Resolving localhost... 
+2015-04-04 11:03:38	127.0.0.1
+2015-04-04 11:03:38	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:38	HTTP request sent, awaiting response... 
+2015-04-04 11:03:38	200
+2015-04-04 11:03:38	 OK
+2015-04-04 11:03:38	
+2015-04-04 11:03:38	Spawn [Task-130] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/130
+2015-04-04 11:03:38	Resolving localhost... 
+2015-04-04 11:03:38	127.0.0.1
+2015-04-04 11:03:38	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:38	HTTP request sent, awaiting response... 
+2015-04-04 11:03:38	200
+2015-04-04 11:03:38	 OK
+2015-04-04 11:03:38	
+2015-04-04 11:03:38	Spawn [Task-131] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/131
+2015-04-04 11:03:38	Resolving localhost... 
+2015-04-04 11:03:38	127.0.0.1
+2015-04-04 11:03:38	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:38	HTTP request sent, awaiting response... 
+2015-04-04 11:03:38	200
+2015-04-04 11:03:38	 OK
+2015-04-04 11:03:38	
+2015-04-04 11:03:38	Spawn [Task-132] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/132
+2015-04-04 11:03:38	Resolving localhost... 
+2015-04-04 11:03:38	127.0.0.1
+2015-04-04 11:03:38	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:38	HTTP request sent, awaiting response... 
+2015-04-04 11:03:38	200
+2015-04-04 11:03:38	 OK
+2015-04-04 11:03:38	
+2015-04-04 11:03:38	Spawn [Task-133] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/133
+2015-04-04 11:03:38	Resolving localhost... 
+2015-04-04 11:03:38	127.0.0.1
+2015-04-04 11:03:38	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:38	HTTP request sent, awaiting response... 
+2015-04-04 11:03:38	200
+2015-04-04 11:03:38	 OK
+2015-04-04 11:03:38	
+2015-04-04 11:03:38	Spawn [Task-134] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/134
+2015-04-04 11:03:38	Resolving localhost... 
+2015-04-04 11:03:38	127.0.0.1
+2015-04-04 11:03:38	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:38	HTTP request sent, awaiting response... 
+2015-04-04 11:03:38	200
+2015-04-04 11:03:38	 OK
+2015-04-04 11:03:38	
+2015-04-04 11:03:38	Spawn [Task-135] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/135
+2015-04-04 11:03:38	Resolving localhost... 
+2015-04-04 11:03:38	127.0.0.1
+2015-04-04 11:03:38	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:38	HTTP request sent, awaiting response... 
+2015-04-04 11:03:38	200
+2015-04-04 11:03:38	 OK
+2015-04-04 11:03:38	
+2015-04-04 11:03:38	Spawn [Task-136] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/136
+2015-04-04 11:03:38	Resolving localhost... 
+2015-04-04 11:03:38	127.0.0.1
+2015-04-04 11:03:38	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:38	HTTP request sent, awaiting response... 
+2015-04-04 11:03:38	200
+2015-04-04 11:03:38	 OK
+2015-04-04 11:03:38	
+2015-04-04 11:03:38	Spawn [Task-137] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/137
+2015-04-04 11:03:38	Resolving localhost... 
+2015-04-04 11:03:38	127.0.0.1
+2015-04-04 11:03:38	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:38	HTTP request sent, awaiting response... 
+2015-04-04 11:03:38	200
+2015-04-04 11:03:38	 OK
+2015-04-04 11:03:38	
+2015-04-04 11:03:38	Spawn [Task-138] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/138
+2015-04-04 11:03:38	Resolving localhost... 
+2015-04-04 11:03:38	127.0.0.1
+2015-04-04 11:03:38	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:38	HTTP request sent, awaiting response... 
+2015-04-04 11:03:38	200
+2015-04-04 11:03:38	 OK
+2015-04-04 11:03:38	
+2015-04-04 11:03:38	Spawn [Task-139] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/139
+2015-04-04 11:03:38	Resolving localhost... 
+2015-04-04 11:03:38	127.0.0.1
+2015-04-04 11:03:38	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:38	HTTP request sent, awaiting response... 
+2015-04-04 11:03:38	200
+2015-04-04 11:03:38	 OK
+2015-04-04 11:03:38	
+2015-04-04 11:03:38	Spawn [Task-140] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/140
+2015-04-04 11:03:38	Resolving localhost... 
+2015-04-04 11:03:38	127.0.0.1
+2015-04-04 11:03:38	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:38	HTTP request sent, awaiting response... 
+2015-04-04 11:03:38	200
+2015-04-04 11:03:38	 OK
+2015-04-04 11:03:38	
+2015-04-04 11:03:38	Spawn [Task-141] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/141
+2015-04-04 11:03:38	Resolving localhost... 
+2015-04-04 11:03:38	127.0.0.1
+2015-04-04 11:03:38	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:03:38	HTTP request sent, awaiting response... 
+2015-04-04 11:03:38	200
+2015-04-04 11:03:38	 OK
+2015-04-04 11:03:38	
+2015-04-04 11:04:08	Spawn [Task-109] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/109
+2015-04-04 11:04:08	Resolving localhost... 
+2015-04-04 11:04:08	127.0.0.1
+2015-04-04 11:04:08	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:08	HTTP request sent, awaiting response... 
+2015-04-04 11:04:08	200
+2015-04-04 11:04:08	 OK
+2015-04-04 11:04:08	
+2015-04-04 11:04:08	Spawn [Task-110] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/110
+2015-04-04 11:04:08	Resolving localhost... 
+2015-04-04 11:04:08	127.0.0.1
+2015-04-04 11:04:08	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:08	HTTP request sent, awaiting response... 
+2015-04-04 11:04:08	200
+2015-04-04 11:04:08	 OK
+2015-04-04 11:04:08	
+2015-04-04 11:04:08	Spawn [Task-111] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/111
+2015-04-04 11:04:08	Resolving localhost... 
+2015-04-04 11:04:08	127.0.0.1
+2015-04-04 11:04:08	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:08	HTTP request sent, awaiting response... 
+2015-04-04 11:04:08	200
+2015-04-04 11:04:08	 OK
+2015-04-04 11:04:08	
+2015-04-04 11:04:08	Spawn [Task-112] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/112
+2015-04-04 11:04:08	Resolving localhost... 
+2015-04-04 11:04:08	127.0.0.1
+2015-04-04 11:04:08	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:08	HTTP request sent, awaiting response... 
+2015-04-04 11:04:08	200
+2015-04-04 11:04:08	 OK
+2015-04-04 11:04:08	
+2015-04-04 11:04:08	Spawn [Task-113] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/113
+2015-04-04 11:04:08	Resolving localhost... 
+2015-04-04 11:04:08	127.0.0.1
+2015-04-04 11:04:08	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:08	HTTP request sent, awaiting response... 
+2015-04-04 11:04:08	200
+2015-04-04 11:04:08	 OK
+2015-04-04 11:04:08	
+2015-04-04 11:04:08	Spawn [Task-114] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/114
+2015-04-04 11:04:08	Resolving localhost... 
+2015-04-04 11:04:08	127.0.0.1
+2015-04-04 11:04:08	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:08	HTTP request sent, awaiting response... 
+2015-04-04 11:04:08	200
+2015-04-04 11:04:08	 OK
+2015-04-04 11:04:08	
+2015-04-04 11:04:08	Spawn [Task-115] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/115
+2015-04-04 11:04:08	Resolving localhost... 
+2015-04-04 11:04:08	127.0.0.1
+2015-04-04 11:04:08	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:08	HTTP request sent, awaiting response... 
+2015-04-04 11:04:08	200
+2015-04-04 11:04:08	 OK
+2015-04-04 11:04:08	
+2015-04-04 11:04:08	Spawn [Task-116] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/116
+2015-04-04 11:04:08	Resolving localhost... 
+2015-04-04 11:04:08	127.0.0.1
+2015-04-04 11:04:08	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:08	HTTP request sent, awaiting response... 
+2015-04-04 11:04:08	200
+2015-04-04 11:04:08	 OK
+2015-04-04 11:04:08	
+2015-04-04 11:04:08	Spawn [Task-117] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/117
+2015-04-04 11:04:08	Resolving localhost... 
+2015-04-04 11:04:08	127.0.0.1
+2015-04-04 11:04:08	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:08	HTTP request sent, awaiting response... 
+2015-04-04 11:04:08	200
+2015-04-04 11:04:08	 OK
+2015-04-04 11:04:08	
+2015-04-04 11:04:08	Spawn [Task-118] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/118
+2015-04-04 11:04:08	Resolving localhost... 
+2015-04-04 11:04:08	127.0.0.1
+2015-04-04 11:04:08	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:08	HTTP request sent, awaiting response... 
+2015-04-04 11:04:08	200
+2015-04-04 11:04:08	 OK
+2015-04-04 11:04:08	
+2015-04-04 11:04:08	Spawn [Task-119] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/119
+2015-04-04 11:04:08	Resolving localhost... 
+2015-04-04 11:04:08	127.0.0.1
+2015-04-04 11:04:08	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:08	HTTP request sent, awaiting response... 
+2015-04-04 11:04:09	200
+2015-04-04 11:04:09	 OK
+2015-04-04 11:04:09	
+2015-04-04 11:04:09	Spawn [Task-120] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/120
+2015-04-04 11:04:09	Resolving localhost... 
+2015-04-04 11:04:09	127.0.0.1
+2015-04-04 11:04:09	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:09	HTTP request sent, awaiting response... 
+2015-04-04 11:04:09	200
+2015-04-04 11:04:09	 OK
+2015-04-04 11:04:09	
+2015-04-04 11:04:09	Spawn [Task-121] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/121
+2015-04-04 11:04:09	Resolving localhost... 
+2015-04-04 11:04:09	127.0.0.1
+2015-04-04 11:04:09	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:09	HTTP request sent, awaiting response... 
+2015-04-04 11:04:09	200
+2015-04-04 11:04:09	 OK
+2015-04-04 11:04:09	
+2015-04-04 11:04:09	Spawn [Task-122] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/122
+2015-04-04 11:04:09	Resolving localhost... 
+2015-04-04 11:04:09	127.0.0.1
+2015-04-04 11:04:09	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:09	HTTP request sent, awaiting response... 
+2015-04-04 11:04:09	200
+2015-04-04 11:04:09	 OK
+2015-04-04 11:04:09	
+2015-04-04 11:04:09	Spawn [Task-123] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/123
+2015-04-04 11:04:09	Resolving localhost... 
+2015-04-04 11:04:09	127.0.0.1
+2015-04-04 11:04:09	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:09	HTTP request sent, awaiting response... 
+2015-04-04 11:04:09	200
+2015-04-04 11:04:09	 OK
+2015-04-04 11:04:09	
+2015-04-04 11:04:09	Spawn [Task-124] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/124
+2015-04-04 11:04:09	Resolving localhost... 
+2015-04-04 11:04:09	127.0.0.1
+2015-04-04 11:04:09	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:09	HTTP request sent, awaiting response... 
+2015-04-04 11:04:09	200
+2015-04-04 11:04:09	 OK
+2015-04-04 11:04:09	
+2015-04-04 11:04:09	Spawn [Task-125] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/125
+2015-04-04 11:04:09	Resolving localhost... 
+2015-04-04 11:04:09	127.0.0.1
+2015-04-04 11:04:09	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:09	HTTP request sent, awaiting response... 
+2015-04-04 11:04:09	200
+2015-04-04 11:04:09	 OK
+2015-04-04 11:04:09	
+2015-04-04 11:04:09	Spawn [Task-126] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/126
+2015-04-04 11:04:09	Resolving localhost... 
+2015-04-04 11:04:09	127.0.0.1
+2015-04-04 11:04:09	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:09	HTTP request sent, awaiting response... 
+2015-04-04 11:04:09	200
+2015-04-04 11:04:09	 OK
+2015-04-04 11:04:09	
+2015-04-04 11:04:09	Spawn [Task-127] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/127
+2015-04-04 11:04:09	Resolving localhost... 
+2015-04-04 11:04:09	127.0.0.1
+2015-04-04 11:04:09	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:09	HTTP request sent, awaiting response... 
+2015-04-04 11:04:09	200
+2015-04-04 11:04:09	 OK
+2015-04-04 11:04:09	
+2015-04-04 11:04:09	Spawn [Task-128] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/128
+2015-04-04 11:04:09	Resolving localhost... 
+2015-04-04 11:04:09	127.0.0.1
+2015-04-04 11:04:09	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:09	HTTP request sent, awaiting response... 
+2015-04-04 11:04:09	200
+2015-04-04 11:04:09	 OK
+2015-04-04 11:04:09	
+2015-04-04 11:04:09	Spawn [Task-129] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/129
+2015-04-04 11:04:09	Resolving localhost... 
+2015-04-04 11:04:09	127.0.0.1
+2015-04-04 11:04:09	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:09	HTTP request sent, awaiting response... 
+2015-04-04 11:04:09	200
+2015-04-04 11:04:09	 OK
+2015-04-04 11:04:09	
+2015-04-04 11:04:09	Spawn [Task-130] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/130
+2015-04-04 11:04:09	Resolving localhost... 
+2015-04-04 11:04:09	127.0.0.1
+2015-04-04 11:04:09	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:09	HTTP request sent, awaiting response... 
+2015-04-04 11:04:09	200
+2015-04-04 11:04:09	 OK
+2015-04-04 11:04:09	
+2015-04-04 11:04:09	Spawn [Task-131] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/131
+2015-04-04 11:04:09	Resolving localhost... 
+2015-04-04 11:04:09	127.0.0.1
+2015-04-04 11:04:09	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:09	HTTP request sent, awaiting response... 
+2015-04-04 11:04:09	200
+2015-04-04 11:04:09	 OK
+2015-04-04 11:04:09	
+2015-04-04 11:04:09	Spawn [Task-132] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/132
+2015-04-04 11:04:09	Resolving localhost... 
+2015-04-04 11:04:09	127.0.0.1
+2015-04-04 11:04:09	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:09	HTTP request sent, awaiting response... 
+2015-04-04 11:04:09	200
+2015-04-04 11:04:09	 OK
+2015-04-04 11:04:09	
+2015-04-04 11:04:09	Spawn [Task-133] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/133
+2015-04-04 11:04:09	Resolving localhost... 
+2015-04-04 11:04:09	127.0.0.1
+2015-04-04 11:04:09	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:09	HTTP request sent, awaiting response... 
+2015-04-04 11:04:09	200
+2015-04-04 11:04:09	 OK
+2015-04-04 11:04:09	
+2015-04-04 11:04:09	Spawn [Task-134] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/134
+2015-04-04 11:04:09	Resolving localhost... 
+2015-04-04 11:04:09	127.0.0.1
+2015-04-04 11:04:09	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:09	HTTP request sent, awaiting response... 
+2015-04-04 11:04:09	200
+2015-04-04 11:04:09	 OK
+2015-04-04 11:04:09	
+2015-04-04 11:04:09	Spawn [Task-135] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/135
+2015-04-04 11:04:09	Resolving localhost... 
+2015-04-04 11:04:09	127.0.0.1
+2015-04-04 11:04:09	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:09	HTTP request sent, awaiting response... 
+2015-04-04 11:04:09	200
+2015-04-04 11:04:09	 OK
+2015-04-04 11:04:09	
+2015-04-04 11:04:09	Spawn [Task-136] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/136
+2015-04-04 11:04:09	Resolving localhost... 
+2015-04-04 11:04:09	127.0.0.1
+2015-04-04 11:04:09	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:09	HTTP request sent, awaiting response... 
+2015-04-04 11:04:09	200
+2015-04-04 11:04:09	 OK
+2015-04-04 11:04:09	
+2015-04-04 11:04:09	Spawn [Task-137] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/137
+2015-04-04 11:04:09	Resolving localhost... 
+2015-04-04 11:04:09	127.0.0.1
+2015-04-04 11:04:09	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:09	HTTP request sent, awaiting response... 
+2015-04-04 11:04:09	200
+2015-04-04 11:04:09	 OK
+2015-04-04 11:04:09	
+2015-04-04 11:04:09	Spawn [Task-138] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/138
+2015-04-04 11:04:09	Resolving localhost... 
+2015-04-04 11:04:09	127.0.0.1
+2015-04-04 11:04:09	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:09	HTTP request sent, awaiting response... 
+2015-04-04 11:04:09	200
+2015-04-04 11:04:09	 OK
+2015-04-04 11:04:09	
+2015-04-04 11:04:09	Spawn [Task-139] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/139
+2015-04-04 11:04:09	Resolving localhost... 
+2015-04-04 11:04:09	127.0.0.1
+2015-04-04 11:04:09	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:09	HTTP request sent, awaiting response... 
+2015-04-04 11:04:09	200
+2015-04-04 11:04:09	 OK
+2015-04-04 11:04:09	
+2015-04-04 11:04:09	Spawn [Task-140] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/140
+2015-04-04 11:04:09	Resolving localhost... 
+2015-04-04 11:04:09	127.0.0.1
+2015-04-04 11:04:09	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:09	HTTP request sent, awaiting response... 
+2015-04-04 11:04:09	200
+2015-04-04 11:04:09	 OK
+2015-04-04 11:04:09	
+2015-04-04 11:04:09	Spawn [Task-141] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/141
+2015-04-04 11:04:09	Resolving localhost... 
+2015-04-04 11:04:09	127.0.0.1
+2015-04-04 11:04:09	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:09	HTTP request sent, awaiting response... 
+2015-04-04 11:04:09	200
+2015-04-04 11:04:09	 OK
+2015-04-04 11:04:09	
+2015-04-04 11:04:39	Spawn [Task-109] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/109
+2015-04-04 11:04:39	Resolving localhost... 
+2015-04-04 11:04:39	127.0.0.1
+2015-04-04 11:04:39	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:39	HTTP request sent, awaiting response... 
+2015-04-04 03:04:39	<query><method>store.trade.update</method><params>Array
+(
+    [node_type] => ecos.ome
+    [from_api_v] => 2.0
+    [to_node_id] => 1123816836
+    [to_api_v] => 2.2
+)
+</params><rpc_callback><class>b2c_api_callback_none</class><method>callback</method></rpc_callback></query>
+2015-04-04 03:04:39	Resolving matrix.ecos.shopex.cn... 
+2015-04-04 03:04:40	122.144.135.142
+2015-04-04 03:04:40	Connecting to matrix.ecos.shopex.cn|122.144.135.142|:80... connected.
+2015-04-04 03:04:40	HTTP request sent, awaiting response... 
+2015-04-04 03:04:40	200
+2015-04-04 03:04:40	 OK
+2015-04-04 03:04:40	Response: {"res": "e00060", "msg_id": null, "rsp": "fail", "err_msg": "\u7f3a\u5c11\u7cfb\u7edf\u53c2\u6570:['from_node_id']", "data": ""}
+2015-04-04 11:04:40	500
+2015-04-04 11:04:40	
+2015-04-04 11:04:40	Spawn [Task-110] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/110
+2015-04-04 11:04:40	Resolving localhost... 
+2015-04-04 11:04:40	127.0.0.1
+2015-04-04 11:04:40	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:40	HTTP request sent, awaiting response... 
+2015-04-04 11:04:40	200
+2015-04-04 11:04:40	 OK
+2015-04-04 11:04:40	
+2015-04-04 11:04:40	Spawn [Task-111] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/111
+2015-04-04 11:04:40	Resolving localhost... 
+2015-04-04 11:04:40	127.0.0.1
+2015-04-04 11:04:40	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:40	HTTP request sent, awaiting response... 
+2015-04-04 11:04:40	200
+2015-04-04 11:04:40	 OK
+2015-04-04 11:04:40	
+2015-04-04 11:04:40	Spawn [Task-112] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/112
+2015-04-04 11:04:40	Resolving localhost... 
+2015-04-04 11:04:40	127.0.0.1
+2015-04-04 11:04:40	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:40	HTTP request sent, awaiting response... 
+2015-04-04 11:04:40	200
+2015-04-04 11:04:40	 OK
+2015-04-04 11:04:40	
+2015-04-04 11:04:40	Spawn [Task-113] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/113
+2015-04-04 11:04:40	Resolving localhost... 
+2015-04-04 11:04:40	127.0.0.1
+2015-04-04 11:04:40	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:40	HTTP request sent, awaiting response... 
+2015-04-04 11:04:40	200
+2015-04-04 11:04:40	 OK
+2015-04-04 11:04:40	
+2015-04-04 11:04:40	Spawn [Task-114] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/114
+2015-04-04 11:04:40	Resolving localhost... 
+2015-04-04 11:04:40	127.0.0.1
+2015-04-04 11:04:40	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:40	HTTP request sent, awaiting response... 
+2015-04-04 11:04:40	200
+2015-04-04 11:04:40	 OK
+2015-04-04 11:04:40	
+2015-04-04 11:04:40	Spawn [Task-115] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/115
+2015-04-04 11:04:40	Resolving localhost... 
+2015-04-04 11:04:40	127.0.0.1
+2015-04-04 11:04:40	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:40	HTTP request sent, awaiting response... 
+2015-04-04 11:04:40	200
+2015-04-04 11:04:40	 OK
+2015-04-04 11:04:40	
+2015-04-04 11:04:40	Spawn [Task-116] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/116
+2015-04-04 11:04:40	Resolving localhost... 
+2015-04-04 11:04:40	127.0.0.1
+2015-04-04 11:04:40	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:40	HTTP request sent, awaiting response... 
+2015-04-04 11:04:40	200
+2015-04-04 11:04:40	 OK
+2015-04-04 11:04:40	
+2015-04-04 11:04:40	Spawn [Task-117] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/117
+2015-04-04 11:04:40	Resolving localhost... 
+2015-04-04 11:04:40	127.0.0.1
+2015-04-04 11:04:40	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:40	HTTP request sent, awaiting response... 
+2015-04-04 11:04:40	200
+2015-04-04 11:04:40	 OK
+2015-04-04 11:04:40	
+2015-04-04 11:04:40	Spawn [Task-118] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/118
+2015-04-04 11:04:40	Resolving localhost... 
+2015-04-04 11:04:40	127.0.0.1
+2015-04-04 11:04:40	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:40	HTTP request sent, awaiting response... 
+2015-04-04 11:04:40	200
+2015-04-04 11:04:40	 OK
+2015-04-04 11:04:40	
+2015-04-04 11:04:40	Spawn [Task-119] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/119
+2015-04-04 11:04:40	Resolving localhost... 
+2015-04-04 11:04:40	127.0.0.1
+2015-04-04 11:04:40	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:40	HTTP request sent, awaiting response... 
+2015-04-04 11:04:40	200
+2015-04-04 11:04:40	 OK
+2015-04-04 11:04:40	
+2015-04-04 11:04:40	Spawn [Task-120] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/120
+2015-04-04 11:04:40	Resolving localhost... 
+2015-04-04 11:04:40	127.0.0.1
+2015-04-04 11:04:40	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:40	HTTP request sent, awaiting response... 
+2015-04-04 11:04:40	200
+2015-04-04 11:04:40	 OK
+2015-04-04 11:04:40	
+2015-04-04 11:04:40	Spawn [Task-121] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/121
+2015-04-04 11:04:40	Resolving localhost... 
+2015-04-04 11:04:40	127.0.0.1
+2015-04-04 11:04:40	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:40	HTTP request sent, awaiting response... 
+2015-04-04 11:04:40	200
+2015-04-04 11:04:40	 OK
+2015-04-04 11:04:40	
+2015-04-04 11:04:40	Spawn [Task-122] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/122
+2015-04-04 11:04:40	Resolving localhost... 
+2015-04-04 11:04:40	127.0.0.1
+2015-04-04 11:04:40	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:40	HTTP request sent, awaiting response... 
+2015-04-04 11:04:40	200
+2015-04-04 11:04:40	 OK
+2015-04-04 11:04:40	
+2015-04-04 11:04:40	Spawn [Task-123] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/123
+2015-04-04 11:04:40	Resolving localhost... 
+2015-04-04 11:04:40	127.0.0.1
+2015-04-04 11:04:40	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:40	HTTP request sent, awaiting response... 
+2015-04-04 11:04:40	200
+2015-04-04 11:04:40	 OK
+2015-04-04 11:04:40	
+2015-04-04 11:04:40	Spawn [Task-124] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/124
+2015-04-04 11:04:40	Resolving localhost... 
+2015-04-04 11:04:40	127.0.0.1
+2015-04-04 11:04:40	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:40	HTTP request sent, awaiting response... 
+2015-04-04 11:04:40	200
+2015-04-04 11:04:40	 OK
+2015-04-04 11:04:40	
+2015-04-04 11:04:40	Spawn [Task-125] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/125
+2015-04-04 11:04:40	Resolving localhost... 
+2015-04-04 11:04:40	127.0.0.1
+2015-04-04 11:04:40	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:40	HTTP request sent, awaiting response... 
+2015-04-04 11:04:40	200
+2015-04-04 11:04:40	 OK
+2015-04-04 11:04:40	
+2015-04-04 11:04:40	Spawn [Task-126] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/126
+2015-04-04 11:04:40	Resolving localhost... 
+2015-04-04 11:04:40	127.0.0.1
+2015-04-04 11:04:40	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:40	HTTP request sent, awaiting response... 
+2015-04-04 11:04:40	200
+2015-04-04 11:04:40	 OK
+2015-04-04 11:04:40	
+2015-04-04 11:04:40	Spawn [Task-127] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/127
+2015-04-04 11:04:40	Resolving localhost... 
+2015-04-04 11:04:40	127.0.0.1
+2015-04-04 11:04:40	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:40	HTTP request sent, awaiting response... 
+2015-04-04 11:04:40	200
+2015-04-04 11:04:40	 OK
+2015-04-04 11:04:40	
+2015-04-04 11:04:40	Spawn [Task-128] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/128
+2015-04-04 11:04:40	Resolving localhost... 
+2015-04-04 11:04:40	127.0.0.1
+2015-04-04 11:04:40	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:40	HTTP request sent, awaiting response... 
+2015-04-04 11:04:40	200
+2015-04-04 11:04:40	 OK
+2015-04-04 11:04:40	
+2015-04-04 11:04:40	Spawn [Task-129] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/129
+2015-04-04 11:04:40	Resolving localhost... 
+2015-04-04 11:04:40	127.0.0.1
+2015-04-04 11:04:40	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:40	HTTP request sent, awaiting response... 
+2015-04-04 11:04:40	200
+2015-04-04 11:04:40	 OK
+2015-04-04 11:04:40	
+2015-04-04 11:04:40	Spawn [Task-130] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/130
+2015-04-04 11:04:40	Resolving localhost... 
+2015-04-04 11:04:40	127.0.0.1
+2015-04-04 11:04:40	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:40	HTTP request sent, awaiting response... 
+2015-04-04 11:04:40	200
+2015-04-04 11:04:40	 OK
+2015-04-04 11:04:40	
+2015-04-04 11:04:40	Spawn [Task-131] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/131
+2015-04-04 11:04:40	Resolving localhost... 
+2015-04-04 11:04:40	127.0.0.1
+2015-04-04 11:04:40	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:40	HTTP request sent, awaiting response... 
+2015-04-04 11:04:40	200
+2015-04-04 11:04:40	 OK
+2015-04-04 11:04:40	
+2015-04-04 11:04:40	Spawn [Task-132] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/132
+2015-04-04 11:04:40	Resolving localhost... 
+2015-04-04 11:04:40	127.0.0.1
+2015-04-04 11:04:40	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:40	HTTP request sent, awaiting response... 
+2015-04-04 11:04:40	200
+2015-04-04 11:04:40	 OK
+2015-04-04 11:04:40	
+2015-04-04 11:04:40	Spawn [Task-133] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/133
+2015-04-04 11:04:40	Resolving localhost... 
+2015-04-04 11:04:40	127.0.0.1
+2015-04-04 11:04:40	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:40	HTTP request sent, awaiting response... 
+2015-04-04 11:04:40	200
+2015-04-04 11:04:40	 OK
+2015-04-04 11:04:40	
+2015-04-04 11:04:40	Spawn [Task-134] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/134
+2015-04-04 11:04:40	Resolving localhost... 
+2015-04-04 11:04:40	127.0.0.1
+2015-04-04 11:04:40	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:40	HTTP request sent, awaiting response... 
+2015-04-04 11:04:40	200
+2015-04-04 11:04:40	 OK
+2015-04-04 11:04:40	
+2015-04-04 11:04:40	Spawn [Task-135] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/135
+2015-04-04 11:04:40	Resolving localhost... 
+2015-04-04 11:04:40	127.0.0.1
+2015-04-04 11:04:40	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:40	HTTP request sent, awaiting response... 
+2015-04-04 11:04:40	200
+2015-04-04 11:04:40	 OK
+2015-04-04 11:04:40	
+2015-04-04 11:04:40	Spawn [Task-136] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/136
+2015-04-04 11:04:40	Resolving localhost... 
+2015-04-04 11:04:40	127.0.0.1
+2015-04-04 11:04:40	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:40	HTTP request sent, awaiting response... 
+2015-04-04 11:04:40	200
+2015-04-04 11:04:40	 OK
+2015-04-04 11:04:40	
+2015-04-04 11:04:40	Spawn [Task-137] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/137
+2015-04-04 11:04:40	Resolving localhost... 
+2015-04-04 11:04:40	127.0.0.1
+2015-04-04 11:04:40	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:40	HTTP request sent, awaiting response... 
+2015-04-04 11:04:40	200
+2015-04-04 11:04:40	 OK
+2015-04-04 11:04:40	
+2015-04-04 11:04:40	Spawn [Task-138] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/138
+2015-04-04 11:04:40	Resolving localhost... 
+2015-04-04 11:04:40	127.0.0.1
+2015-04-04 11:04:40	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:40	HTTP request sent, awaiting response... 
+2015-04-04 11:04:40	200
+2015-04-04 11:04:40	 OK
+2015-04-04 11:04:40	
+2015-04-04 11:04:40	Spawn [Task-139] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/139
+2015-04-04 11:04:40	Resolving localhost... 
+2015-04-04 11:04:40	127.0.0.1
+2015-04-04 11:04:40	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:40	HTTP request sent, awaiting response... 
+2015-04-04 11:04:40	200
+2015-04-04 11:04:40	 OK
+2015-04-04 11:04:40	
+2015-04-04 11:04:40	Spawn [Task-140] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/140
+2015-04-04 11:04:40	Resolving localhost... 
+2015-04-04 11:04:40	127.0.0.1
+2015-04-04 11:04:40	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:40	HTTP request sent, awaiting response... 
+2015-04-04 11:04:41	200
+2015-04-04 11:04:41	 OK
+2015-04-04 11:04:41	
+2015-04-04 11:04:41	Spawn [Task-141] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/141
+2015-04-04 11:04:41	Resolving localhost... 
+2015-04-04 11:04:41	127.0.0.1
+2015-04-04 11:04:41	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:04:41	HTTP request sent, awaiting response... 
+2015-04-04 11:04:41	200
+2015-04-04 11:04:41	 OK
+2015-04-04 11:04:41	
+2015-04-04 11:05:11	Spawn [Task-109] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/109
+2015-04-04 11:05:11	Resolving localhost... 
+2015-04-04 11:05:11	127.0.0.1
+2015-04-04 11:05:11	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:05:11	HTTP request sent, awaiting response... 
+2015-04-04 11:05:11	200
+2015-04-04 11:05:11	 OK
+2015-04-04 11:05:11	
+2015-04-04 11:05:11	Spawn [Task-110] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/110
+2015-04-04 11:05:11	Resolving localhost... 
+2015-04-04 11:05:11	127.0.0.1
+2015-04-04 11:05:11	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:05:11	HTTP request sent, awaiting response... 
+2015-04-04 11:05:11	200
+2015-04-04 11:05:11	 OK
+2015-04-04 11:05:11	
+2015-04-04 11:05:11	Spawn [Task-111] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/111
+2015-04-04 11:05:11	Resolving localhost... 
+2015-04-04 11:05:11	127.0.0.1
+2015-04-04 11:05:11	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:05:11	HTTP request sent, awaiting response... 
+2015-04-04 11:05:11	200
+2015-04-04 11:05:11	 OK
+2015-04-04 11:05:11	
+2015-04-04 11:05:11	Spawn [Task-112] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/112
+2015-04-04 11:05:11	Resolving localhost... 
+2015-04-04 11:05:11	127.0.0.1
+2015-04-04 11:05:11	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:05:11	HTTP request sent, awaiting response... 
+2015-04-04 11:05:11	200
+2015-04-04 11:05:11	 OK
+2015-04-04 11:05:11	
+2015-04-04 11:05:11	Spawn [Task-113] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/113
+2015-04-04 11:05:11	Resolving localhost... 
+2015-04-04 11:05:11	127.0.0.1
+2015-04-04 11:05:11	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:05:11	HTTP request sent, awaiting response... 
+2015-04-04 11:05:11	200
+2015-04-04 11:05:11	 OK
+2015-04-04 11:05:11	
+2015-04-04 11:05:11	Spawn [Task-114] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/114
+2015-04-04 11:05:11	Resolving localhost... 
+2015-04-04 11:05:11	127.0.0.1
+2015-04-04 11:05:11	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:05:11	HTTP request sent, awaiting response... 
+2015-04-04 11:05:11	200
+2015-04-04 11:05:11	 OK
+2015-04-04 11:05:11	
+2015-04-04 11:05:11	Spawn [Task-115] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/115
+2015-04-04 11:05:11	Resolving localhost... 
+2015-04-04 11:05:11	127.0.0.1
+2015-04-04 11:05:11	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:05:11	HTTP request sent, awaiting response... 
+2015-04-04 11:05:11	200
+2015-04-04 11:05:11	 OK
+2015-04-04 11:05:11	
+2015-04-04 11:05:11	Spawn [Task-116] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/116
+2015-04-04 11:05:11	Resolving localhost... 
+2015-04-04 11:05:11	127.0.0.1
+2015-04-04 11:05:11	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:05:11	HTTP request sent, awaiting response... 
+2015-04-04 11:05:11	200
+2015-04-04 11:05:11	 OK
+2015-04-04 11:05:11	
+2015-04-04 11:05:11	Spawn [Task-117] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/117
+2015-04-04 11:05:11	Resolving localhost... 
+2015-04-04 11:05:11	127.0.0.1
+2015-04-04 11:05:11	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:05:11	HTTP request sent, awaiting response... 
+2015-04-04 11:05:11	200
+2015-04-04 11:05:11	 OK
+2015-04-04 11:05:11	
+2015-04-04 11:05:11	Spawn [Task-118] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/118
+2015-04-04 11:05:11	Resolving localhost... 
+2015-04-04 11:05:11	127.0.0.1
+2015-04-04 11:05:11	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:05:11	HTTP request sent, awaiting response... 
+2015-04-04 11:05:11	200
+2015-04-04 11:05:11	 OK
+2015-04-04 11:05:11	
+2015-04-04 11:05:11	Spawn [Task-119] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/119
+2015-04-04 11:05:11	Resolving localhost... 
+2015-04-04 11:05:11	127.0.0.1
+2015-04-04 11:05:11	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:05:11	HTTP request sent, awaiting response... 
+2015-04-04 11:05:11	200
+2015-04-04 11:05:11	 OK
+2015-04-04 11:05:11	
+2015-04-04 11:05:11	Spawn [Task-120] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/120
+2015-04-04 11:05:11	Resolving localhost... 
+2015-04-04 11:05:11	127.0.0.1
+2015-04-04 11:05:11	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:05:11	HTTP request sent, awaiting response... 
+2015-04-04 11:05:11	200
+2015-04-04 11:05:11	 OK
+2015-04-04 11:05:11	
+2015-04-04 11:05:11	Spawn [Task-121] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/121
+2015-04-04 11:05:11	Resolving localhost... 
+2015-04-04 11:05:11	127.0.0.1
+2015-04-04 11:05:11	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:05:11	HTTP request sent, awaiting response... 
+2015-04-04 11:05:11	200
+2015-04-04 11:05:11	 OK
+2015-04-04 11:05:11	
+2015-04-04 11:05:11	Spawn [Task-122] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/122
+2015-04-04 11:05:11	Resolving localhost... 
+2015-04-04 11:05:11	127.0.0.1
+2015-04-04 11:05:11	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:05:11	HTTP request sent, awaiting response... 
+2015-04-04 11:05:11	200
+2015-04-04 11:05:11	 OK
+2015-04-04 11:05:11	
+2015-04-04 11:05:11	Spawn [Task-123] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/123
+2015-04-04 11:05:11	Resolving localhost... 
+2015-04-04 11:05:11	127.0.0.1
+2015-04-04 11:05:11	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:05:11	HTTP request sent, awaiting response... 
+2015-04-04 11:05:11	200
+2015-04-04 11:05:11	 OK
+2015-04-04 11:05:11	
+2015-04-04 11:05:11	Spawn [Task-124] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/124
+2015-04-04 11:05:11	Resolving localhost... 
+2015-04-04 11:05:11	127.0.0.1
+2015-04-04 11:05:11	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:05:11	HTTP request sent, awaiting response... 
+2015-04-04 11:05:11	200
+2015-04-04 11:05:11	 OK
+2015-04-04 11:05:11	
+2015-04-04 11:05:11	Spawn [Task-125] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/125
+2015-04-04 11:05:11	Resolving localhost... 
+2015-04-04 11:05:11	127.0.0.1
+2015-04-04 11:05:11	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:05:11	HTTP request sent, awaiting response... 
+2015-04-04 11:05:11	200
+2015-04-04 11:05:11	 OK
+2015-04-04 11:05:11	
+2015-04-04 11:05:11	Spawn [Task-126] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/126
+2015-04-04 11:05:11	Resolving localhost... 
+2015-04-04 11:05:11	127.0.0.1
+2015-04-04 11:05:11	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:05:11	HTTP request sent, awaiting response... 
+2015-04-04 11:05:11	200
+2015-04-04 11:05:11	 OK
+2015-04-04 11:05:11	
+2015-04-04 11:05:11	Spawn [Task-127] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/127
+2015-04-04 11:05:11	Resolving localhost... 
+2015-04-04 11:05:11	127.0.0.1
+2015-04-04 11:05:11	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:05:11	HTTP request sent, awaiting response... 
+2015-04-04 11:05:11	200
+2015-04-04 11:05:11	 OK
+2015-04-04 11:05:11	
+2015-04-04 11:05:11	Spawn [Task-128] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/128
+2015-04-04 11:05:11	Resolving localhost... 
+2015-04-04 11:05:11	127.0.0.1
+2015-04-04 11:05:11	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:05:11	HTTP request sent, awaiting response... 
+2015-04-04 11:05:11	200
+2015-04-04 11:05:11	 OK
+2015-04-04 11:05:11	
+2015-04-04 11:05:11	Spawn [Task-129] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/129
+2015-04-04 11:05:11	Resolving localhost... 
+2015-04-04 11:05:11	127.0.0.1
+2015-04-04 11:05:11	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:05:11	HTTP request sent, awaiting response... 
+2015-04-04 11:05:11	200
+2015-04-04 11:05:11	 OK
+2015-04-04 11:05:11	
+2015-04-04 11:05:11	Spawn [Task-130] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/130
+2015-04-04 11:05:11	Resolving localhost... 
+2015-04-04 11:05:11	127.0.0.1
+2015-04-04 11:05:11	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:05:11	HTTP request sent, awaiting response... 
+2015-04-04 11:05:11	200
+2015-04-04 11:05:11	 OK
+2015-04-04 11:05:11	
+2015-04-04 11:05:11	Spawn [Task-131] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/131
+2015-04-04 11:05:11	Resolving localhost... 
+2015-04-04 11:05:11	127.0.0.1
+2015-04-04 11:05:11	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:05:11	HTTP request sent, awaiting response... 
+2015-04-04 11:05:11	200
+2015-04-04 11:05:11	 OK
+2015-04-04 11:05:11	
+2015-04-04 11:05:11	Spawn [Task-132] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/132
+2015-04-04 11:05:11	Resolving localhost... 
+2015-04-04 11:05:11	127.0.0.1
+2015-04-04 11:05:11	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:05:11	HTTP request sent, awaiting response... 
+2015-04-04 11:05:11	200
+2015-04-04 11:05:11	 OK
+2015-04-04 11:05:11	
+2015-04-04 11:05:11	Spawn [Task-133] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/133
+2015-04-04 11:05:11	Resolving localhost... 
+2015-04-04 11:05:11	127.0.0.1
+2015-04-04 11:05:11	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:05:11	HTTP request sent, awaiting response... 
+2015-04-04 11:05:11	200
+2015-04-04 11:05:11	 OK
+2015-04-04 11:05:11	
+2015-04-04 11:05:11	Spawn [Task-134] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/134
+2015-04-04 11:05:11	Resolving localhost... 
+2015-04-04 11:05:11	127.0.0.1
+2015-04-04 11:05:11	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:05:11	HTTP request sent, awaiting response... 
+2015-04-04 11:05:11	200
+2015-04-04 11:05:11	 OK
+2015-04-04 11:05:11	
+2015-04-04 11:05:11	Spawn [Task-135] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/135
+2015-04-04 11:05:11	Resolving localhost... 
+2015-04-04 11:05:11	127.0.0.1
+2015-04-04 11:05:11	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:05:11	HTTP request sent, awaiting response... 
+2015-04-04 11:05:11	200
+2015-04-04 11:05:11	 OK
+2015-04-04 11:05:11	
+2015-04-04 11:05:11	Spawn [Task-136] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/136
+2015-04-04 11:05:11	Resolving localhost... 
+2015-04-04 11:05:11	127.0.0.1
+2015-04-04 11:05:11	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:05:11	HTTP request sent, awaiting response... 
+2015-04-04 11:05:11	200
+2015-04-04 11:05:11	 OK
+2015-04-04 11:05:11	
+2015-04-04 11:05:11	Spawn [Task-137] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/137
+2015-04-04 11:05:11	Resolving localhost... 
+2015-04-04 11:05:11	127.0.0.1
+2015-04-04 11:05:11	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:05:11	HTTP request sent, awaiting response... 
+2015-04-04 11:05:11	200
+2015-04-04 11:05:11	 OK
+2015-04-04 11:05:11	
+2015-04-04 11:05:11	Spawn [Task-138] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/138
+2015-04-04 11:05:11	Resolving localhost... 
+2015-04-04 11:05:11	127.0.0.1
+2015-04-04 11:05:11	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:05:11	HTTP request sent, awaiting response... 
+2015-04-04 11:05:11	200
+2015-04-04 11:05:11	 OK
+2015-04-04 11:05:11	
+2015-04-04 11:05:11	Spawn [Task-139] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/139
+2015-04-04 11:05:11	Resolving localhost... 
+2015-04-04 11:05:11	127.0.0.1
+2015-04-04 11:05:11	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:05:11	HTTP request sent, awaiting response... 
+2015-04-04 11:05:11	200
+2015-04-04 11:05:11	 OK
+2015-04-04 11:05:11	
+2015-04-04 11:05:11	Spawn [Task-140] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/140
+2015-04-04 11:05:11	Resolving localhost... 
+2015-04-04 11:05:11	127.0.0.1
+2015-04-04 11:05:11	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:05:11	HTTP request sent, awaiting response... 
+2015-04-04 11:05:11	200
+2015-04-04 11:05:11	 OK
+2015-04-04 11:05:11	
+2015-04-04 11:05:11	Spawn [Task-141] http://localhost/quyeba/index.php/openapi/queue/worker/task_id/141
+2015-04-04 11:05:11	Resolving localhost... 
+2015-04-04 11:05:11	127.0.0.1
+2015-04-04 11:05:11	Connecting to localhost|127.0.0.1|:80... connected.
+2015-04-04 11:05:11	HTTP request sent, awaiting response... 
+2015-04-04 11:05:11	200
+2015-04-04 11:05:11	 OK
+2015-04-04 11:05:11	
+2015-04-04 11:05:12	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 11:05:13	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:04:21	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:04:21	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:05:19	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:05:19	widget cache miss => app:,theme:tnf,type:goods_show950.
+2015-04-04 20:05:19	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:05:19	widget cache miss => app:,theme:tnf,type:goods_show950.
+2015-04-04 20:05:28	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:05:28	widget cache miss => app:,theme:tnf,type:goods_show950.
+2015-04-04 20:05:29	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:05:29	widget cache miss => app:,theme:tnf,type:goods_show950.
+2015-04-04 20:05:33	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:05:33	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:05:41	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:05:42	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:05:46	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:05:47	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:05:51	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:05:51	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:05:54	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:05:55	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:06:01	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:06:01	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:08:59	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:08:59	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:09:07	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:09:08	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:09:11	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:09:54	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:09:54	widget cache miss => app:,theme:tnf,type:goods_show950.
+2015-04-04 20:09:54	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:09:55	widget cache miss => app:,theme:tnf,type:goods_show950.
+2015-04-04 20:10:20	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:10:21	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:10:26	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:10:26	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:10:37	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:10:37	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:12:55	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:12:56	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:13:11	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:13:13	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:13:13	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:16:24	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:16:24	widget cache miss => app:,theme:tnf,type:goods_show950.
+2015-04-04 20:16:25	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:16:25	widget cache miss => app:,theme:tnf,type:goods_show950.
+2015-04-04 20:16:38	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:16:39	widget cache miss => app:,theme:tnf,type:goods_show950.
+2015-04-04 20:16:39	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:16:39	widget cache miss => app:,theme:tnf,type:goods_show950.
+2015-04-04 20:16:50	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:16:51	widget cache miss => app:,theme:tnf,type:goods_show950.
+2015-04-04 20:16:51	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:16:51	widget cache miss => app:,theme:tnf,type:goods_show950.
+2015-04-04 20:16:56	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:16:57	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:17:08	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:17:09	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:17:15	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:17:16	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:17:23	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:17:24	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:17:26	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:17:27	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:17:35	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:17:35	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:17:41	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:17:49	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:17:59	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:19:02	widget cache miss => app:,theme:tnf,type:nav_goodscat.
+2015-04-04 20:19:02	widget cache miss => app:,theme:tnf,type:nav_goodscat.

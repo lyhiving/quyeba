@@ -639,3 +639,25 @@ small{font-family: SimHei;}
 .n-wechat .w-text, .n-wechat .w-text1, .n-wechat .w-text2 {width: 110px;display: inline-block;position: relative;left: -10px;}
 .n-wechat .w-text1 {top: -26px;}
 .n-wechat .w-text2 {top: -8px;}
+
+/*新加样式*/
+#input_search{
+    height: 39px;
+    left: 836px;
+    position: absolute;
+    top: 109px;
+    width: 323px;
+}
+
+#btn_search{
+    height: 39px;
+    left: 1161px;
+    opacity: 0.02;
+    position: absolute;
+    top: 109px;
+    width: 85px;
+}
+
+.avbar-wraper{
+    position: relative  ;
+}

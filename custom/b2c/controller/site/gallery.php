@@ -156,7 +156,7 @@ class b2c_ctl_site_gallery extends b2c_frontpage{
         //echo '法克';
         // wql@20150403
         //输出当前商品分类对应的模板 。
-        //echo   $this->cat_result[0]['gallery_setting']['gallery_template'] ;
+       // echo   $this->cat_result[0]['gallery_setting']['gallery_template'] ;
 
         if (empty($view))
             $view = $this->app->getConf('gallery.default_view') ? $this->app->getConf('gallery.default_view') : 'index';
@@ -656,7 +656,7 @@ class b2c_ctl_site_gallery extends b2c_frontpage{
         unset($filter['name']);
         $this->pagedata['bfilter'] = $filter;
         
-        //$this->set_tmpl('gallery');
+        $this->set_tmpl('gallery');
         
         $this->pagedata['gallery_display'] = $this->app->getConf('gallery.display.grid.colnum');
         $this->pagedata['show_cat'] = $this->app->getConf('site.cat.select');
